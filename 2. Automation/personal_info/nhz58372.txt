@@ -1,0 +1,6 @@
+name : ccvgn
+age : 72
+e-mail : gkhtjozh@needle.worm
+division : ckn
+telephone : 010-8372-3583
+sex : male

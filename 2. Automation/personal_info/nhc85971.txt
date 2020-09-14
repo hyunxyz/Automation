@@ -1,0 +1,6 @@
+name : lkspu
+age : 71
+e-mail : jakrosxm@needle.worm
+division : uhf
+telephone : 010-5971-4859
+sex : others

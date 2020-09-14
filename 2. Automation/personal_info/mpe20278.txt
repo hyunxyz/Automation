@@ -1,0 +1,6 @@
+name : inksl
+age : 78
+e-mail : smqeubnj@needle.worm
+division : tkl
+telephone : 010-0278-1202
+sex : others

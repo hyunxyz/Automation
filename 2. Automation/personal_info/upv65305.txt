@@ -1,0 +1,6 @@
+name : kwefp
+age : 78
+e-mail : xldpspuq@needle.worm
+division : len
+telephone : 010-5278-7752
+sex : male

@@ -1,0 +1,6 @@
+name : cagxn
+age : 82
+e-mail : ghunkvhg@needle.worm
+division : hey
+telephone : 010-1082-5610
+sex : others

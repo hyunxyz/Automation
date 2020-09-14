@@ -1,0 +1,6 @@
+name : oxyks
+age : 95
+e-mail : oagorhfs@needle.worm
+division : mzi
+telephone : 010-6095-4260
+sex : male

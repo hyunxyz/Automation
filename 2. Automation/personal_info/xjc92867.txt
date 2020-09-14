@@ -1,0 +1,6 @@
+name : nhmvz
+age : 42
+e-mail : srehdzgn@needle.worm
+division : rbz
+telephone : 010-2842-9028
+sex : male

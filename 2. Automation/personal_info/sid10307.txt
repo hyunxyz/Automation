@@ -1,0 +1,6 @@
+name : ajimn
+age : 07
+e-mail : sbbsbehg@needle.worm
+division : vcm
+telephone : 010-0307-1103
+sex : others

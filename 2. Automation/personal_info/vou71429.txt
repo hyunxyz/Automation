@@ -1,0 +1,6 @@
+name : gcogp
+age : 29
+e-mail : idbriubw@needle.worm
+division : kxq
+telephone : 010-1429-1714
+sex : male

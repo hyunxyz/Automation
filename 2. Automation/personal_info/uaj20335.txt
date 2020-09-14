@@ -1,0 +1,6 @@
+name : pombf
+age : 35
+e-mail : obkwfisc@needle.worm
+division : ggg
+telephone : 010-0335-6203
+sex : female

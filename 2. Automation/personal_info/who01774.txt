@@ -1,0 +1,6 @@
+name : lcpii
+age : 44
+e-mail : naxoonuo@needle.worm
+division : xxl
+telephone : 010-1744-3117
+sex : male

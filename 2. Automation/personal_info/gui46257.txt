@@ -1,0 +1,6 @@
+name : ogtfs
+age : 57
+e-mail : wvuzozul@needle.worm
+division : emv
+telephone : 010-6257-1462
+sex : male

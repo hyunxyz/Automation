@@ -1,0 +1,6 @@
+name : gmlci
+age : 04
+e-mail : lmsktdmp@needle.worm
+division : wmm
+telephone : 010-9904-9999
+sex : female

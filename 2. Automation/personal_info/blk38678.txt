@@ -1,0 +1,6 @@
+name : webax
+age : 78
+e-mail : vucslaab@needle.worm
+division : zxe
+telephone : 010-8678-2386
+sex : female

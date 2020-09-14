@@ -1,0 +1,6 @@
+name : djbix
+age : 43
+e-mail : ujkbgnnv@needle.worm
+division : rpr
+telephone : 010-3543-3935
+sex : others

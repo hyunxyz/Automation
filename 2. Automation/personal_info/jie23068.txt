@@ -1,0 +1,6 @@
+name : mspzo
+age : 57
+e-mail : lsuztjlh@needle.worm
+division : jng
+telephone : 010-0657-2406
+sex : male

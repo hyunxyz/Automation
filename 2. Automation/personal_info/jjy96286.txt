@@ -1,0 +1,6 @@
+name : xcdmh
+age : 86
+e-mail : afyswmim@needle.worm
+division : iej
+telephone : 010-6286-3962
+sex : others

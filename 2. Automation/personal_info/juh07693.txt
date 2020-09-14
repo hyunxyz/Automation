@@ -1,0 +1,6 @@
+name : vpubb
+age : 69
+e-mail : ykeadpis@needle.worm
+division : gig
+telephone : 010-7669-6176
+sex : others

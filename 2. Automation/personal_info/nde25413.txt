@@ -1,0 +1,6 @@
+name : uqowi
+age : 13
+e-mail : rteodlgt@needle.worm
+division : hir
+telephone : 010-5413-7254
+sex : others

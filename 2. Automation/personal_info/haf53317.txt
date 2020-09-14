@@ -1,0 +1,6 @@
+name : qboih
+age : 17
+e-mail : tmjqnafd@needle.worm
+division : liz
+telephone : 010-3317-.533
+sex : others

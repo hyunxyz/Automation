@@ -1,0 +1,6 @@
+name : owgwa
+age : 17
+e-mail : irfxubnv@needle.worm
+division : nvq
+telephone : 010-6417-8264
+sex : others

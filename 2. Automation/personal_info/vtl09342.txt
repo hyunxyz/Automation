@@ -1,0 +1,6 @@
+name : oxuyc
+age : 42
+e-mail : bpzjstno@needle.worm
+division : bvh
+telephone : 010-9342-2093
+sex : others

@@ -1,0 +1,6 @@
+name : uzbsb
+age : 15
+e-mail : gezkwpou@needle.worm
+division : npb
+telephone : 010-8915-6289
+sex : male

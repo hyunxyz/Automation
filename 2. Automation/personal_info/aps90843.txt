@@ -1,0 +1,6 @@
+name : idrfi
+age : 81
+e-mail : rewqtxzx@needle.worm
+division : bng
+telephone : 010-0081-9400
+sex : male

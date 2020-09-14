@@ -1,0 +1,6 @@
+name : gpyho
+age : 72
+e-mail : mvscamcd@needle.worm
+division : zcy
+telephone : 010-2972-8529
+sex : others

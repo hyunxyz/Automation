@@ -1,0 +1,6 @@
+name : reqcj
+age : 25
+e-mail : ospdaklp@needle.worm
+division : lgd
+telephone : 010-3325-3533
+sex : male

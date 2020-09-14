@@ -1,0 +1,6 @@
+name : vzdjb
+age : 06
+e-mail : cckidcjc@needle.worm
+division : kcy
+telephone : 010-2706-3327
+sex : male

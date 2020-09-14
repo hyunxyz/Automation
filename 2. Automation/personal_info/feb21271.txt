@@ -1,0 +1,6 @@
+name : wbtsi
+age : 84
+e-mail : hziyjbla@needle.worm
+division : xxp
+telephone : 010-2684-2226
+sex : male

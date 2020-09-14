@@ -1,0 +1,6 @@
+name : ahisk
+age : 78
+e-mail : mmhtltmk@needle.worm
+division : rsd
+telephone : 010-6578-0265
+sex : others

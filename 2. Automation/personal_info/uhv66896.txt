@@ -1,0 +1,6 @@
+name : ttavd
+age : 96
+e-mail : hximryxq@needle.worm
+division : cpf
+telephone : 010-6874-1768
+sex : male

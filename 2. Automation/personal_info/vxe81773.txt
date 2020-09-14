@@ -1,0 +1,6 @@
+name : klhkx
+age : 73
+e-mail : bvnhnsyl@needle.worm
+division : kyu
+telephone : 010-1773-6817
+sex : male

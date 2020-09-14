@@ -1,0 +1,6 @@
+name : qanza
+age : 95
+e-mail : oizekyjc@needle.worm
+division : oqc
+telephone : 010-5695-8356
+sex : male

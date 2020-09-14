@@ -1,0 +1,6 @@
+name : dsjai
+age : 12
+e-mail : tuqnvtxc@needle.worm
+division : fgo
+telephone : 010-9988-7099
+sex : others

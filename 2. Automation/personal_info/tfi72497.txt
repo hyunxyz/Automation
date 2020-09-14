@@ -1,0 +1,6 @@
+name : faogg
+age : 97
+e-mail : zgpqalug@needle.worm
+division : dgu
+telephone : 010-2497-7724
+sex : others

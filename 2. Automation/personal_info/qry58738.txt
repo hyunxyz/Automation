@@ -1,0 +1,6 @@
+name : verjy
+age : 13
+e-mail : urfujzck@needle.worm
+division : hlw
+telephone : 010-8713-9687
+sex : female

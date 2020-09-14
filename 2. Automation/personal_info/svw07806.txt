@@ -1,0 +1,6 @@
+name : rhbau
+age : 77
+e-mail : izrqbrjv@needle.worm
+division : jpi
+telephone : 010-7777-3177
+sex : male

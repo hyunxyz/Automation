@@ -1,0 +1,6 @@
+name : eahpe
+age : 12
+e-mail : byufgzss@needle.worm
+division : xur
+telephone : 010-7612-3676
+sex : female

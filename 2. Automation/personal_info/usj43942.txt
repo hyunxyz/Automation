@@ -1,0 +1,6 @@
+name : wryxj
+age : 42
+e-mail : egayaarc@needle.worm
+division : mfy
+telephone : 010-3942-.439
+sex : male

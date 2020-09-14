@@ -1,0 +1,6 @@
+name : fuggd
+age : 96
+e-mail : hgsobeko@needle.worm
+division : rpi
+telephone : 010-1096-5610
+sex : male

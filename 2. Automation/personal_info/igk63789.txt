@@ -1,0 +1,6 @@
+name : bcxrc
+age : 72
+e-mail : bavckiui@needle.worm
+division : zxf
+telephone : 010-8872-3888
+sex : male

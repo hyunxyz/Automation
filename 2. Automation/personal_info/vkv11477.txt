@@ -1,0 +1,6 @@
+name : hgumm
+age : 77
+e-mail : idukpodh@needle.worm
+division : wrj
+telephone : 010-1477-4114
+sex : others

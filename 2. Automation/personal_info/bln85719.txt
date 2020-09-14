@@ -1,0 +1,6 @@
+name : yntdd
+age : 92
+e-mail : rcurvxwo@needle.worm
+division : mgy
+telephone : 010-5692-0956
+sex : male

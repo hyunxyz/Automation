@@ -1,0 +1,6 @@
+name : lnvej
+age : 77
+e-mail : bbrzibid@needle.worm
+division : hdd
+telephone : 010-4577-0345
+sex : others

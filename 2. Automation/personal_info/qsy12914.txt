@@ -1,0 +1,6 @@
+name : vosrx
+age : 87
+e-mail : nwkzzbzn@needle.worm
+division : ims
+telephone : 010-2887-6228
+sex : others

@@ -1,0 +1,6 @@
+name : ssloy
+age : 17
+e-mail : rsucwfdc@needle.worm
+division : khf
+telephone : 010-7217-0072
+sex : others

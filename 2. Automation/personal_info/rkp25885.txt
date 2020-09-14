@@ -1,0 +1,6 @@
+name : cufzr
+age : 85
+e-mail : soavgjap@needle.worm
+division : isu
+telephone : 010-5885-0258
+sex : male

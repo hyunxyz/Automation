@@ -1,0 +1,6 @@
+name : ihhuv
+age : 84
+e-mail : doilxtsi@needle.worm
+division : zxb
+telephone : 010-8984-3889
+sex : male

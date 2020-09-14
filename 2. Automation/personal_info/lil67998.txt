@@ -1,0 +1,6 @@
+name : zhmag
+age : 35
+e-mail : cmndbant@needle.worm
+division : vjg
+telephone : 010-7935-7779
+sex : female

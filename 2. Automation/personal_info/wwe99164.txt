@@ -1,0 +1,6 @@
+name : tkinr
+age : 35
+e-mail : yixfkyps@needle.worm
+division : oxa
+telephone : 010-9135-8091
+sex : others

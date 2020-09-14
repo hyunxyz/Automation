@@ -1,0 +1,6 @@
+name : efabt
+age : 18
+e-mail : mfpydxyf@needle.worm
+division : sok
+telephone : 010-7991-7579
+sex : male

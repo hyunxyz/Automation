@@ -1,0 +1,6 @@
+name : icfyz
+age : 76
+e-mail : epztlexh@needle.worm
+division : rie
+telephone : 010-1376-7113
+sex : female

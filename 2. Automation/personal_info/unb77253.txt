@@ -1,0 +1,6 @@
+name : ociwl
+age : 53
+e-mail : deaznqzm@needle.worm
+division : nng
+telephone : 010-7253-.772
+sex : male

@@ -1,0 +1,6 @@
+name : foowv
+age : 07
+e-mail : opcmubbk@needle.worm
+division : aoj
+telephone : 010-5107-8351
+sex : male

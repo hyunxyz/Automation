@@ -1,0 +1,6 @@
+name : ptiny
+age : 75
+e-mail : hbefjtdp@needle.worm
+division : fcm
+telephone : 010-6275-4162
+sex : male

@@ -1,0 +1,6 @@
+name : xaucd
+age : 75
+e-mail : mguugaes@needle.worm
+division : kxf
+telephone : 010-5375-2153
+sex : male

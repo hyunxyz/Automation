@@ -1,0 +1,6 @@
+name : ivaud
+age : 12
+e-mail : ndhgkgxz@needle.worm
+division : wyt
+telephone : 010-0012-7000
+sex : others

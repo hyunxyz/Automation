@@ -1,0 +1,6 @@
+name : ehpbi
+age : 12
+e-mail : dtwfgdhe@needle.worm
+division : khl
+telephone : 010-1112-3311
+sex : others

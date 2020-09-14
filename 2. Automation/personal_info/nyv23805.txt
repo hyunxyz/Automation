@@ -1,0 +1,6 @@
+name : ufody
+age : 05
+e-mail : puhwxryb@needle.worm
+division : pwa
+telephone : 010-3805-3238
+sex : male

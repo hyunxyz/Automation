@@ -1,0 +1,6 @@
+name : yfkbs
+age : 32
+e-mail : xvqlcsud@needle.worm
+division : vel
+telephone : 010-3932-7539
+sex : male

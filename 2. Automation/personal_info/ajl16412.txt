@@ -1,0 +1,6 @@
+name : yyqhw
+age : 12
+e-mail : fhxqtyhr@needle.worm
+division : bwb
+telephone : 010-6412-8164
+sex : male

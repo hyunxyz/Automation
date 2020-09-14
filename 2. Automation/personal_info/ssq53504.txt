@@ -1,0 +1,6 @@
+name : dvzdn
+age : 82
+e-mail : eflyvnlr@needle.worm
+division : bms
+telephone : 010-3482-6634
+sex : male

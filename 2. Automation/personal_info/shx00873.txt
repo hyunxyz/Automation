@@ -1,0 +1,6 @@
+name : fupin
+age : 73
+e-mail : txrypoin@needle.worm
+division : ipi
+telephone : 010-0873-9008
+sex : female

@@ -1,0 +1,6 @@
+name : kchmm
+age : 44
+e-mail : kjkorfox@needle.worm
+division : nuj
+telephone : 010-5144-5651
+sex : male

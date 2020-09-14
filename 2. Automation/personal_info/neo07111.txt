@@ -1,0 +1,6 @@
+name : vuccr
+age : 82
+e-mail : irozjsry@needle.worm
+division : gws
+telephone : 010-7082-3170
+sex : male

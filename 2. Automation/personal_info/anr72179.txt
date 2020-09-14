@@ -1,0 +1,6 @@
+name : kduhk
+age : 79
+e-mail : qsrulcwr@needle.worm
+division : hke
+telephone : 010-2179-6721
+sex : male

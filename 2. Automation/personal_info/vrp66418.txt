@@ -1,0 +1,6 @@
+name : mjuea
+age : 88
+e-mail : fbraibem@needle.worm
+division : ubi
+telephone : 010-6388-5763
+sex : others

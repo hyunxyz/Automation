@@ -1,0 +1,6 @@
+name : tanzu
+age : 27
+e-mail : jrcvqxjc@needle.worm
+division : cwu
+telephone : 010-5727-3457
+sex : male

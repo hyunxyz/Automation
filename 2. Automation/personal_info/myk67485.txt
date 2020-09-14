@@ -1,0 +1,6 @@
+name : cpigd
+age : 18
+e-mail : gxpmnitj@needle.worm
+division : qls
+telephone : 010-4818-6848
+sex : male

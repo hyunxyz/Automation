@@ -1,0 +1,6 @@
+name : stogd
+age : 66
+e-mail : lmpaktir@needle.worm
+division : lxd
+telephone : 010-5166-7751
+sex : female

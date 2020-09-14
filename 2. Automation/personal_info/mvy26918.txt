@@ -1,0 +1,6 @@
+name : ybcdl
+age : 18
+e-mail : himfnkbw@needle.worm
+division : qqi
+telephone : 010-6918-6269
+sex : others

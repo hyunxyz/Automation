@@ -1,0 +1,6 @@
+name : nkzin
+age : 02
+e-mail : rflgnuta@needle.worm
+division : fmw
+telephone : 010-5002-8350
+sex : others

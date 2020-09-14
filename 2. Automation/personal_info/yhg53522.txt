@@ -1,0 +1,6 @@
+name : eximo
+age : 22
+e-mail : qqjqokar@needle.worm
+division : nen
+telephone : 010-3522-6535
+sex : female

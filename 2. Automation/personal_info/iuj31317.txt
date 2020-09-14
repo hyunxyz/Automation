@@ -1,0 +1,6 @@
+name : eghwo
+age : 95
+e-mail : yyilsohu@needle.worm
+division : acm
+telephone : 010-1295-7412
+sex : female

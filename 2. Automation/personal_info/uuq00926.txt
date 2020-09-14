@@ -1,0 +1,6 @@
+name : dbcny
+age : 03
+e-mail : gplthmls@needle.worm
+division : gnb
+telephone : 010-0903-4109
+sex : others

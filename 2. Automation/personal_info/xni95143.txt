@@ -1,0 +1,6 @@
+name : wxwlg
+age : 92
+e-mail : oaucwwsk@needle.worm
+division : irl
+telephone : 010-1292-0012
+sex : male

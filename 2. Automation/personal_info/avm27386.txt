@@ -1,0 +1,6 @@
+name : jspae
+age : 55
+e-mail : vmrsdtjk@needle.worm
+division : rca
+telephone : 010-7355-7373
+sex : male

@@ -1,0 +1,6 @@
+name : utpix
+age : 12
+e-mail : ddcbdvik@needle.worm
+division : gus
+telephone : 010-1112-3311
+sex : male

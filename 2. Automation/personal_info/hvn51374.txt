@@ -1,0 +1,6 @@
+name : acwuz
+age : 52
+e-mail : dlrndssm@needle.worm
+division : qkc
+telephone : 010-1352-4613
+sex : male

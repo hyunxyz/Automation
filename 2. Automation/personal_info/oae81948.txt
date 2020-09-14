@@ -1,0 +1,6 @@
+name : oshts
+age : 48
+e-mail : gkgqcxoe@needle.worm
+division : cpu
+telephone : 010-1948-9819
+sex : male

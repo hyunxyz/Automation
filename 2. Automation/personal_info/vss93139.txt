@@ -1,0 +1,6 @@
+name : dkbxs
+age : 39
+e-mail : iwarntio@needle.worm
+division : gdu
+telephone : 010-3139-7931
+sex : female

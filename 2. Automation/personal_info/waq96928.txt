@@ -1,0 +1,6 @@
+name : japtk
+age : 28
+e-mail : umzmbnor@needle.worm
+division : opi
+telephone : 010-9069-.590
+sex : others

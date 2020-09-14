@@ -1,0 +1,6 @@
+name : qgdwm
+age : 17
+e-mail : ddrdfjws@needle.worm
+division : ece
+telephone : 010-1017-8610
+sex : male

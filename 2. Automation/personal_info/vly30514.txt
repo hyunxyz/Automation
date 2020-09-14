@@ -1,0 +1,6 @@
+name : jwcns
+age : 14
+e-mail : saoadviw@needle.worm
+division : hov
+telephone : 010-0514-0305
+sex : male

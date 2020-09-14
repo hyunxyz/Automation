@@ -1,0 +1,6 @@
+name : mgbio
+age : 92
+e-mail : sdhhkhnh@needle.worm
+division : xhz
+telephone : 010-9992-9699
+sex : male

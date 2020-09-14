@@ -1,0 +1,6 @@
+name : paipz
+age : 93
+e-mail : mzemksdt@needle.worm
+division : jxs
+telephone : 010-6193-3861
+sex : others

@@ -1,0 +1,6 @@
+name : tcxhn
+age : 09
+e-mail : inwvkuyk@needle.worm
+division : ftg
+telephone : 010-8609-5286
+sex : male

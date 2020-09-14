@@ -1,0 +1,6 @@
+name : daljf
+age : 78
+e-mail : vlcayacr@needle.worm
+division : gbg
+telephone : 010-2678-9626
+sex : others

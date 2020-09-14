@@ -1,0 +1,6 @@
+name : hlmaj
+age : 74
+e-mail : vscwkwft@needle.worm
+division : kvk
+telephone : 010-4874-9248
+sex : male

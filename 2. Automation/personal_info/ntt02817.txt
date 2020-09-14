@@ -1,0 +1,6 @@
+name : nggqu
+age : 77
+e-mail : jzptyblo@needle.worm
+division : zsr
+telephone : 010-1277-3712
+sex : others

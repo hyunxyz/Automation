@@ -1,0 +1,6 @@
+name : yrurx
+age : 72
+e-mail : kpcudagp@needle.worm
+division : fsp
+telephone : 010-2272-8522
+sex : female

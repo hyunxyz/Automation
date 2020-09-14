@@ -1,0 +1,6 @@
+name : tfuko
+age : 93
+e-mail : nzsirmpe@needle.worm
+division : xyk
+telephone : 010-5693-6156
+sex : others

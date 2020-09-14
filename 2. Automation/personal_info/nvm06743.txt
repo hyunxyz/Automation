@@ -1,0 +1,6 @@
+name : iugor
+age : 23
+e-mail : xeqcdajy@needle.worm
+division : ryg
+telephone : 010-6723-7167
+sex : male

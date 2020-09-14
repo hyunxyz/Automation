@@ -1,0 +1,6 @@
+name : gjrmg
+age : 27
+e-mail : loxopfbn@needle.worm
+division : pos
+telephone : 010-7027-8570
+sex : female

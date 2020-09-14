@@ -1,0 +1,6 @@
+name : kujno
+age : 11
+e-mail : uynvggln@needle.worm
+division : ctv
+telephone : 010-0711-9607
+sex : male

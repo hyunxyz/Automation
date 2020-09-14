@@ -1,0 +1,6 @@
+name : absul
+age : 25
+e-mail : hsdlfrwa@needle.worm
+division : kmr
+telephone : 010-7425-1874
+sex : male

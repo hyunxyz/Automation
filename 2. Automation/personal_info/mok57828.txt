@@ -1,0 +1,6 @@
+name : wijdg
+age : 28
+e-mail : hybpckgg@needle.worm
+division : trf
+telephone : 010-7828-5578
+sex : male

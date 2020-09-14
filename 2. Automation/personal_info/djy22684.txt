@@ -1,0 +1,6 @@
+name : vszyb
+age : 57
+e-mail : kgsucboj@needle.worm
+division : dhy
+telephone : 010-2657-2326
+sex : male

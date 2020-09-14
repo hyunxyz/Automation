@@ -1,0 +1,6 @@
+name : wuixh
+age : 75
+e-mail : rltdpnrs@needle.worm
+division : dpu
+telephone : 010-1475-1514
+sex : female

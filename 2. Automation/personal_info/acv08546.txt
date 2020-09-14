@@ -1,0 +1,6 @@
+name : mehny
+age : 33
+e-mail : efmruntz@needle.worm
+division : wyy
+telephone : 010-8533-5185
+sex : male

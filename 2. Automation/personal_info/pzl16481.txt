@@ -1,0 +1,6 @@
+name : ojqyt
+age : 88
+e-mail : obdyfmzp@needle.worm
+division : ndb
+telephone : 010-4788-1747
+sex : male

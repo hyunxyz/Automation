@@ -1,0 +1,6 @@
+name : mweor
+age : 17
+e-mail : wfyyykzm@needle.worm
+division : yxf
+telephone : 010-0417-0704
+sex : male

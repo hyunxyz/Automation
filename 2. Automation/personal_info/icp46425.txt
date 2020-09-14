@@ -1,0 +1,6 @@
+name : clflc
+age : 25
+e-mail : urwsybhz@needle.worm
+division : mti
+telephone : 010-6425-3464
+sex : male

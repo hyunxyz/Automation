@@ -1,0 +1,6 @@
+name : wskdt
+age : 45
+e-mail : lnrxikal@needle.worm
+division : cen
+telephone : 010-0445-5804
+sex : female

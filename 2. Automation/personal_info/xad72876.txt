@@ -1,0 +1,6 @@
+name : ycean
+age : 76
+e-mail : mnjvetaw@needle.worm
+division : auq
+telephone : 010-2852-6828
+sex : others

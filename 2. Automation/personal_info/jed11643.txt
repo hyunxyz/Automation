@@ -1,0 +1,6 @@
+name : gfwto
+age : 84
+e-mail : ruiadmoh@needle.worm
+division : xlp
+telephone : 010-1584-6315
+sex : male

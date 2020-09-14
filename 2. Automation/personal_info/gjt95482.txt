@@ -1,0 +1,6 @@
+name : vbhlp
+age : 82
+e-mail : nusyxonq@needle.worm
+division : rjb
+telephone : 010-5482-6954
+sex : female

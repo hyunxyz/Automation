@@ -1,0 +1,6 @@
+name : bzngk
+age : 62
+e-mail : hupuqyyi@needle.worm
+division : ynl
+telephone : 010-9242-2492
+sex : male

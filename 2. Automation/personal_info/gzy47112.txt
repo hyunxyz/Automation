@@ -1,0 +1,6 @@
+name : japzp
+age : 12
+e-mail : txjeyncp@needle.worm
+division : ced
+telephone : 010-7112-0471
+sex : others

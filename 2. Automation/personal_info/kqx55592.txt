@@ -1,0 +1,6 @@
+name : uyomg
+age : 92
+e-mail : qlbjimoj@needle.worm
+division : pkt
+telephone : 010-5592-6555
+sex : male

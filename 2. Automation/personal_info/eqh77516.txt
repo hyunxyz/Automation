@@ -1,0 +1,6 @@
+name : wohkd
+age : 87
+e-mail : afsqzymf@needle.worm
+division : ioe
+telephone : 010-7487-6874
+sex : male

@@ -1,0 +1,6 @@
+name : cnesi
+age : 92
+e-mail : whafvayg@needle.worm
+division : hqf
+telephone : 010-5292-2452
+sex : male

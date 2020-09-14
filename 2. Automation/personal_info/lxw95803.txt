@@ -1,0 +1,6 @@
+name : ibqwx
+age : 78
+e-mail : flbcuujo@needle.worm
+division : rcs
+telephone : 010-5778-8057
+sex : female

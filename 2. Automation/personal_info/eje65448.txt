@@ -1,0 +1,6 @@
+name : ajrql
+age : 21
+e-mail : tumobyrj@needle.worm
+division : ifv
+telephone : 010-5421-6754
+sex : male

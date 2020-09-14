@@ -1,0 +1,6 @@
+name : jxvey
+age : 18
+e-mail : xpanmtdw@needle.worm
+division : ryr
+telephone : 010-9218-7792
+sex : male

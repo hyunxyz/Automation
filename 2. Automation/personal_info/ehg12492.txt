@@ -1,0 +1,6 @@
+name : frbhb
+age : 92
+e-mail : epprnayw@needle.worm
+division : dll
+telephone : 010-2492-8124
+sex : female

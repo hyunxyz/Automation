@@ -1,0 +1,6 @@
+name : cjksn
+age : 82
+e-mail : fbxkixoi@needle.worm
+division : seb
+telephone : 010-2882-8928
+sex : female

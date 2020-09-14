@@ -1,0 +1,6 @@
+name : jkoho
+age : 28
+e-mail : oezgnuyq@needle.worm
+division : msj
+telephone : 010-6228-8962
+sex : male

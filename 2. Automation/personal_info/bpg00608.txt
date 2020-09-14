@@ -1,0 +1,6 @@
+name : aybbd
+age : 72
+e-mail : ecbphhmx@needle.worm
+division : mpn
+telephone : 010-0572-0105
+sex : others

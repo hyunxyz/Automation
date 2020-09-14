@@ -1,0 +1,6 @@
+name : nhxks
+age : 51
+e-mail : fgsyiybr@needle.worm
+division : yyl
+telephone : 010-8151-4181
+sex : male

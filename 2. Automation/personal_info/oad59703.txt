@@ -1,0 +1,6 @@
+name : relzz
+age : 02
+e-mail : xuszkyia@needle.worm
+division : yky
+telephone : 010-6902-6469
+sex : male

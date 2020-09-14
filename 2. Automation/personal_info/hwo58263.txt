@@ -1,0 +1,6 @@
+name : waoxs
+age : 63
+e-mail : zopsrusx@needle.worm
+division : rbu
+telephone : 010-8263-1668
+sex : others

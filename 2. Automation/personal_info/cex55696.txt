@@ -1,0 +1,6 @@
+name : bfchv
+age : 67
+e-mail : fdwxbjyb@needle.worm
+division : zea
+telephone : 010-6567-6365
+sex : others

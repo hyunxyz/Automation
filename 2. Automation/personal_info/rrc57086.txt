@@ -1,0 +1,6 @@
+name : siivw
+age : 86
+e-mail : owdsrdha@needle.worm
+division : psq
+telephone : 010-7086-3570
+sex : others

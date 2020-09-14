@@ -1,0 +1,6 @@
+name : uswre
+age : 94
+e-mail : osckqjmf@needle.worm
+division : zpb
+telephone : 010-3694-8436
+sex : male

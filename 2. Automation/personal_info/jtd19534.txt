@@ -1,0 +1,6 @@
+name : lejmo
+age : 07
+e-mail : esecswmh@needle.worm
+division : net
+telephone : 010-9507-9295
+sex : male

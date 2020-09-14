@@ -1,0 +1,6 @@
+name : aljuo
+age : 05
+e-mail : urvbqwbh@needle.worm
+division : bfm
+telephone : 010-6705-7067
+sex : female

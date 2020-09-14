@@ -1,0 +1,6 @@
+name : lqhrp
+age : 23
+e-mail : bitptkdi@needle.worm
+division : byc
+telephone : 010-1823-0218
+sex : male

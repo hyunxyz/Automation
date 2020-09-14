@@ -1,0 +1,6 @@
+name : nynmg
+age : 27
+e-mail : nunnujbm@needle.worm
+division : dlg
+telephone : 010-0027-4800
+sex : female

@@ -1,0 +1,6 @@
+name : rueis
+age : 55
+e-mail : cxpjvmbv@needle.worm
+division : wby
+telephone : 010-4955-6349
+sex : male

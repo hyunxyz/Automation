@@ -1,0 +1,6 @@
+name : owrae
+age : 31
+e-mail : zmypbfph@needle.worm
+division : gmo
+telephone : 010-5431-.854
+sex : male

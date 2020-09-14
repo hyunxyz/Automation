@@ -1,0 +1,6 @@
+name : soksc
+age : 52
+e-mail : wezexhea@needle.worm
+division : yck
+telephone : 010-7652-3676
+sex : others

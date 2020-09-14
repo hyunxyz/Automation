@@ -1,0 +1,6 @@
+name : bbuot
+age : 88
+e-mail : pworokql@needle.worm
+division : vpf
+telephone : 010-0988-6009
+sex : female

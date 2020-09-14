@@ -1,0 +1,6 @@
+name : bxred
+age : 52
+e-mail : ngotzztm@needle.worm
+division : gdl
+telephone : 010-4152-6741
+sex : female

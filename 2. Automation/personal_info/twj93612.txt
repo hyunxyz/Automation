@@ -1,0 +1,6 @@
+name : byqqa
+age : 12
+e-mail : pqladsxo@needle.worm
+division : cns
+telephone : 010-3612-9936
+sex : male

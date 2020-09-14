@@ -1,0 +1,6 @@
+name : ygncw
+age : 75
+e-mail : xcpyahsp@needle.worm
+division : lov
+telephone : 010-0375-5603
+sex : male

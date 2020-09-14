@@ -1,0 +1,6 @@
+name : sgiou
+age : 79
+e-mail : bscmqoms@needle.worm
+division : pvo
+telephone : 010-5479-2954
+sex : others

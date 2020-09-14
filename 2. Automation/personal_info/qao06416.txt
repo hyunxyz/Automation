@@ -1,0 +1,6 @@
+name : jnamt
+age : 16
+e-mail : urrsndjx@needle.worm
+division : dfx
+telephone : 010-6416-3064
+sex : male

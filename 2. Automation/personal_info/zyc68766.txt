@@ -1,0 +1,6 @@
+name : vsuui
+age : 39
+e-mail : jhghapsp@needle.worm
+division : uza
+telephone : 010-8739-4787
+sex : male

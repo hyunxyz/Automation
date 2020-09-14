@@ -1,0 +1,6 @@
+name : msscl
+age : 75
+e-mail : mlulkubg@needle.worm
+division : qkr
+telephone : 010-4575-5345
+sex : female

@@ -1,0 +1,6 @@
+name : bummj
+age : 24
+e-mail : uplwblcn@needle.worm
+division : eqa
+telephone : 010-4224-1342
+sex : female

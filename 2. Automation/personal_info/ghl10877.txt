@@ -1,0 +1,6 @@
+name : wwsvh
+age : 17
+e-mail : xxxclxsy@needle.worm
+division : pvz
+telephone : 010-0817-9208
+sex : male

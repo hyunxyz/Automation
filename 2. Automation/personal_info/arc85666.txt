@@ -1,0 +1,6 @@
+name : diodi
+age : 66
+e-mail : uqkjcumd@needle.worm
+division : jlm
+telephone : 010-5666-5856
+sex : male

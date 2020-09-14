@@ -1,0 +1,6 @@
+name : mydru
+age : 54
+e-mail : zzpjisra@needle.worm
+division : dcd
+telephone : 010-7054-8470
+sex : female

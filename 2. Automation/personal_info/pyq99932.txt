@@ -1,0 +1,6 @@
+name : exual
+age : 98
+e-mail : zcmciixy@needle.worm
+division : ujb
+telephone : 010-9298-0092
+sex : male

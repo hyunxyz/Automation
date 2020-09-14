@@ -1,0 +1,6 @@
+name : dbajb
+age : 04
+e-mail : accghqek@needle.worm
+division : jjg
+telephone : 010-9404-9694
+sex : male

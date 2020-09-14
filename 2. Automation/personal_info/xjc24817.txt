@@ -1,0 +1,6 @@
+name : tywxn
+age : 17
+e-mail : zjxwiafy@needle.worm
+division : uaw
+telephone : 010-4792-4347
+sex : male

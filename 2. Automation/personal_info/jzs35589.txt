@@ -1,0 +1,6 @@
+name : kurvu
+age : 89
+e-mail : pvxwtijm@needle.worm
+division : esy
+telephone : 010-5589-1355
+sex : male

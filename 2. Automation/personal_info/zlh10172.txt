@@ -1,0 +1,6 @@
+name : izylk
+age : 72
+e-mail : spninfzv@needle.worm
+division : ltt
+telephone : 010-0172-4101
+sex : male

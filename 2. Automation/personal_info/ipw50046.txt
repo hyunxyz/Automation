@@ -1,0 +1,6 @@
+name : soxyz
+age : 01
+e-mail : mobtgrne@needle.worm
+division : ggl
+telephone : 010-6001-5960
+sex : others

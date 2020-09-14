@@ -1,0 +1,6 @@
+name : svodk
+age : 03
+e-mail : owrqoain@needle.worm
+division : meg
+telephone : 010-9703-9597
+sex : male

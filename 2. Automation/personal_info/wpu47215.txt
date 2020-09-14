@@ -1,0 +1,6 @@
+name : njbmf
+age : 15
+e-mail : qwxfgfmj@needle.worm
+division : rmi
+telephone : 010-7215-0472
+sex : male

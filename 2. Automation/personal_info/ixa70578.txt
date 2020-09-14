@@ -1,0 +1,6 @@
+name : suaxn
+age : 78
+e-mail : yninolob@needle.worm
+division : iqv
+telephone : 010-0578-2705
+sex : others

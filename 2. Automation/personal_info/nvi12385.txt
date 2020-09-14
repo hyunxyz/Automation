@@ -1,0 +1,6 @@
+name : yfrui
+age : 85
+e-mail : btgbhhum@needle.worm
+division : xtq
+telephone : 010-2385-8123
+sex : male

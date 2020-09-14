@@ -1,0 +1,6 @@
+name : semnh
+age : 72
+e-mail : acnyjuaz@needle.worm
+division : sxx
+telephone : 010-6972-1369
+sex : others

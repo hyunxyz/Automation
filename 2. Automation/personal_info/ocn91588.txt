@@ -1,0 +1,6 @@
+name : ojekz
+age : 88
+e-mail : yxbghohv@needle.worm
+division : rhs
+telephone : 010-1588-8915
+sex : others

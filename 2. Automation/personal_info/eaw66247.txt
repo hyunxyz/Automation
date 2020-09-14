@@ -1,0 +1,6 @@
+name : rwyht
+age : 47
+e-mail : ildoltnx@needle.worm
+division : fml
+telephone : 010-6247-3662
+sex : male

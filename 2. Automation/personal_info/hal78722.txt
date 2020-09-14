@@ -1,0 +1,6 @@
+name : gthae
+age : 86
+e-mail : ojqlnltv@needle.worm
+division : tqr
+telephone : 010-7186-7971
+sex : male

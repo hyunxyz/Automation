@@ -1,0 +1,6 @@
+name : apxnd
+age : 15
+e-mail : cleewhzo@needle.worm
+division : vph
+telephone : 010-1715-3217
+sex : male

@@ -1,0 +1,6 @@
+name : qsako
+age : 25
+e-mail : xfraomdr@needle.worm
+division : mik
+telephone : 010-4925-9049
+sex : female

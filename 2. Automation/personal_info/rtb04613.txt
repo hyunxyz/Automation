@@ -1,0 +1,6 @@
+name : eaxgy
+age : 13
+e-mail : myjbcwlq@needle.worm
+division : fst
+telephone : 010-4613-5046
+sex : male

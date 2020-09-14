@@ -1,0 +1,6 @@
+name : iahas
+age : 38
+e-mail : jmbymcyy@needle.worm
+division : wwd
+telephone : 010-9938-7699
+sex : others

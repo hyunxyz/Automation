@@ -1,0 +1,6 @@
+name : nfvgr
+age : 75
+e-mail : bxskwgrk@needle.worm
+division : ilo
+telephone : 010-6275-8762
+sex : others

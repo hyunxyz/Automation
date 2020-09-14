@@ -1,0 +1,6 @@
+name : ssxje
+age : 66
+e-mail : qgmjyhhl@needle.worm
+division : ljc
+telephone : 010-3666-3736
+sex : male

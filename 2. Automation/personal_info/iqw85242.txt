@@ -1,0 +1,6 @@
+name : bauns
+age : 42
+e-mail : ltbsfwue@needle.worm
+division : euw
+telephone : 010-5242-7852
+sex : male

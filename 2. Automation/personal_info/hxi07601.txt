@@ -1,0 +1,6 @@
+name : nfweq
+age : 01
+e-mail : emplwszx@needle.worm
+division : jql
+telephone : 010-7601-9076
+sex : male

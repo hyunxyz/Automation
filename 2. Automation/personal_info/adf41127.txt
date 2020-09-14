@@ -1,0 +1,6 @@
+name : gtgek
+age : 11
+e-mail : teyzwtuk@needle.worm
+division : eta
+telephone : 010-5111-5551
+sex : male

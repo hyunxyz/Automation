@@ -1,0 +1,6 @@
+name : cpbud
+age : 26
+e-mail : znayodga@needle.worm
+division : utt
+telephone : 010-9426-1794
+sex : male

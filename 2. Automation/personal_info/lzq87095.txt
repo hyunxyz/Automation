@@ -1,0 +1,6 @@
+name : ldewk
+age : 95
+e-mail : pspnluzp@needle.worm
+division : nyo
+telephone : 010-7095-1870
+sex : others

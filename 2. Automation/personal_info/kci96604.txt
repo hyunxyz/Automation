@@ -1,0 +1,6 @@
+name : dyjaj
+age : 72
+e-mail : hjdvujru@needle.worm
+division : wal
+telephone : 010-6572-5065
+sex : others

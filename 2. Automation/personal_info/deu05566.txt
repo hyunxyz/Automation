@@ -1,0 +1,6 @@
+name : ftgus
+age : 66
+e-mail : gcmgzovt@needle.worm
+division : jqu
+telephone : 010-5566-4055
+sex : others

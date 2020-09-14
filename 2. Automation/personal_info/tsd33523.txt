@@ -1,0 +1,6 @@
+name : ygack
+age : 23
+e-mail : kmzivwfi@needle.worm
+division : btr
+telephone : 010-3523-4335
+sex : male

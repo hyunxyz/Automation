@@ -1,0 +1,6 @@
+name : tyugz
+age : 25
+e-mail : psacqdmc@needle.worm
+division : boj
+telephone : 010-6425-3464
+sex : others

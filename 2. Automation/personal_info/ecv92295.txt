@@ -1,0 +1,6 @@
+name : ikwtc
+age : 95
+e-mail : dbggznus@needle.worm
+division : atf
+telephone : 010-2295-8922
+sex : female

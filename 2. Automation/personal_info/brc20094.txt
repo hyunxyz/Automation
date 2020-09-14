@@ -1,0 +1,6 @@
+name : sybqq
+age : 94
+e-mail : cowswedv@needle.worm
+division : tia
+telephone : 010-0094-7200
+sex : female

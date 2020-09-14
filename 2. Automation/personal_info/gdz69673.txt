@@ -1,0 +1,6 @@
+name : izlsb
+age : 73
+e-mail : hasumfly@needle.worm
+division : dvp
+telephone : 010-9673-8696
+sex : male

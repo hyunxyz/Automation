@@ -1,0 +1,6 @@
+name : ifuol
+age : 13
+e-mail : mtiamurp@needle.worm
+division : inl
+telephone : 010-5213-3952
+sex : female

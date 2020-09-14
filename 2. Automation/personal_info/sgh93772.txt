@@ -1,0 +1,6 @@
+name : zhrop
+age : 72
+e-mail : jgenyrgz@needle.worm
+division : qfp
+telephone : 010-3772-2937
+sex : others

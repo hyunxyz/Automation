@@ -1,0 +1,6 @@
+name : itlai
+age : 04
+e-mail : qmqgyrsc@needle.worm
+division : cjl
+telephone : 010-6604-4966
+sex : male

@@ -1,0 +1,6 @@
+name : tnjkt
+age : 88
+e-mail : zruhydnu@needle.worm
+division : tss
+telephone : 010-1588-8915
+sex : female

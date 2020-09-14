@@ -1,0 +1,6 @@
+name : mdoes
+age : 72
+e-mail : acgwjocq@needle.worm
+division : zgd
+telephone : 010-0372-6103
+sex : others

@@ -1,0 +1,6 @@
+name : fxaim
+age : 84
+e-mail : ilwnhlfz@needle.worm
+division : qru
+telephone : 010-0184-4201
+sex : male

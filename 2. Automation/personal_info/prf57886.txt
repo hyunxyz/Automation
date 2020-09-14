@@ -1,0 +1,6 @@
+name : tkyyy
+age : 86
+e-mail : zsyimysm@needle.worm
+division : iut
+telephone : 010-7886-7578
+sex : male

@@ -1,0 +1,6 @@
+name : dksgi
+age : 51
+e-mail : rsdkmomg@needle.worm
+division : bee
+telephone : 010-7351-2173
+sex : others

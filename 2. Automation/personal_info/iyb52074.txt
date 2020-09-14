@@ -1,0 +1,6 @@
+name : ibnng
+age : 74
+e-mail : tsidornm@needle.worm
+division : qfg
+telephone : 010-2074-4520
+sex : male

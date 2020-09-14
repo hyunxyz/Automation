@@ -1,0 +1,6 @@
+name : yzunk
+age : 74
+e-mail : oybolikw@needle.worm
+division : zsc
+telephone : 010-8574-0185
+sex : others

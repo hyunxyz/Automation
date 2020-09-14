@@ -1,0 +1,6 @@
+name : liscd
+age : 48
+e-mail : hbdnolht@needle.worm
+division : spz
+telephone : 010-6744-1967
+sex : male

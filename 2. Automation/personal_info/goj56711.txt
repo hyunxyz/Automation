@@ -1,0 +1,6 @@
+name : knrbe
+age : 08
+e-mail : uoxaylcz@needle.worm
+division : gdl
+telephone : 010-7708-9577
+sex : male

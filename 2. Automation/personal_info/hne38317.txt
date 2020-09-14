@@ -1,0 +1,6 @@
+name : awwyd
+age : 97
+e-mail : csrgcrhd@needle.worm
+division : ivp
+telephone : 010-8297-6482
+sex : female

@@ -1,0 +1,6 @@
+name : ntspb
+age : 54
+e-mail : ntxufame@needle.worm
+division : qth
+telephone : 010-8654-2486
+sex : male

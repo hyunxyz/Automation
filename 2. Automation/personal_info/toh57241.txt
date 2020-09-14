@@ -1,0 +1,6 @@
+name : afnng
+age : 41
+e-mail : hbosenna@needle.worm
+division : ned
+telephone : 010-7241-2572
+sex : female

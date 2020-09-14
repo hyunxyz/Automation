@@ -1,0 +1,6 @@
+name : anxkn
+age : 12
+e-mail : bybdlaou@needle.worm
+division : yen
+telephone : 010-6006-7160
+sex : male

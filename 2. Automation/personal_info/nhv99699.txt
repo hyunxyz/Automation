@@ -1,0 +1,6 @@
+name : gghgw
+age : 99
+e-mail : dfwsktin@needle.worm
+division : hnz
+telephone : 010-9699-5996
+sex : male

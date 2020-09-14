@@ -1,0 +1,6 @@
+name : cyiyo
+age : 37
+e-mail : bfquvtph@needle.worm
+division : jsx
+telephone : 010-5037-8350
+sex : male

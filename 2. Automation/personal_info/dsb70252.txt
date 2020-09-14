@@ -1,0 +1,6 @@
+name : pkorf
+age : 52
+e-mail : esvjlrow@needle.worm
+division : gzb
+telephone : 010-0252-8702
+sex : male

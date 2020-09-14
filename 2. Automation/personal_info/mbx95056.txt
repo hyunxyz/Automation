@@ -1,0 +1,6 @@
+name : ekdsh
+age : 36
+e-mail : njemzhrm@needle.worm
+division : mxu
+telephone : 010-5036-6050
+sex : others

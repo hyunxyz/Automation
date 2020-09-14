@@ -1,0 +1,6 @@
+name : zyycb
+age : 63
+e-mail : phqcfpny@needle.worm
+division : gio
+telephone : 010-8663-5086
+sex : male

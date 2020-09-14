@@ -1,0 +1,6 @@
+name : ylett
+age : 46
+e-mail : zdyietlt@needle.worm
+division : ohz
+telephone : 010-6546-0365
+sex : female

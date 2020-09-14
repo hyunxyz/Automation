@@ -1,0 +1,6 @@
+name : gnkta
+age : 08
+e-mail : ejmdthld@needle.worm
+division : qwd
+telephone : 010-7908-0079
+sex : male

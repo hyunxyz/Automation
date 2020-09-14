@@ -1,0 +1,6 @@
+name : rmhna
+age : 66
+e-mail : rlkbgjyf@needle.worm
+division : enr
+telephone : 010-4366-3343
+sex : female

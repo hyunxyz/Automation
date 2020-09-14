@@ -1,0 +1,6 @@
+name : wvgho
+age : 49
+e-mail : thwbnynm@needle.worm
+division : tkn
+telephone : 010-2449-8024
+sex : female

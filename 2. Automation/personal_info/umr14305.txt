@@ -1,0 +1,6 @@
+name : bclja
+age : 05
+e-mail : smurtcdx@needle.worm
+division : wok
+telephone : 010-4305-6143
+sex : male

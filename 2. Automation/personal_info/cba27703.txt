@@ -1,0 +1,6 @@
+name : techf
+age : 73
+e-mail : nkztmano@needle.worm
+division : ezm
+telephone : 010-7673-8376
+sex : others

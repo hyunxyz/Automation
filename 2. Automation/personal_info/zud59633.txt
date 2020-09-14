@@ -1,0 +1,6 @@
+name : avduu
+age : 31
+e-mail : esrkugvo@needle.worm
+division : srb
+telephone : 010-0631-3606
+sex : male

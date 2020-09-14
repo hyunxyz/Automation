@@ -1,0 +1,6 @@
+name : stctp
+age : 04
+e-mail : ewifgzuu@needle.worm
+division : lst
+telephone : 010-5504-6455
+sex : male

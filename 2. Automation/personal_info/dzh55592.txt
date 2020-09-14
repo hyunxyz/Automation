@@ -1,0 +1,6 @@
+name : vzqna
+age : 65
+e-mail : uofnyngi@needle.worm
+division : iam
+telephone : 010-5565-6655
+sex : others

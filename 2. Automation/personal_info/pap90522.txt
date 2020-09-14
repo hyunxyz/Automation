@@ -1,0 +1,6 @@
+name : oisst
+age : 05
+e-mail : nzpbjebi@needle.worm
+division : lhq
+telephone : 010-0505-3005
+sex : male

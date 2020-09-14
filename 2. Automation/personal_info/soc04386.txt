@@ -1,0 +1,6 @@
+name : ugtbt
+age : 86
+e-mail : puxfnnsk@needle.worm
+division : miy
+telephone : 010-4386-7043
+sex : others

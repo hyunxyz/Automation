@@ -1,0 +1,6 @@
+name : tolee
+age : 78
+e-mail : qsruayyo@needle.worm
+division : nyf
+telephone : 010-1678-1216
+sex : others

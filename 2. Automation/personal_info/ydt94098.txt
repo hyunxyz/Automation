@@ -1,0 +1,6 @@
+name : acfdh
+age : 98
+e-mail : yytxcydd@needle.worm
+division : bux
+telephone : 010-4098-6940
+sex : male

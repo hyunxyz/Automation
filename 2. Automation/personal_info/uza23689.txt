@@ -1,0 +1,6 @@
+name : kdaqq
+age : 89
+e-mail : inxutmxc@needle.worm
+division : wei
+telephone : 010-3689-3236
+sex : male

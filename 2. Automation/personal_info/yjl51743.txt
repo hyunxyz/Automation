@@ -1,0 +1,6 @@
+name : skhnk
+age : 13
+e-mail : xmkigfpc@needle.worm
+division : hmr
+telephone : 010-1713-0617
+sex : others

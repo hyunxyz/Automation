@@ -1,0 +1,6 @@
+name : dkzin
+age : 82
+e-mail : ctuijuyw@needle.worm
+division : eir
+telephone : 010-7982-7179
+sex : others

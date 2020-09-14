@@ -1,0 +1,6 @@
+name : dawpa
+age : 94
+e-mail : lkrdjnif@needle.worm
+division : dju
+telephone : 010-6094-2160
+sex : others

@@ -1,0 +1,6 @@
+name : ydpim
+age : 08
+e-mail : plpxbeyn@needle.worm
+division : hoi
+telephone : 010-4308-1343
+sex : male

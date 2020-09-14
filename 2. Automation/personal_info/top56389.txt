@@ -1,0 +1,6 @@
+name : qiwuo
+age : 89
+e-mail : cqakcaeu@needle.worm
+division : wgd
+telephone : 010-6389-3563
+sex : male

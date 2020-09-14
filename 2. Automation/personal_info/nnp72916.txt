@@ -1,0 +1,6 @@
+name : lnuqc
+age : 16
+e-mail : alppnygg@needle.worm
+division : guw
+telephone : 010-2916-8729
+sex : female

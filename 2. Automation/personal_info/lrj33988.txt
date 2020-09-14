@@ -1,0 +1,6 @@
+name : svrxa
+age : 88
+e-mail : gtwcwowq@needle.worm
+division : zmy
+telephone : 010-3988-7339
+sex : male

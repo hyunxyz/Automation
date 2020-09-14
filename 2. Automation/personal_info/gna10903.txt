@@ -1,0 +1,6 @@
+name : ufgui
+age : 03
+e-mail : resubmpg@needle.worm
+division : kvl
+telephone : 010-0903-4109
+sex : female

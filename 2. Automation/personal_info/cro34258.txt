@@ -1,0 +1,6 @@
+name : kujff
+age : 24
+e-mail : ilhettmi@needle.worm
+division : ntb
+telephone : 010-4224-6442
+sex : others

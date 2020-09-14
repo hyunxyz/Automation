@@ -1,0 +1,6 @@
+name : yzyzk
+age : 74
+e-mail : dpngnreq@needle.worm
+division : osn
+telephone : 010-8174-4281
+sex : female

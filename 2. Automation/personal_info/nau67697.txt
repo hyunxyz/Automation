@@ -1,0 +1,6 @@
+name : oapnh
+age : 73
+e-mail : txpycupr@needle.worm
+division : ath
+telephone : 010-7673-8776
+sex : male

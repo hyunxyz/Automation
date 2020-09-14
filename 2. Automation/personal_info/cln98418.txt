@@ -1,0 +1,6 @@
+name : bxsof
+age : 18
+e-mail : uqhxxylt@needle.worm
+division : osz
+telephone : 010-8418-5984
+sex : male

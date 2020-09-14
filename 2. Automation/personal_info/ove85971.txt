@@ -1,0 +1,6 @@
+name : gduqa
+age : 73
+e-mail : hgyemspu@needle.worm
+division : rsp
+telephone : 010-9673-8696
+sex : female

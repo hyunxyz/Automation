@@ -1,0 +1,6 @@
+name : fzwyx
+age : 77
+e-mail : xflqosuo@needle.worm
+division : kft
+telephone : 010-4977-6049
+sex : male

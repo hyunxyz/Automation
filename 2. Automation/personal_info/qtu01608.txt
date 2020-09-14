@@ -1,0 +1,6 @@
+name : sgyge
+age : 88
+e-mail : tcdkxtxg@needle.worm
+division : nif
+telephone : 010-1588-1115
+sex : others

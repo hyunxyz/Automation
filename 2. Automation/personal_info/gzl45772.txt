@@ -1,0 +1,6 @@
+name : jafgk
+age : 75
+e-mail : gftwicdm@needle.worm
+division : dex
+telephone : 010-5575-7555
+sex : others

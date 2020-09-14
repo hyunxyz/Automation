@@ -1,0 +1,6 @@
+name : cghgt
+age : 08
+e-mail : rvnaddsc@needle.worm
+division : ttb
+telephone : 010-7808-5678
+sex : male

@@ -1,0 +1,6 @@
+name : rkwld
+age : 12
+e-mail : mdyziwgc@needle.worm
+division : spy
+telephone : 010-2012-9520
+sex : male

@@ -1,0 +1,6 @@
+name : kkxyo
+age : 63
+e-mail : lckntlad@needle.worm
+division : auf
+telephone : 010-4763-4447
+sex : male

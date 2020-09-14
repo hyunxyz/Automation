@@ -1,0 +1,6 @@
+name : hpsbp
+age : 97
+e-mail : tvprutto@needle.worm
+division : odm
+telephone : 010-6397-3263
+sex : male

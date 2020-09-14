@@ -1,0 +1,6 @@
+name : ubtzt
+age : 42
+e-mail : noyogtye@needle.worm
+division : xiy
+telephone : 010-1442-4314
+sex : male

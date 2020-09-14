@@ -1,0 +1,6 @@
+name : opbos
+age : 24
+e-mail : nyewaypx@needle.worm
+division : kjo
+telephone : 010-4624-2346
+sex : female

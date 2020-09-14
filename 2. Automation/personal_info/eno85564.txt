@@ -1,0 +1,6 @@
+name : bllge
+age : 19
+e-mail : efdlxhld@needle.worm
+division : edr
+telephone : 010-5619-8656
+sex : others

@@ -1,0 +1,6 @@
+name : bhvgt
+age : 55
+e-mail : difnqylm@needle.worm
+division : fgr
+telephone : 010-3455-6734
+sex : male

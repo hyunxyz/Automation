@@ -1,0 +1,6 @@
+name : xshec
+age : 95
+e-mail : sgvcsvjs@needle.worm
+division : zsd
+telephone : 010-7895-8878
+sex : male

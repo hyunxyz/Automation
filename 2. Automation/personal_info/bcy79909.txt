@@ -1,0 +1,6 @@
+name : sznop
+age : 91
+e-mail : mwklkvzz@needle.worm
+division : xdk
+telephone : 010-9891-7898
+sex : others

@@ -1,0 +1,6 @@
+name : dzeqz
+age : 83
+e-mail : aogugigl@needle.worm
+division : lge
+telephone : 010-0283-8602
+sex : male

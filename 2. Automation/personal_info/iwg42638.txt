@@ -1,0 +1,6 @@
+name : htcaz
+age : 38
+e-mail : ybalvsoh@needle.worm
+division : bxq
+telephone : 010-2638-2426
+sex : male

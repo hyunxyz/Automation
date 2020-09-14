@@ -1,0 +1,6 @@
+name : sckct
+age : 28
+e-mail : sgqhikhn@needle.worm
+division : tsa
+telephone : 010-7928-7379
+sex : male

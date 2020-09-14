@@ -1,0 +1,6 @@
+name : fuwop
+age : 82
+e-mail : mnpxfxwg@needle.worm
+division : ysg
+telephone : 010-3082-5930
+sex : male

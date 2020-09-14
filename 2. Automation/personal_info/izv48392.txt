@@ -1,0 +1,6 @@
+name : ungli
+age : 92
+e-mail : awnxuurv@needle.worm
+division : yzb
+telephone : 010-8392-3483
+sex : female

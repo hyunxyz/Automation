@@ -1,0 +1,6 @@
+name : kyoic
+age : 86
+e-mail : mmiraikj@needle.worm
+division : mvr
+telephone : 010-7186-0171
+sex : others

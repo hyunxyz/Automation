@@ -1,0 +1,6 @@
+name : epodi
+age : 26
+e-mail : gpnwrldw@needle.worm
+division : kiy
+telephone : 010-4226-7642
+sex : male

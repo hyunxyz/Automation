@@ -1,0 +1,6 @@
+name : pdzuf
+age : 54
+e-mail : gsjykwkz@needle.worm
+division : knu
+telephone : 010-1154-7911
+sex : male

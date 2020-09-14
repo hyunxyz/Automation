@@ -1,0 +1,6 @@
+name : fdahy
+age : 76
+e-mail : twhoscjh@needle.worm
+division : ksd
+telephone : 010-6176-1761
+sex : others

@@ -1,0 +1,6 @@
+name : wtwhy
+age : 29
+e-mail : erpgyrln@needle.worm
+division : ybz
+telephone : 010-1029-3610
+sex : male

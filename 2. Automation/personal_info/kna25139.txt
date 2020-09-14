@@ -1,0 +1,6 @@
+name : bybhu
+age : 39
+e-mail : yoyjhbey@needle.worm
+division : kwh
+telephone : 010-5139-8251
+sex : male

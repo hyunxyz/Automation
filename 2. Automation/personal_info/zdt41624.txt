@@ -1,0 +1,6 @@
+name : taxtu
+age : 24
+e-mail : gklzvobc@needle.worm
+division : zrk
+telephone : 010-1624-1416
+sex : male

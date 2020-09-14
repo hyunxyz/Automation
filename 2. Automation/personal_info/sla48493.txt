@@ -1,0 +1,6 @@
+name : mfhlb
+age : 93
+e-mail : anydwhzh@needle.worm
+division : wip
+telephone : 010-8493-0484
+sex : male

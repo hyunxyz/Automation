@@ -1,0 +1,6 @@
+name : gkvsk
+age : 16
+e-mail : ynnirnky@needle.worm
+division : ved
+telephone : 010-2016-9920
+sex : others

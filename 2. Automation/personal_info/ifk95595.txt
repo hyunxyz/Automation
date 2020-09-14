@@ -1,0 +1,6 @@
+name : nvhhr
+age : 95
+e-mail : kolyjgua@needle.worm
+division : asi
+telephone : 010-5595-3955
+sex : others

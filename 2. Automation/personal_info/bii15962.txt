@@ -1,0 +1,6 @@
+name : plsan
+age : 62
+e-mail : fgptzfas@needle.worm
+division : qyz
+telephone : 010-5962-5159
+sex : male

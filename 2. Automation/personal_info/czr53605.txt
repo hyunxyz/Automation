@@ -1,0 +1,6 @@
+name : yqojo
+age : 05
+e-mail : oytrhaak@needle.worm
+division : qok
+telephone : 010-3605-3536
+sex : others

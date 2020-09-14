@@ -1,0 +1,6 @@
+name : medku
+age : 68
+e-mail : gayiinvy@needle.worm
+division : qmv
+telephone : 010-6468-0664
+sex : female

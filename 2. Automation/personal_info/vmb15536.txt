@@ -1,0 +1,6 @@
+name : csrkv
+age : 05
+e-mail : edvixgtg@needle.worm
+division : ttg
+telephone : 010-5505-4255
+sex : male

@@ -1,0 +1,6 @@
+name : sjura
+age : 17
+e-mail : xormatuw@needle.worm
+division : obg
+telephone : 010-6417-8264
+sex : male

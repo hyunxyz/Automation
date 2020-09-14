@@ -1,0 +1,6 @@
+name : ggfuo
+age : 79
+e-mail : zazkqeam@needle.worm
+division : wam
+telephone : 010-6679-9866
+sex : others

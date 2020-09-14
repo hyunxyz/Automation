@@ -1,0 +1,6 @@
+name : hykbe
+age : 71
+e-mail : rzeamehd@needle.worm
+division : vaf
+telephone : 010-3271-3732
+sex : others

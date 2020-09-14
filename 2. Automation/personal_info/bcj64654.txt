@@ -1,0 +1,6 @@
+name : oedue
+age : 63
+e-mail : uvvrlupr@needle.worm
+division : kst
+telephone : 010-7463-7974
+sex : female

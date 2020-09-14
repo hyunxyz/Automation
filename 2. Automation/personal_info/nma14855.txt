@@ -1,0 +1,6 @@
+name : kjqlv
+age : 76
+e-mail : xenpddwh@needle.worm
+division : gmi
+telephone : 010-2476-7924
+sex : male

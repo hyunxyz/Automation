@@ -1,0 +1,6 @@
+name : ztoza
+age : 54
+e-mail : nwamuopp@needle.worm
+division : kne
+telephone : 010-8554-0285
+sex : others

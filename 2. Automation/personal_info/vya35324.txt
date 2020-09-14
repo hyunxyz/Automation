@@ -1,0 +1,6 @@
+name : wbkrc
+age : 92
+e-mail : xpcaomde@needle.worm
+division : ptb
+telephone : 010-5292-2452
+sex : male

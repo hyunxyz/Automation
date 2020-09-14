@@ -1,0 +1,6 @@
+name : viapu
+age : 47
+e-mail : anvwkuei@needle.worm
+division : oxv
+telephone : 010-5547-1555
+sex : male

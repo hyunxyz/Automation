@@ -1,0 +1,6 @@
+name : izowa
+age : 58
+e-mail : iochcomv@needle.worm
+division : vvc
+telephone : 010-9358-7293
+sex : female

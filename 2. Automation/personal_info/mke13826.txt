@@ -1,0 +1,6 @@
+name : yyhoy
+age : 28
+e-mail : rymwzwep@needle.worm
+division : cxd
+telephone : 010-8228-1482
+sex : female

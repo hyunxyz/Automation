@@ -1,0 +1,6 @@
+name : binmb
+age : 21
+e-mail : ezclzgvb@needle.worm
+division : paf
+telephone : 010-8121-7081
+sex : male

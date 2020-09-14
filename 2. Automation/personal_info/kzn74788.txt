@@ -1,0 +1,6 @@
+name : dexqe
+age : 76
+e-mail : ktwscobt@needle.worm
+division : jqa
+telephone : 010-8476-4184
+sex : others

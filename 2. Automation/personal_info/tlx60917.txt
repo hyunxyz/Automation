@@ -1,0 +1,6 @@
+name : kbccr
+age : 17
+e-mail : kirrrfzz@needle.worm
+division : ftc
+telephone : 010-0917-3609
+sex : male

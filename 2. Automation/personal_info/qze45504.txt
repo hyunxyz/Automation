@@ -1,0 +1,6 @@
+name : mgfox
+age : 04
+e-mail : mukroiuf@needle.worm
+division : xkv
+telephone : 010-5504-6455
+sex : others

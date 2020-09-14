@@ -1,0 +1,6 @@
+name : birld
+age : 09
+e-mail : axzgxbko@needle.worm
+division : jkb
+telephone : 010-9809-5598
+sex : female

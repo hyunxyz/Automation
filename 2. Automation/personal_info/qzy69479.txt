@@ -1,0 +1,6 @@
+name : lrbtd
+age : 74
+e-mail : hiqbcqbt@needle.worm
+division : jkd
+telephone : 010-1474-6714
+sex : male

@@ -1,0 +1,6 @@
+name : sjsmk
+age : 28
+e-mail : clysrgbk@needle.worm
+division : ogx
+telephone : 010-8328-5883
+sex : male

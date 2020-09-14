@@ -1,0 +1,6 @@
+name : tyzaa
+age : 84
+e-mail : euidebco@needle.worm
+division : nbx
+telephone : 010-6284-3562
+sex : others

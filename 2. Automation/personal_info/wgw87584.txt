@@ -1,0 +1,6 @@
+name : xhjkc
+age : 84
+e-mail : delegkyw@needle.worm
+division : max
+telephone : 010-7584-3875
+sex : female

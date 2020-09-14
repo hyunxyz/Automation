@@ -1,0 +1,6 @@
+name : roiwj
+age : 24
+e-mail : mhemczju@needle.worm
+division : eql
+telephone : 010-4524-7745
+sex : others

@@ -1,0 +1,6 @@
+name : vyuuk
+age : 48
+e-mail : saselgkk@needle.worm
+division : ymo
+telephone : 010-4748-1947
+sex : female

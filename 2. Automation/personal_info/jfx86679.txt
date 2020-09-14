@@ -1,0 +1,6 @@
+name : yydvl
+age : 52
+e-mail : wwjasuil@needle.worm
+division : bal
+telephone : 010-6652-9966
+sex : male

@@ -1,0 +1,6 @@
+name : nkrga
+age : 88
+e-mail : rujfatxn@needle.worm
+division : bsn
+telephone : 010-5788-5857
+sex : female

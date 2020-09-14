@@ -1,0 +1,6 @@
+name : cckde
+age : 32
+e-mail : jlygdwjx@needle.worm
+division : nxw
+telephone : 010-2632-5026
+sex : male

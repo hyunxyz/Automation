@@ -1,0 +1,6 @@
+name : liemi
+age : 17
+e-mail : ghosvfrq@needle.worm
+division : ijx
+telephone : 010-8717-4887
+sex : female

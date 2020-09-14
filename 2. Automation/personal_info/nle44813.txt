@@ -1,0 +1,6 @@
+name : ulpgm
+age : 13
+e-mail : geyzaxdt@needle.worm
+division : eqr
+telephone : 010-4813-5448
+sex : male

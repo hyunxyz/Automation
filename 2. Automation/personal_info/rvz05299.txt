@@ -1,0 +1,6 @@
+name : sxbar
+age : 99
+e-mail : ybqujbtc@needle.worm
+division : qbl
+telephone : 010-5299-5052
+sex : male

@@ -1,0 +1,6 @@
+name : kuujb
+age : 52
+e-mail : oxxsxebu@needle.worm
+division : bdk
+telephone : 010-1752-8317
+sex : male

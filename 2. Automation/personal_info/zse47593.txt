@@ -1,0 +1,6 @@
+name : kcpym
+age : 93
+e-mail : ileszlny@needle.worm
+division : pof
+telephone : 010-7593-6475
+sex : male

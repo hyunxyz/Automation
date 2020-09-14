@@ -1,0 +1,6 @@
+name : ycxey
+age : 35
+e-mail : cfchhswl@needle.worm
+division : lmj
+telephone : 010-1035-3710
+sex : male

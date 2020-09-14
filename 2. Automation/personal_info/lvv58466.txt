@@ -1,0 +1,6 @@
+name : kyirz
+age : 66
+e-mail : kzppamyw@needle.worm
+division : ejo
+telephone : 010-8466-0584
+sex : female

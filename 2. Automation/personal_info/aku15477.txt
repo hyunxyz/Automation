@@ -1,0 +1,6 @@
+name : yrrrt
+age : 77
+e-mail : mdujchto@needle.worm
+division : ptf
+telephone : 010-5477-9154
+sex : male

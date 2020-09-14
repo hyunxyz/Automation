@@ -1,0 +1,6 @@
+name : fwazw
+age : 45
+e-mail : yksayutu@needle.worm
+division : vpz
+telephone : 010-7245-5172
+sex : female

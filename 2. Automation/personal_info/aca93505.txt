@@ -1,0 +1,6 @@
+name : tjwrz
+age : 73
+e-mail : sukjzbcc@needle.worm
+division : fhh
+telephone : 010-3473-4034
+sex : male

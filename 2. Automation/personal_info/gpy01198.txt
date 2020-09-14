@@ -1,0 +1,6 @@
+name : gumsc
+age : 98
+e-mail : aacxakdu@needle.worm
+division : mhe
+telephone : 010-1198-3011
+sex : others

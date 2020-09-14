@@ -1,0 +1,6 @@
+name : zrkff
+age : 78
+e-mail : txddmqel@needle.worm
+division : nva
+telephone : 010-1278-2712
+sex : male

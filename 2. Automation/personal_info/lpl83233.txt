@@ -1,0 +1,6 @@
+name : amnfh
+age : 33
+e-mail : nekutfti@needle.worm
+division : gpm
+telephone : 010-3233-8832
+sex : female

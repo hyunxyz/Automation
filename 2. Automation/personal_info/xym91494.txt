@@ -1,0 +1,6 @@
+name : lrabn
+age : 94
+e-mail : oplztkch@needle.worm
+division : rug
+telephone : 010-1494-1914
+sex : male

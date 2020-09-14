@@ -1,0 +1,6 @@
+name : hgkmn
+age : 08
+e-mail : qeqvueub@needle.worm
+division : nsy
+telephone : 010-4308-3543
+sex : male

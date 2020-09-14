@@ -1,0 +1,6 @@
+name : lltup
+age : 35
+e-mail : oticguum@needle.worm
+division : fhx
+telephone : 010-1935-7719
+sex : male

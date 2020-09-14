@@ -1,0 +1,6 @@
+name : bkkhx
+age : 57
+e-mail : kkfdeynj@needle.worm
+division : dtg
+telephone : 010-2657-2326
+sex : female

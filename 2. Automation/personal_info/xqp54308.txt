@@ -1,0 +1,6 @@
+name : hyvua
+age : 08
+e-mail : rjkiopxu@needle.worm
+division : sht
+telephone : 010-4308-3543
+sex : male

@@ -1,0 +1,6 @@
+name : lsxqk
+age : 04
+e-mail : gearrkpg@needle.worm
+division : xgd
+telephone : 010-9904-9999
+sex : male

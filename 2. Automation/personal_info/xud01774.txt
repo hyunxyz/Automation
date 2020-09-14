@@ -1,0 +1,6 @@
+name : jtdtt
+age : 74
+e-mail : xdvoeuym@needle.worm
+division : ixd
+telephone : 010-1774-3017
+sex : male

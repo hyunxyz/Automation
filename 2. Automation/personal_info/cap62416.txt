@@ -1,0 +1,6 @@
+name : lkujo
+age : 16
+e-mail : yoixjdvs@needle.worm
+division : oeo
+telephone : 010-2416-0624
+sex : male

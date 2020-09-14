@@ -1,0 +1,6 @@
+name : uaama
+age : 74
+e-mail : wbcmvgyt@needle.worm
+division : yul
+telephone : 010-0374-8303
+sex : male

@@ -1,0 +1,6 @@
+name : ehhon
+age : 64
+e-mail : uuudnagh@needle.worm
+division : vyw
+telephone : 010-1964-8619
+sex : male

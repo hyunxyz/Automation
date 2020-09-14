@@ -1,0 +1,6 @@
+name : hxlko
+age : 28
+e-mail : temxrnas@needle.worm
+division : zoc
+telephone : 010-4228-1242
+sex : others

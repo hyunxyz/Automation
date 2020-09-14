@@ -1,0 +1,6 @@
+name : thmaa
+age : 35
+e-mail : hocgfjqk@needle.worm
+division : nhf
+telephone : 010-3635-3436
+sex : male

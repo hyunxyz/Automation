@@ -1,0 +1,6 @@
+name : hsabn
+age : 11
+e-mail : yivhxpyh@needle.worm
+division : gyr
+telephone : 010-5811-0558
+sex : male

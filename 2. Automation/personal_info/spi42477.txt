@@ -1,0 +1,6 @@
+name : zowid
+age : 45
+e-mail : uomfuysh@needle.worm
+division : xpj
+telephone : 010-2445-0524
+sex : male

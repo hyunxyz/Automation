@@ -1,0 +1,6 @@
+name : dyjyg
+age : 11
+e-mail : qzbfrjsa@needle.worm
+division : rkl
+telephone : 010-6711-9567
+sex : male

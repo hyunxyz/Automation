@@ -1,0 +1,6 @@
+name : niwpx
+age : 72
+e-mail : kdjseuhx@needle.worm
+division : ugw
+telephone : 010-7372-9473
+sex : male

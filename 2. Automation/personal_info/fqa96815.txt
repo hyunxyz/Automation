@@ -1,0 +1,6 @@
+name : cxhqx
+age : 15
+e-mail : rsubuelq@needle.worm
+division : zjn
+telephone : 010-6815-1968
+sex : male

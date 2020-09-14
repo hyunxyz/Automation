@@ -1,0 +1,6 @@
+name : ptusj
+age : 91
+e-mail : ajxwdnir@needle.worm
+division : zlg
+telephone : 010-8391-5683
+sex : male

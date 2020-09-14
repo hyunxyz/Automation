@@ -1,0 +1,6 @@
+name : xkoei
+age : 86
+e-mail : inkfsriz@needle.worm
+division : zzz
+telephone : 010-8786-1987
+sex : female

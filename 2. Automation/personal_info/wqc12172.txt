@@ -1,0 +1,6 @@
+name : ijufa
+age : 72
+e-mail : sphqojmt@needle.worm
+division : ugy
+telephone : 010-2172-4121
+sex : others

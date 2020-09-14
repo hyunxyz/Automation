@@ -1,0 +1,6 @@
+name : pcomj
+age : 27
+e-mail : lodbijrj@needle.worm
+division : poi
+telephone : 010-7727-5977
+sex : male

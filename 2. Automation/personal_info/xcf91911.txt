@@ -1,0 +1,6 @@
+name : lbwlg
+age : 11
+e-mail : aresqgdh@needle.worm
+division : smi
+telephone : 010-1911-9919
+sex : others

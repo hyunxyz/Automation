@@ -1,0 +1,6 @@
+name : yuwsk
+age : 72
+e-mail : xevygmge@needle.worm
+division : sfz
+telephone : 010-4872-6648
+sex : others

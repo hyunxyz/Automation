@@ -1,0 +1,6 @@
+name : rower
+age : 15
+e-mail : ktmlwxep@needle.worm
+division : yxo
+telephone : 010-0215-8902
+sex : female

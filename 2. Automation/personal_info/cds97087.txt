@@ -1,0 +1,6 @@
+name : vbjgb
+age : 72
+e-mail : kckzhriv@needle.worm
+division : jcj
+telephone : 010-7072-1070
+sex : male

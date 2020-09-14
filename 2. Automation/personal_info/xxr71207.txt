@@ -1,0 +1,6 @@
+name : nfalj
+age : 04
+e-mail : wowqlide@needle.worm
+division : bny
+telephone : 010-2204-7722
+sex : male

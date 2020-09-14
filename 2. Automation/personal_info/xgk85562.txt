@@ -1,0 +1,6 @@
+name : srvdo
+age : 62
+e-mail : nhkdokwf@needle.worm
+division : iok
+telephone : 010-5562-8855
+sex : male

@@ -1,0 +1,6 @@
+name : srnki
+age : 66
+e-mail : dajwoivu@needle.worm
+division : pbe
+telephone : 010-5166-7751
+sex : female

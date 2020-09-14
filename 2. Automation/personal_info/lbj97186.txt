@@ -1,0 +1,6 @@
+name : eafrr
+age : 86
+e-mail : gfkqdyvy@needle.worm
+division : zou
+telephone : 010-7186-7971
+sex : male
