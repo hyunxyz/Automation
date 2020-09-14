@@ -1,6 +1,0 @@
-name : wsxdm
-age : 07
-e-mail : zjcwowpy@needle.worm
-division : uvv
-telephone : 010-1507-9215
-sex : male

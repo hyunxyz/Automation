@@ -1,6 +1,0 @@
-name : nychc
-age : 94
-e-mail : pwljotgh@needle.worm
-division : owh
-telephone : 010-2194-4021
-sex : female

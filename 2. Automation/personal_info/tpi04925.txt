@@ -1,6 +1,0 @@
-name : snbrg
-age : 25
-e-mail : chhrbibu@needle.worm
-division : bbh
-telephone : 010-4925-9049
-sex : others

@@ -1,6 +1,0 @@
-name : twpyv
-age : 07
-e-mail : hffkgyth@needle.worm
-division : hgy
-telephone : 010-6607-0166
-sex : female

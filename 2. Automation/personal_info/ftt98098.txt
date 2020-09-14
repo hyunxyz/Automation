@@ -1,6 +1,0 @@
-name : jknfl
-age : 74
-e-mail : mkntgbkb@needle.worm
-division : hht
-telephone : 010-8074-2080
-sex : male

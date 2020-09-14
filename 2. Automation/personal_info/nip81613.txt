@@ -1,6 +1,0 @@
-name : gqffz
-age : 13
-e-mail : fdruqxdl@needle.worm
-division : rdq
-telephone : 010-1613-8816
-sex : female

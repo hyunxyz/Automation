@@ -1,6 +1,0 @@
-name : tlwih
-age : 63
-e-mail : egohczmq@needle.worm
-division : qfw
-telephone : 010-0663-5006
-sex : male

@@ -1,6 +1,0 @@
-name : skfde
-age : 72
-e-mail : wplykevv@needle.worm
-division : lcn
-telephone : 010-6972-0969
-sex : male

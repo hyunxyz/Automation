@@ -1,6 +1,0 @@
-name : eqrai
-age : 98
-e-mail : lkmgqkaw@needle.worm
-division : uel
-telephone : 010-6898-3868
-sex : male

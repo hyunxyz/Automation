@@ -1,6 +1,0 @@
-name : wcnmn
-age : 56
-e-mail : wxszaicd@needle.worm
-division : ilr
-telephone : 010-5856-0358
-sex : female

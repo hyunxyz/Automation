@@ -1,6 +1,0 @@
-name : tsroy
-age : 93
-e-mail : rwipoovd@needle.worm
-division : qng
-telephone : 010-9693-0796
-sex : others

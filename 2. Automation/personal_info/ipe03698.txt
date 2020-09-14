@@ -1,6 +1,0 @@
-name : pmajz
-age : 98
-e-mail : wzooxebn@needle.worm
-division : cao
-telephone : 010-3698-1036
-sex : female

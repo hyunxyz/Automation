@@ -1,6 +1,0 @@
-name : mfyny
-age : 57
-e-mail : bnfnrrpd@needle.worm
-division : ugf
-telephone : 010-5157-2951
-sex : female

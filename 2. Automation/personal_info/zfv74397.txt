@@ -1,6 +1,0 @@
-name : pjrrf
-age : 97
-e-mail : cdseotjx@needle.worm
-division : ntw
-telephone : 010-4397-0743
-sex : male

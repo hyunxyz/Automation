@@ -1,6 +1,0 @@
-name : exlah
-age : 05
-e-mail : tdahfpcw@needle.worm
-division : mop
-telephone : 010-7405-1974
-sex : female

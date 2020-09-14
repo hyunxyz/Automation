@@ -1,6 +1,0 @@
-name : ckomx
-age : 63
-e-mail : xempodkl@needle.worm
-division : fad
-telephone : 010-9763-1897
-sex : male

@@ -1,6 +1,0 @@
-name : jhpfv
-age : 42
-e-mail : zigglpwo@needle.worm
-division : srv
-telephone : 010-6842-1868
-sex : others

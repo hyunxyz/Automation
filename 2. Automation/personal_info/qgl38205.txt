@@ -1,6 +1,0 @@
-name : gwkkg
-age : 05
-e-mail : ddsaazuj@needle.worm
-division : dbt
-telephone : 010-8205-6382
-sex : others

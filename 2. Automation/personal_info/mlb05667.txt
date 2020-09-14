@@ -1,6 +1,0 @@
-name : ylagk
-age : 43
-e-mail : phlsksnk@needle.worm
-division : jdm
-telephone : 010-5643-1156
-sex : others

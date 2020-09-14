@@ -1,6 +1,0 @@
-name : ebyef
-age : 52
-e-mail : gvwqqueo@needle.worm
-division : qeb
-telephone : 010-3352-4933
-sex : others

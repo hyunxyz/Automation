@@ -1,6 +1,0 @@
-name : muxyg
-age : 75
-e-mail : ngljfckg@needle.worm
-division : dtu
-telephone : 010-0975-3809
-sex : male

@@ -1,6 +1,0 @@
-name : njqwy
-age : 83
-e-mail : ikuqlttw@needle.worm
-division : rca
-telephone : 010-7283-0272
-sex : female

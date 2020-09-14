@@ -1,6 +1,0 @@
-name : wpthl
-age : 09
-e-mail : jbuybzuq@needle.worm
-division : xzy
-telephone : 010-5409-4654
-sex : others

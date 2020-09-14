@@ -1,6 +1,0 @@
-name : ccdrl
-age : 78
-e-mail : harvnjdi@needle.worm
-division : zog
-telephone : 010-5278-9952
-sex : male

@@ -1,6 +1,0 @@
-name : zstuw
-age : 54
-e-mail : ozpnkcac@needle.worm
-division : epc
-telephone : 010-8654-2486
-sex : female

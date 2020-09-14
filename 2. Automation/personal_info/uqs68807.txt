@@ -1,6 +1,0 @@
-name : gelja
-age : 07
-e-mail : wcofagwh@needle.worm
-division : dfu
-telephone : 010-8807-6688
-sex : male

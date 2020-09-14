@@ -1,6 +1,0 @@
-name : mylbr
-age : 51
-e-mail : piruqjxl@needle.worm
-division : yyz
-telephone : 010-5751-5957
-sex : others

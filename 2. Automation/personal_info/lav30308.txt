@@ -1,6 +1,0 @@
-name : fjmfa
-age : 08
-e-mail : svevpfyw@needle.worm
-division : hez
-telephone : 010-0308-6303
-sex : others

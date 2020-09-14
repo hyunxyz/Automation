@@ -1,6 +1,0 @@
-name : neuph
-age : 49
-e-mail : zldfccfp@needle.worm
-division : woa
-telephone : 010-5249-0052
-sex : male

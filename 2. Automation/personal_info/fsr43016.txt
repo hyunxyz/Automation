@@ -1,6 +1,0 @@
-name : kcnrb
-age : 16
-e-mail : mncujlzd@needle.worm
-division : mkl
-telephone : 010-3016-8430
-sex : male

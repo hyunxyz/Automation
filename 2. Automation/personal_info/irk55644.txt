@@ -1,6 +1,0 @@
-name : sclgk
-age : 44
-e-mail : zyzxgqmk@needle.worm
-division : siw
-telephone : 010-5644-3556
-sex : female

@@ -1,6 +1,0 @@
-name : ddvjg
-age : 27
-e-mail : kadhckmd@needle.worm
-division : eyt
-telephone : 010-8627-4786
-sex : others

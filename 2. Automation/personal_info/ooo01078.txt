@@ -1,6 +1,0 @@
-name : fewys
-age : 78
-e-mail : osiqedtr@needle.worm
-division : fnq
-telephone : 010-1078-3010
-sex : female

@@ -1,6 +1,0 @@
-name : dtnpq
-age : 63
-e-mail : nleroqce@needle.worm
-division : zjz
-telephone : 010-7463-4374
-sex : male

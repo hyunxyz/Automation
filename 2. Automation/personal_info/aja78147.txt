@@ -1,6 +1,0 @@
-name : amjee
-age : 13
-e-mail : qlrhihtk@needle.worm
-division : zjm
-telephone : 010-8813-9188
-sex : others

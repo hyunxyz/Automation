@@ -1,6 +1,0 @@
-name : xsihk
-age : 89
-e-mail : djskvtoj@needle.worm
-division : kai
-telephone : 010-3589-8835
-sex : male

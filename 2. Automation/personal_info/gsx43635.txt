@@ -1,6 +1,0 @@
-name : bzqgi
-age : 35
-e-mail : hzhcqgsp@needle.worm
-division : kha
-telephone : 010-3635-3436
-sex : others

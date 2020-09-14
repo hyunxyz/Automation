@@ -1,6 +1,0 @@
-name : lvjet
-age : 57
-e-mail : oulrqahf@needle.worm
-division : bjh
-telephone : 010-5157-2951
-sex : others

@@ -1,6 +1,0 @@
-name : smaxl
-age : 32
-e-mail : ivdmptij@needle.worm
-division : pwv
-telephone : 010-3132-9231
-sex : female

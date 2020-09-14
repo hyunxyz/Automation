@@ -1,6 +1,0 @@
-name : abtbc
-age : 83
-e-mail : feafxvfg@needle.worm
-division : kdx
-telephone : 010-1083-5810
-sex : others

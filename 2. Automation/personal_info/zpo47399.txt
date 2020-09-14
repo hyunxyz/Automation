@@ -1,6 +1,0 @@
-name : crjlc
-age : 57
-e-mail : busmzibn@needle.worm
-division : dyw
-telephone : 010-3957-4839
-sex : female

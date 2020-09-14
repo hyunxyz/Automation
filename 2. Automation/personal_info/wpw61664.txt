@@ -1,6 +1,0 @@
-name : xfeeh
-age : 44
-e-mail : gmkbcdpv@needle.worm
-division : ohc
-telephone : 010-1644-8716
-sex : others

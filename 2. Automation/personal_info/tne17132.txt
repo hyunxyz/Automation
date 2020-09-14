@@ -1,6 +1,0 @@
-name : atlnv
-age : 32
-e-mail : nrlcwndq@needle.worm
-division : baz
-telephone : 010-7132-8171
-sex : others

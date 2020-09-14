@@ -1,6 +1,0 @@
-name : ichic
-age : 79
-e-mail : iznelola@needle.worm
-division : wff
-telephone : 010-2179-7821
-sex : female

@@ -1,6 +1,0 @@
-name : qthaa
-age : 62
-e-mail : jytkwnyt@needle.worm
-division : klu
-telephone : 010-7462-1774
-sex : female

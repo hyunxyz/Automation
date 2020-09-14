@@ -1,6 +1,0 @@
-name : tgepo
-age : 58
-e-mail : qkhljwbp@needle.worm
-division : rdb
-telephone : 010-0458-5304
-sex : others

@@ -1,6 +1,0 @@
-name : bwdpi
-age : 57
-e-mail : zhwpyrgc@needle.worm
-division : yju
-telephone : 010-5057-3350
-sex : female

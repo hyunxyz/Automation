@@ -1,6 +1,0 @@
-name : pedtv
-age : 85
-e-mail : yinyqspc@needle.worm
-division : goz
-telephone : 010-1585-3715
-sex : female

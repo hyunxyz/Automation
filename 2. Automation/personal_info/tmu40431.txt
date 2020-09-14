@@ -1,6 +1,0 @@
-name : cflmf
-age : 31
-e-mail : vsegwfgi@needle.worm
-division : fao
-telephone : 010-0405-5504
-sex : others

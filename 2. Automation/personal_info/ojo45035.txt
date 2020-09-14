@@ -1,6 +1,0 @@
-name : zxhtj
-age : 05
-e-mail : rstpuirw@needle.worm
-division : hzx
-telephone : 010-5005-3550
-sex : others

@@ -1,6 +1,0 @@
-name : zpehj
-age : 18
-e-mail : kktdbxjb@needle.worm
-division : ggt
-telephone : 010-0318-.903
-sex : female

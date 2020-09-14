@@ -1,6 +1,0 @@
-name : wydvj
-age : 97
-e-mail : lbwqtdew@needle.worm
-division : tlo
-telephone : 010-9997-8499
-sex : male

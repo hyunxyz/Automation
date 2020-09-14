@@ -1,6 +1,0 @@
-name : oedkz
-age : 67
-e-mail : jsgoqpgi@needle.worm
-division : wzu
-telephone : 010-6767-6967
-sex : others

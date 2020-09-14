@@ -1,6 +1,0 @@
-name : jwnhu
-age : 35
-e-mail : mjdpmytx@needle.worm
-division : anb
-telephone : 010-5835-3058
-sex : others

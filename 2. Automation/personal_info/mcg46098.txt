@@ -1,6 +1,0 @@
-name : spqpg
-age : 71
-e-mail : vhvxegqn@needle.worm
-division : pzu
-telephone : 010-6071-9560
-sex : others

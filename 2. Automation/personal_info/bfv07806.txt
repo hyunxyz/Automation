@@ -1,6 +1,0 @@
-name : ysxmt
-age : 06
-e-mail : deneilvq@needle.worm
-division : rzu
-telephone : 010-7806-3078
-sex : male

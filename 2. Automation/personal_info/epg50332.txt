@@ -1,6 +1,0 @@
-name : dpipv
-age : 32
-e-mail : uazztkay@needle.worm
-division : spo
-telephone : 010-0332-3503
-sex : female

@@ -1,6 +1,0 @@
-name : ogcqb
-age : 54
-e-mail : rfsxaytd@needle.worm
-division : ohw
-telephone : 010-7054-5870
-sex : male

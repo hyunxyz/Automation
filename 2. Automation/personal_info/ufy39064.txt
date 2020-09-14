@@ -1,6 +1,0 @@
-name : cpowx
-age : 25
-e-mail : bziytywf@needle.worm
-division : slk
-telephone : 010-9025-8490
-sex : female

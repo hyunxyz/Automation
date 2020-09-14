@@ -1,6 +1,0 @@
-name : nkrhc
-age : 77
-e-mail : teeprica@needle.worm
-division : ojo
-telephone : 010-8577-5385
-sex : others

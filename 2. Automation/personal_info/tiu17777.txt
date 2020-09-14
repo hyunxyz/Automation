@@ -1,6 +1,0 @@
-name : nasih
-age : 45
-e-mail : zicoeaug@needle.worm
-division : nyw
-telephone : 010-7745-3277
-sex : others

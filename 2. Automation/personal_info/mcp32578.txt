@@ -1,6 +1,0 @@
-name : mwfej
-age : 78
-e-mail : glsypxnr@needle.worm
-division : uob
-telephone : 010-2578-6325
-sex : male

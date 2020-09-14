@@ -1,6 +1,0 @@
-name : idpsv
-age : 07
-e-mail : kijufkmw@needle.worm
-division : olb
-telephone : 010-0307-1103
-sex : others

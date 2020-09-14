@@ -1,6 +1,0 @@
-name : xhyyh
-age : 23
-e-mail : jjpqtkxt@needle.worm
-division : kjc
-telephone : 010-8423-3384
-sex : others

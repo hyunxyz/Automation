@@ -1,6 +1,0 @@
-name : ebylu
-age : 64
-e-mail : tewhtasm@needle.worm
-division : ndm
-telephone : 010-2364-8623
-sex : female

@@ -1,6 +1,0 @@
-name : lufkx
-age : 83
-e-mail : fbodsdxd@needle.worm
-division : roi
-telephone : 010-3783-3037
-sex : male

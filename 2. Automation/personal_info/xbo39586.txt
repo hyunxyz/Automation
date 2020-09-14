@@ -1,6 +1,0 @@
-name : vjaxh
-age : 86
-e-mail : hyhjflxo@needle.worm
-division : nvk
-telephone : 010-9586-6395
-sex : female

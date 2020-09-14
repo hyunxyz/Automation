@@ -1,6 +1,0 @@
-name : uvwcy
-age : 76
-e-mail : zpwrbojz@needle.worm
-division : aca
-telephone : 010-1876-5218
-sex : male

@@ -1,6 +1,0 @@
-name : fazcb
-age : 19
-e-mail : mfjhsjdg@needle.worm
-division : mhh
-telephone : 010-0519-2805
-sex : female

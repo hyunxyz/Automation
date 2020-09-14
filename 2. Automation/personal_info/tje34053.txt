@@ -1,6 +1,0 @@
-name : lrfat
-age : 53
-e-mail : bkptgkrl@needle.worm
-division : cny
-telephone : 010-4053-2340
-sex : male

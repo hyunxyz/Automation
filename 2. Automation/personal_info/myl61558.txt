@@ -1,6 +1,0 @@
-name : qmfqc
-age : 56
-e-mail : itrjvgff@needle.worm
-division : yqn
-telephone : 010-5556-6255
-sex : female

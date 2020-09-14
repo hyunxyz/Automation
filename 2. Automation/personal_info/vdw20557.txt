@@ -1,6 +1,0 @@
-name : clkti
-age : 57
-e-mail : vhwegfaq@needle.worm
-division : ioe
-telephone : 010-0557-0205
-sex : male

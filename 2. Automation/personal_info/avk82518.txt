@@ -1,6 +1,0 @@
-name : ukmay
-age : 49
-e-mail : dazfadhe@needle.worm
-division : hzz
-telephone : 010-9249-1292
-sex : male

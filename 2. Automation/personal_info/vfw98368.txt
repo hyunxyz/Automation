@@ -1,6 +1,0 @@
-name : larbc
-age : 68
-e-mail : luwukeba@needle.worm
-division : jyj
-telephone : 010-8368-0983
-sex : others

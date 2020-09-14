@@ -1,6 +1,0 @@
-name : ybnyr
-age : 14
-e-mail : hssjddra@needle.worm
-division : rbk
-telephone : 010-3714-7037
-sex : others

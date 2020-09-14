@@ -1,6 +1,0 @@
-name : sxhtr
-age : 91
-e-mail : wxyzfspz@needle.worm
-division : ofm
-telephone : 010-0891-6308
-sex : female

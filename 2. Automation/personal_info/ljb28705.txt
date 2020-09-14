@@ -1,6 +1,0 @@
-name : kwzcd
-age : 78
-e-mail : qowqvdsp@needle.worm
-division : nfs
-telephone : 010-8678-2386
-sex : male

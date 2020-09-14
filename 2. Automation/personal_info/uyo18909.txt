@@ -1,6 +1,0 @@
-name : xgoxb
-age : 73
-e-mail : yespegab@needle.worm
-division : gen
-telephone : 010-0873-9008
-sex : male

@@ -1,6 +1,0 @@
-name : tqhis
-age : 08
-e-mail : urdgkfxv@needle.worm
-division : tel
-telephone : 010-1308-4813
-sex : others

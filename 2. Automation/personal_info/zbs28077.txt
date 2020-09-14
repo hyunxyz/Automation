@@ -1,6 +1,0 @@
-name : ypiua
-age : 45
-e-mail : nxhwluyy@needle.worm
-division : lil
-telephone : 010-8045-7380
-sex : others

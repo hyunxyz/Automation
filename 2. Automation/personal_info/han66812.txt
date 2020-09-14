@@ -1,6 +1,0 @@
-name : nxnwd
-age : 09
-e-mail : imhngvnl@needle.worm
-division : icj
-telephone : 010-7809-6678
-sex : male

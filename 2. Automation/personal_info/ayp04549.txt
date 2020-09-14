@@ -1,6 +1,0 @@
-name : ixypr
-age : 17
-e-mail : ymjsevqv@needle.worm
-division : kld
-telephone : 010-4517-0145
-sex : others

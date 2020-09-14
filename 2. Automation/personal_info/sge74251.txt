@@ -1,6 +1,0 @@
-name : eccot
-age : 51
-e-mail : reazxjdv@needle.worm
-division : sxq
-telephone : 010-4251-3742
-sex : female

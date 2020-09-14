@@ -1,6 +1,0 @@
-name : ztztq
-age : 48
-e-mail : mmogwrcr@needle.worm
-division : isv
-telephone : 010-5948-6159
-sex : male

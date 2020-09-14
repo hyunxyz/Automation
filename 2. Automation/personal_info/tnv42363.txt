@@ -1,6 +1,0 @@
-name : vnvif
-age : 63
-e-mail : lgojmwub@needle.worm
-division : wdg
-telephone : 010-2363-3423
-sex : female

@@ -1,6 +1,0 @@
-name : muplb
-age : 83
-e-mail : byiisfyj@needle.worm
-division : isx
-telephone : 010-2583-5225
-sex : male

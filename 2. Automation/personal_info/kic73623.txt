@@ -1,6 +1,0 @@
-name : gsizm
-age : 89
-e-mail : russdzyz@needle.worm
-division : tpz
-telephone : 010-3589-8835
-sex : female

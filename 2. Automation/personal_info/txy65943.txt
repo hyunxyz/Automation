@@ -1,6 +1,0 @@
-name : qqglb
-age : 43
-e-mail : oiqpoomw@needle.worm
-division : lkg
-telephone : 010-5943-2659
-sex : female

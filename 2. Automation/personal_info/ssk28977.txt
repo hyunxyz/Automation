@@ -1,6 +1,0 @@
-name : ixdbg
-age : 77
-e-mail : vhtziqda@needle.worm
-division : ahn
-telephone : 010-8977-1289
-sex : others

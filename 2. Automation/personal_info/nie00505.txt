@@ -1,6 +1,0 @@
-name : ixbty
-age : 78
-e-mail : upqdlxeg@needle.worm
-division : dkw
-telephone : 010-0478-3104
-sex : male

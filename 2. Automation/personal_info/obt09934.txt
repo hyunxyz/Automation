@@ -1,6 +1,0 @@
-name : sjnyt
-age : 21
-e-mail : dlezbsfq@needle.worm
-division : glc
-telephone : 010-9921-5199
-sex : male

@@ -1,6 +1,0 @@
-name : uwjui
-age : 81
-e-mail : wojxudjo@needle.worm
-division : pla
-telephone : 010-5281-8652
-sex : others

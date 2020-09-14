@@ -1,6 +1,0 @@
-name : ecciy
-age : 62
-e-mail : ugyftoec@needle.worm
-division : yup
-telephone : 010-0862-6408
-sex : others

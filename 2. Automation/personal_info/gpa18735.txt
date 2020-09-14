@@ -1,6 +1,0 @@
-name : tfpxf
-age : 35
-e-mail : ebekighc@needle.worm
-division : goo
-telephone : 010-8735-2187
-sex : female

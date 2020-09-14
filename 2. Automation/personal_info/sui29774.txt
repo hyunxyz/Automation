@@ -1,6 +1,0 @@
-name : holnv
-age : 75
-e-mail : smcfdzew@needle.worm
-division : nra
-telephone : 010-3975-4839
-sex : male

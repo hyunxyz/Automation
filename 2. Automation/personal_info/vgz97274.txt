@@ -1,6 +1,0 @@
-name : ybnnu
-age : 74
-e-mail : ifpbofsv@needle.worm
-division : syn
-telephone : 010-7274-4972
-sex : others

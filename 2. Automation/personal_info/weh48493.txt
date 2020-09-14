@@ -1,6 +1,0 @@
-name : jmpvz
-age : 93
-e-mail : lvumqdmt@needle.worm
-division : qwb
-telephone : 010-8493-0484
-sex : others

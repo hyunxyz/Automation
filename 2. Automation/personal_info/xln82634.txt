@@ -1,6 +1,0 @@
-name : hnuor
-age : 11
-e-mail : agygcnzi@needle.worm
-division : lyq
-telephone : 010-2611-9926
-sex : others

@@ -1,6 +1,0 @@
-name : jqzxg
-age : 68
-e-mail : vuruaeny@needle.worm
-division : fvg
-telephone : 010-2168-1521
-sex : others

@@ -1,6 +1,0 @@
-name : lyuqm
-age : 42
-e-mail : mjzjvyep@needle.worm
-division : tcx
-telephone : 010-2442-3124
-sex : others

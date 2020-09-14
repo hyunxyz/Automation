@@ -1,6 +1,0 @@
-name : rmipn
-age : 05
-e-mail : uflxtufk@needle.worm
-division : jyz
-telephone : 010-3805-3238
-sex : others

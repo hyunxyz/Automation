@@ -1,6 +1,0 @@
-name : zalyz
-age : 25
-e-mail : cdosfkas@needle.worm
-division : hoo
-telephone : 010-1425-8114
-sex : male

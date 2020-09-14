@@ -1,6 +1,0 @@
-name : pcemx
-age : 09
-e-mail : qoshqgaq@needle.worm
-division : eyz
-telephone : 010-6209-9062
-sex : male

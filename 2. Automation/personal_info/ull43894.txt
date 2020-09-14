@@ -1,6 +1,0 @@
-name : bvrkd
-age : 94
-e-mail : nnfnixai@needle.worm
-division : zfc
-telephone : 010-3767-3537
-sex : female

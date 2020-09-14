@@ -1,6 +1,0 @@
-name : xapjv
-age : 02
-e-mail : qdwuvuks@needle.worm
-division : gvf
-telephone : 010-2602-7726
-sex : others

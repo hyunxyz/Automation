@@ -1,6 +1,0 @@
-name : azvew
-age : 86
-e-mail : okztvgcw@needle.worm
-division : jco
-telephone : 010-6086-8160
-sex : male

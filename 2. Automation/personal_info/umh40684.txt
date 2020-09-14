@@ -1,6 +1,0 @@
-name : iuuzz
-age : 81
-e-mail : segkhpwo@needle.worm
-division : cip
-telephone : 010-1681-3416
-sex : male

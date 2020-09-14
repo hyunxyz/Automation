@@ -1,6 +1,0 @@
-name : mnpgy
-age : 66
-e-mail : nhpcifyy@needle.worm
-division : ddl
-telephone : 010-1166-5311
-sex : male

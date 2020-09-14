@@ -1,6 +1,0 @@
-name : xhftm
-age : 37
-e-mail : qpafmgiw@needle.worm
-division : blf
-telephone : 010-3137-6031
-sex : male

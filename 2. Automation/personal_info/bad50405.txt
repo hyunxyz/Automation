@@ -1,6 +1,0 @@
-name : kwoof
-age : 05
-e-mail : pooffhlz@needle.worm
-division : mun
-telephone : 010-0405-5504
-sex : female

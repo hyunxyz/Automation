@@ -1,6 +1,0 @@
-name : usyii
-age : 18
-e-mail : olstxufn@needle.worm
-division : mca
-telephone : 010-2918-.529
-sex : male

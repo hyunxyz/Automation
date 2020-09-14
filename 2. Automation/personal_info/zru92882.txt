@@ -1,6 +1,0 @@
-name : gxpog
-age : 87
-e-mail : fvbfaopf@needle.worm
-division : hfy
-telephone : 010-8787-9387
-sex : male

@@ -1,6 +1,0 @@
-name : bnjeu
-age : 92
-e-mail : ycblwqkd@needle.worm
-division : zpz
-telephone : 010-1692-7116
-sex : female

@@ -1,6 +1,0 @@
-name : novho
-age : 55
-e-mail : blskpqds@needle.worm
-division : zgf
-telephone : 010-4855-1548
-sex : others

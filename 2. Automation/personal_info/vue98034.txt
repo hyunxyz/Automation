@@ -1,6 +1,0 @@
-name : dolyd
-age : 16
-e-mail : ekcmvvto@needle.worm
-division : iso
-telephone : 010-8016-7080
-sex : female

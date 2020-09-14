@@ -1,6 +1,0 @@
-name : xlduh
-age : 18
-e-mail : hdsiwjah@needle.worm
-division : hka
-telephone : 010-4418-0944
-sex : others

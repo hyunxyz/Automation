@@ -1,6 +1,0 @@
-name : oqxjm
-age : 83
-e-mail : cwzmgclz@needle.worm
-division : bqu
-telephone : 010-4683-9946
-sex : others

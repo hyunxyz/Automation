@@ -1,6 +1,0 @@
-name : reuwc
-age : 63
-e-mail : llzpeklr@needle.worm
-division : oat
-telephone : 010-2063-1920
-sex : others

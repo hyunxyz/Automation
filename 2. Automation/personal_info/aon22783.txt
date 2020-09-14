@@ -1,6 +1,0 @@
-name : bnffp
-age : 76
-e-mail : wrdmtkup@needle.worm
-division : nlt
-telephone : 010-3276-4932
-sex : male

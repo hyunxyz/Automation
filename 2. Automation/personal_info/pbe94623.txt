@@ -1,6 +1,0 @@
-name : bhcvt
-age : 23
-e-mail : ihsrgudy@needle.worm
-division : qpm
-telephone : 010-4623-4946
-sex : others

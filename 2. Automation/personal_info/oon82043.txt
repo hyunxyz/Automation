@@ -1,6 +1,0 @@
-name : sdwgr
-age : 43
-e-mail : tdnfaikf@needle.worm
-division : arq
-telephone : 010-2043-9820
-sex : others

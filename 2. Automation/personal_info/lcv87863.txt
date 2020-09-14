@@ -1,6 +1,0 @@
-name : adbmf
-age : 63
-e-mail : vhuetlxx@needle.worm
-division : uyt
-telephone : 010-7863-2878
-sex : male

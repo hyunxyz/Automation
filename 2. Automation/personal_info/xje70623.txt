@@ -1,6 +1,0 @@
-name : qcrzh
-age : 07
-e-mail : callyttw@needle.worm
-division : dhk
-telephone : 010-4807-.948
-sex : others

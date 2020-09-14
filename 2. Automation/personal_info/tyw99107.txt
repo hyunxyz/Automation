@@ -1,6 +1,0 @@
-name : fyfip
-age : 07
-e-mail : jsgxnujh@needle.worm
-division : txg
-telephone : 010-9107-2991
-sex : female

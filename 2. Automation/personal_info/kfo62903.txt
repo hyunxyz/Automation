@@ -1,6 +1,0 @@
-name : tstxx
-age : 76
-e-mail : lvzdhhcn@needle.worm
-division : pny
-telephone : 010-2876-6728
-sex : male

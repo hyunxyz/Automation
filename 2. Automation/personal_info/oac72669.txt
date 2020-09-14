@@ -1,6 +1,0 @@
-name : sbusv
-age : 66
-e-mail : lxkiqjsy@needle.worm
-division : yhr
-telephone : 010-3666-9736
-sex : male

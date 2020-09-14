@@ -1,6 +1,0 @@
-name : vuvbz
-age : 49
-e-mail : bidpotvy@needle.worm
-division : fvp
-telephone : 010-2524-7625
-sex : others

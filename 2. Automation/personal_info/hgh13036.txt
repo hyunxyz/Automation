@@ -1,6 +1,0 @@
-name : znpjv
-age : 02
-e-mail : fccmeiec@needle.worm
-division : qlf
-telephone : 010-3002-6230
-sex : others

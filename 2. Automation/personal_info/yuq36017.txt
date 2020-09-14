@@ -1,6 +1,0 @@
-name : rxvyn
-age : 17
-e-mail : rvpmbmba@needle.worm
-division : nvh
-telephone : 010-6017-2360
-sex : female

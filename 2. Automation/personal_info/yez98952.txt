@@ -1,6 +1,0 @@
-name : wrpei
-age : 03
-e-mail : oxzrdpkv@needle.worm
-division : jcl
-telephone : 010-8903-4189
-sex : male

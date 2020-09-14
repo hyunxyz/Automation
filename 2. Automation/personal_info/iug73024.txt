@@ -1,6 +1,0 @@
-name : lwzcb
-age : 24
-e-mail : gaafaqyi@needle.worm
-division : bet
-telephone : 010-3024-5730
-sex : others

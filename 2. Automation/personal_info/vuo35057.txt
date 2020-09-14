@@ -1,6 +1,0 @@
-name : jveho
-age : 35
-e-mail : rihvlhco@needle.worm
-division : eap
-telephone : 010-5035-3450
-sex : male

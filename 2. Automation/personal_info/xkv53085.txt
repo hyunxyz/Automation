@@ -1,6 +1,0 @@
-name : uosik
-age : 68
-e-mail : nxfycxtw@needle.worm
-division : cpd
-telephone : 010-8468-3184
-sex : male

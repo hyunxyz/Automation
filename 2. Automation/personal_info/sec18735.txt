@@ -1,6 +1,0 @@
-name : qzljl
-age : 05
-e-mail : ruxpoixr@needle.worm
-division : ueo
-telephone : 010-8705-2287
-sex : female

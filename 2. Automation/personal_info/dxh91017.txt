@@ -1,6 +1,0 @@
-name : dfojx
-age : 17
-e-mail : hiurloyh@needle.worm
-division : bfe
-telephone : 010-1017-5910
-sex : male

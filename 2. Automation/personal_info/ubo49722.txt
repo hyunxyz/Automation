@@ -1,6 +1,0 @@
-name : lqtvq
-age : 22
-e-mail : htuvsouj@needle.worm
-division : tdc
-telephone : 010-9722-8497
-sex : others

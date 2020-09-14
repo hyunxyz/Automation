@@ -1,6 +1,0 @@
-name : wxank
-age : 42
-e-mail : gvygsspu@needle.worm
-division : vex
-telephone : 010-9142-.691
-sex : male

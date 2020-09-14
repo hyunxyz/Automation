@@ -1,6 +1,0 @@
-name : hdjaq
-age : 53
-e-mail : tqpskyxf@needle.worm
-division : ilz
-telephone : 010-4253-7542
-sex : others

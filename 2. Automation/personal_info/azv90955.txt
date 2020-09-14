@@ -1,6 +1,0 @@
-name : shzgw
-age : 55
-e-mail : uosfibea@needle.worm
-division : xhy
-telephone : 010-0955-3909
-sex : others

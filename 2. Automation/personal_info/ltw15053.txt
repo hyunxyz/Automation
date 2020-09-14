@@ -1,6 +1,0 @@
-name : dpght
-age : 53
-e-mail : ktlamtzj@needle.worm
-division : wzm
-telephone : 010-5053-8150
-sex : others

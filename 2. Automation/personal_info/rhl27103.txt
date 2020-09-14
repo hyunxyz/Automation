@@ -1,6 +1,0 @@
-name : nudrm
-age : 03
-e-mail : esksvcck@needle.worm
-division : ppy
-telephone : 010-7103-8271
-sex : others

@@ -1,6 +1,0 @@
-name : ddega
-age : 94
-e-mail : aqfdkhtq@needle.worm
-division : fmd
-telephone : 010-1094-3410
-sex : others

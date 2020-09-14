@@ -1,6 +1,0 @@
-name : wytph
-age : 76
-e-mail : vnixfbxi@needle.worm
-division : lhy
-telephone : 010-6476-5464
-sex : male

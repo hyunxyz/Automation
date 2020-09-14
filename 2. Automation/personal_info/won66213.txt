@@ -1,6 +1,0 @@
-name : imidk
-age : 13
-e-mail : pfoidnbn@needle.worm
-division : ymn
-telephone : 010-6213-1662
-sex : others

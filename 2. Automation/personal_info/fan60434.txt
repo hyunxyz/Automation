@@ -1,6 +1,0 @@
-name : ogoak
-age : 05
-e-mail : soffryhr@needle.worm
-division : bfw
-telephone : 010-4305-6143
-sex : others

@@ -1,6 +1,0 @@
-name : kpvev
-age : 18
-e-mail : iotsmvzf@needle.worm
-division : fxf
-telephone : 010-2518-2825
-sex : male

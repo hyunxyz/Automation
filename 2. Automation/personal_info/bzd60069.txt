@@ -1,6 +1,0 @@
-name : uhrnp
-age : 47
-e-mail : etaaedut@needle.worm
-division : qzi
-telephone : 010-0047-4700
-sex : female

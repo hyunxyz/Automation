@@ -1,6 +1,0 @@
-name : ekpxt
-age : 06
-e-mail : qogexjcq@needle.worm
-division : npl
-telephone : 010-2606-2526
-sex : others

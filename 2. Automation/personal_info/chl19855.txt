@@ -1,6 +1,0 @@
-name : boqsh
-age : 55
-e-mail : vrnfeksw@needle.worm
-division : dsm
-telephone : 010-9855-0198
-sex : male

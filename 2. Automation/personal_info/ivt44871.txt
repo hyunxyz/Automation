@@ -1,6 +1,0 @@
-name : coyfq
-age : 71
-e-mail : gwmuldci@needle.worm
-division : jfw
-telephone : 010-4871-6448
-sex : others

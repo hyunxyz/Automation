@@ -1,6 +1,0 @@
-name : jxonb
-age : 83
-e-mail : sngkvqvn@needle.worm
-division : aia
-telephone : 010-8583-3785
-sex : male

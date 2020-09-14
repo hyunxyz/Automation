@@ -1,6 +1,0 @@
-name : dzgkl
-age : 98
-e-mail : qxgbwwua@needle.worm
-division : tst
-telephone : 010-2198-8821
-sex : male

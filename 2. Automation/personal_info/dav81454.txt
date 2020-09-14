@@ -1,6 +1,0 @@
-name : qytea
-age : 54
-e-mail : gefgwtmn@needle.worm
-division : jly
-telephone : 010-1454-6814
-sex : others

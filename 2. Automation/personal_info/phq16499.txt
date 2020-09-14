@@ -1,6 +1,0 @@
-name : dqshr
-age : 99
-e-mail : ptosuhxv@needle.worm
-division : ezt
-telephone : 010-6499-3164
-sex : male

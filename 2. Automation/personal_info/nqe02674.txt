@@ -1,6 +1,0 @@
-name : zhjtr
-age : 65
-e-mail : xwktpzsj@needle.worm
-division : pmr
-telephone : 010-1265-8712
-sex : female

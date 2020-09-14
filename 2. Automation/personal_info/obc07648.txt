@@ -1,6 +1,0 @@
-name : nfugy
-age : 16
-e-mail : xzzjwrrs@needle.worm
-division : wti
-telephone : 010-7616-1176
-sex : others

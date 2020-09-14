@@ -1,6 +1,0 @@
-name : hsqob
-age : 01
-e-mail : xzhaxwus@needle.worm
-division : taw
-telephone : 010-2301-8423
-sex : others

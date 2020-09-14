@@ -1,6 +1,0 @@
-name : qezke
-age : 84
-e-mail : dzveelnb@needle.worm
-division : edb
-telephone : 010-7784-5777
-sex : others

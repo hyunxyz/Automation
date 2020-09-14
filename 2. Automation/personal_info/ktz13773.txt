@@ -1,6 +1,0 @@
-name : ougkd
-age : 48
-e-mail : muhkicru@needle.worm
-division : gus
-telephone : 010-3748-8237
-sex : male

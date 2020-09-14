@@ -1,6 +1,0 @@
-name : tewwt
-age : 54
-e-mail : zwxsfasp@needle.worm
-division : pln
-telephone : 010-6354-7163
-sex : others

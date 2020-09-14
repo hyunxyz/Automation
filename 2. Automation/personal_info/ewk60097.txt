@@ -1,6 +1,0 @@
-name : ictjs
-age : 97
-e-mail : lmqbvykq@needle.worm
-division : qer
-telephone : 010-0097-5600
-sex : female

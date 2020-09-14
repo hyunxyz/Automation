@@ -1,6 +1,0 @@
-name : daujb
-age : 87
-e-mail : nbepenji@needle.worm
-division : shr
-telephone : 010-4387-0643
-sex : others

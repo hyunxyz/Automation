@@ -1,6 +1,0 @@
-name : wkojn
-age : 33
-e-mail : yoqyjlrj@needle.worm
-division : ncv
-telephone : 010-7333-7473
-sex : others

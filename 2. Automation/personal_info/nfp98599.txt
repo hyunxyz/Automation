@@ -1,6 +1,0 @@
-name : efuhu
-age : 99
-e-mail : pvblmgig@needle.worm
-division : clr
-telephone : 010-8599-9985
-sex : male

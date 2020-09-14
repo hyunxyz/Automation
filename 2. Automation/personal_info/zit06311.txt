@@ -1,6 +1,0 @@
-name : nnswm
-age : 11
-e-mail : pvrucfyy@needle.worm
-division : hiw
-telephone : 010-6311-1063
-sex : others

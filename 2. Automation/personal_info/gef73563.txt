@@ -1,6 +1,0 @@
-name : cigfu
-age : 63
-e-mail : tcdnldnc@needle.worm
-division : nei
-telephone : 010-3563-3735
-sex : others

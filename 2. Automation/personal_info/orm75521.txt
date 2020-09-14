@@ -1,6 +1,0 @@
-name : aizfh
-age : 14
-e-mail : ugxmrxdo@needle.worm
-division : qco
-telephone : 010-5214-7652
-sex : others

@@ -1,6 +1,0 @@
-name : dgybe
-age : 92
-e-mail : wzurivwg@needle.worm
-division : qur
-telephone : 010-0492-7804
-sex : others

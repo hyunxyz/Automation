@@ -1,6 +1,0 @@
-name : zczwz
-age : 27
-e-mail : phetkggo@needle.worm
-division : jwo
-telephone : 010-5727-5657
-sex : male

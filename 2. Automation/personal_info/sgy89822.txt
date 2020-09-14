@@ -1,6 +1,0 @@
-name : gdscc
-age : 85
-e-mail : wridemrm@needle.worm
-division : uvt
-telephone : 010-9185-5291
-sex : female

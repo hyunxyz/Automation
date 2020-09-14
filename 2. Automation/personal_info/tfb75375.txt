@@ -1,6 +1,0 @@
-name : tvybe
-age : 75
-e-mail : gqklazfg@needle.worm
-division : gfu
-telephone : 010-5375-4753
-sex : others

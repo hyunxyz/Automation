@@ -1,6 +1,0 @@
-name : ljjpw
-age : 86
-e-mail : pwlydsdf@needle.worm
-division : zzv
-telephone : 010-5386-7353
-sex : male

@@ -1,6 +1,0 @@
-name : aaeqb
-age : 18
-e-mail : yaazgisf@needle.worm
-division : rqp
-telephone : 010-8818-1688
-sex : male

@@ -1,6 +1,0 @@
-name : yaeao
-age : 72
-e-mail : rsfklrlk@needle.worm
-division : kgx
-telephone : 010-2972-8529
-sex : female

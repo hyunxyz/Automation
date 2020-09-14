@@ -1,6 +1,0 @@
-name : mitsq
-age : 84
-e-mail : prszivrg@needle.worm
-division : afn
-telephone : 010-5884-2858
-sex : female

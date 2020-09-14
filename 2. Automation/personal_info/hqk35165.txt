@@ -1,6 +1,0 @@
-name : skgzm
-age : 65
-e-mail : abvgjopl@needle.worm
-division : ukk
-telephone : 010-5165-0351
-sex : others

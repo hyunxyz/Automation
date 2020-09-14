@@ -1,6 +1,0 @@
-name : htskv
-age : 74
-e-mail : cpjlrhhi@needle.worm
-division : qxe
-telephone : 010-4974-1049
-sex : male

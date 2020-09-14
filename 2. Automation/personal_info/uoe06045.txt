@@ -1,6 +1,0 @@
-name : iljoo
-age : 45
-e-mail : xcwpsopg@needle.worm
-division : qbe
-telephone : 010-6045-2060
-sex : male

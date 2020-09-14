@@ -1,6 +1,0 @@
-name : zizfx
-age : 28
-e-mail : racwhwef@needle.worm
-division : mms
-telephone : 010-9828-0298
-sex : others

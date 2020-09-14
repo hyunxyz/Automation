@@ -1,6 +1,0 @@
-name : ohlnb
-age : 45
-e-mail : jmwwmqbp@needle.worm
-division : kmy
-telephone : 010-4945-1149
-sex : female

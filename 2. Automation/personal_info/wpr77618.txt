@@ -1,6 +1,0 @@
-name : agsjc
-age : 18
-e-mail : emlfbkag@needle.worm
-division : ske
-telephone : 010-7618-3776
-sex : female

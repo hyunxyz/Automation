@@ -1,6 +1,0 @@
-name : rxfva
-age : 85
-e-mail : zczdsjwa@needle.worm
-division : qtl
-telephone : 010-7885-2778
-sex : male

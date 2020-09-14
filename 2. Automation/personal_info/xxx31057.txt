@@ -1,6 +1,0 @@
-name : ssnfn
-age : 57
-e-mail : zdgcywcm@needle.worm
-division : ziq
-telephone : 010-1035-8410
-sex : male

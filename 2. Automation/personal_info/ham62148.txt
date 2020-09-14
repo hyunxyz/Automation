@@ -1,6 +1,0 @@
-name : dmfzj
-age : 17
-e-mail : oshzwgjt@needle.worm
-division : tql
-telephone : 010-2117-1721
-sex : female

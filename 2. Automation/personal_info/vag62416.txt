@@ -1,6 +1,0 @@
-name : ageki
-age : 41
-e-mail : hoeaqzyn@needle.worm
-division : hqm
-telephone : 010-7241-5072
-sex : male

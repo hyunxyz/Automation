@@ -1,6 +1,0 @@
-name : dxjuw
-age : 96
-e-mail : uktnnfhr@needle.worm
-division : tmt
-telephone : 010-4396-1043
-sex : male

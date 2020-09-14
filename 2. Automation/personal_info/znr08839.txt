@@ -1,6 +1,0 @@
-name : cvlum
-age : 39
-e-mail : jfpgwjev@needle.worm
-division : ezu
-telephone : 010-8839-9088
-sex : others

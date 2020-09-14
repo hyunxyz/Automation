@@ -1,6 +1,0 @@
-name : femkq
-age : 02
-e-mail : eixbriwx@needle.worm
-division : jyl
-telephone : 010-5002-8350
-sex : male

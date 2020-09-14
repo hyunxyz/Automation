@@ -1,6 +1,0 @@
-name : izujj
-age : 03
-e-mail : gthcpykn@needle.worm
-division : lkl
-telephone : 010-7703-3477
-sex : male

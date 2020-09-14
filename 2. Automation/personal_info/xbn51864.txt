@@ -1,6 +1,0 @@
-name : grmvj
-age : 78
-e-mail : hakcnrrq@needle.worm
-division : fgf
-telephone : 010-8178-4081
-sex : others

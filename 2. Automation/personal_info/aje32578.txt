@@ -1,6 +1,0 @@
-name : qmaxt
-age : 52
-e-mail : zgypzfxo@needle.worm
-division : xoz
-telephone : 010-5752-3357
-sex : female

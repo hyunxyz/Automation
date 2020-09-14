@@ -1,6 +1,0 @@
-name : hbcjc
-age : 55
-e-mail : ylvnjfhg@needle.worm
-division : hmw
-telephone : 010-6255-8862
-sex : male

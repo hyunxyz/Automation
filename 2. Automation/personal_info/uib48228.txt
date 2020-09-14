@@ -1,6 +1,0 @@
-name : duoks
-age : 28
-e-mail : afbkrycp@needle.worm
-division : seg
-telephone : 010-8228-1482
-sex : female

@@ -1,6 +1,0 @@
-name : owjds
-age : 81
-e-mail : dyvukexc@needle.worm
-division : lqr
-telephone : 010-1881-2618
-sex : others

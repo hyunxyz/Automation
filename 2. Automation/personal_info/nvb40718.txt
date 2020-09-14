@@ -1,6 +1,0 @@
-name : obgle
-age : 05
-e-mail : viyozgma@needle.worm
-division : exh
-telephone : 010-0805-4508
-sex : female

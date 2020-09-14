@@ -1,6 +1,0 @@
-name : whwdo
-age : 85
-e-mail : yezwjglq@needle.worm
-division : vel
-telephone : 010-4985-3649
-sex : others

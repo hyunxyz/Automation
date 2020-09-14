@@ -1,6 +1,0 @@
-name : qjrvc
-age : 12
-e-mail : xmwxnfvi@needle.worm
-division : xuy
-telephone : 010-0512-5105
-sex : male

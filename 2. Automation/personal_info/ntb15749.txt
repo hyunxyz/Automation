@@ -1,6 +1,0 @@
-name : fvjsb
-age : 22
-e-mail : glcaeqtz@needle.worm
-division : nmz
-telephone : 010-5722-8257
-sex : others

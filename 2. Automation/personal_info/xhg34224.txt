@@ -1,6 +1,0 @@
-name : tgvxg
-age : 17
-e-mail : savnkbhf@needle.worm
-division : iqc
-telephone : 010-4417-8144
-sex : others

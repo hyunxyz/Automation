@@ -1,6 +1,0 @@
-name : mzfum
-age : 72
-e-mail : mywgujsi@needle.worm
-division : mru
-telephone : 010-6572-5065
-sex : others

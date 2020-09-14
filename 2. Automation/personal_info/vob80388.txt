@@ -1,6 +1,0 @@
-name : kufrp
-age : 88
-e-mail : xwyjjeib@needle.worm
-division : rxy
-telephone : 010-0388-0803
-sex : others

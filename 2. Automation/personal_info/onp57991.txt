@@ -1,6 +1,0 @@
-name : gdeor
-age : 91
-e-mail : ghyedfnj@needle.worm
-division : iha
-telephone : 010-7991-7579
-sex : male

@@ -1,6 +1,0 @@
-name : jawkg
-age : 55
-e-mail : vyrclldv@needle.worm
-division : cxj
-telephone : 010-8655-9886
-sex : female

@@ -1,6 +1,0 @@
-name : adgoh
-age : 36
-e-mail : vgbbttfe@needle.worm
-division : dzc
-telephone : 010-9436-0594
-sex : female

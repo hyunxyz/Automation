@@ -1,6 +1,0 @@
-name : dfhxe
-age : 13
-e-mail : zvkrwoph@needle.worm
-division : ivl
-telephone : 010-5113-3151
-sex : others

@@ -1,6 +1,0 @@
-name : jdvzz
-age : 76
-e-mail : txtfzmij@needle.worm
-division : huy
-telephone : 010-1676-2216
-sex : male

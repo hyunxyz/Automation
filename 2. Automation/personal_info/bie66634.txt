@@ -1,6 +1,0 @@
-name : ecqrn
-age : 34
-e-mail : jnwqxqdj@needle.worm
-division : jql
-telephone : 010-6634-2666
-sex : female

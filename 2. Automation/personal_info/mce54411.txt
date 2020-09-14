@@ -1,6 +1,0 @@
-name : cglpd
-age : 11
-e-mail : xzcbzeso@needle.worm
-division : shk
-telephone : 010-4411-0544
-sex : others

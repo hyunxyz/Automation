@@ -1,6 +1,0 @@
-name : ehwki
-age : 05
-e-mail : fpokuvul@needle.worm
-division : jdj
-telephone : 010-5605-.456
-sex : male

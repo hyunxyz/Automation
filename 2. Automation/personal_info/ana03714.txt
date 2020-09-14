@@ -1,6 +1,0 @@
-name : dowtr
-age : 12
-e-mail : rfyhmjdh@needle.worm
-division : dkn
-telephone : 010-7112-0471
-sex : female

@@ -1,6 +1,0 @@
-name : caage
-age : 51
-e-mail : bsywduxr@needle.worm
-division : zkl
-telephone : 010-5751-5957
-sex : others

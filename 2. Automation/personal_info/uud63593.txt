@@ -1,6 +1,0 @@
-name : lliaf
-age : 93
-e-mail : kfewnoxb@needle.worm
-division : cyh
-telephone : 010-3593-3635
-sex : male

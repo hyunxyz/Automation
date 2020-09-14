@@ -1,6 +1,0 @@
-name : wxcph
-age : 68
-e-mail : tyqyylwe@needle.worm
-division : hqr
-telephone : 010-4768-9647
-sex : male

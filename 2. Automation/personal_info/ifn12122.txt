@@ -1,6 +1,0 @@
-name : bjcyf
-age : 22
-e-mail : cfluxxcw@needle.worm
-division : wbu
-telephone : 010-2122-9121
-sex : others

@@ -1,6 +1,0 @@
-name : jumlc
-age : 44
-e-mail : uflyitul@needle.worm
-division : dsr
-telephone : 010-7644-6276
-sex : female

@@ -1,6 +1,0 @@
-name : vpmzt
-age : 96
-e-mail : fsfheuns@needle.worm
-division : ujv
-telephone : 010-9196-7891
-sex : female

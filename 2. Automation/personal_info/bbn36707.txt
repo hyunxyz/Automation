@@ -1,6 +1,0 @@
-name : njnif
-age : 07
-e-mail : spfmsfrk@needle.worm
-division : ezi
-telephone : 010-6707-2367
-sex : male

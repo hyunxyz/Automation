@@ -1,6 +1,0 @@
-name : avpsu
-age : 33
-e-mail : wgspveyu@needle.worm
-division : zud
-telephone : 010-2233-6522
-sex : male

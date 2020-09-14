@@ -1,6 +1,0 @@
-name : vouuk
-age : 94
-e-mail : qqlirdeb@needle.worm
-division : ief
-telephone : 010-1294-2212
-sex : female

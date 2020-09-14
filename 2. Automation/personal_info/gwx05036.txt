@@ -1,6 +1,0 @@
-name : qkpgb
-age : 14
-e-mail : hjortzvd@needle.worm
-division : jfc
-telephone : 010-5014-6150
-sex : others

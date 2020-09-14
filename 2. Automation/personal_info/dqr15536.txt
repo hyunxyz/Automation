@@ -1,6 +1,0 @@
-name : wndba
-age : 36
-e-mail : cbomiupr@needle.worm
-division : gxm
-telephone : 010-5536-4155
-sex : female

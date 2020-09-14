@@ -1,6 +1,0 @@
-name : yzkeq
-age : 86
-e-mail : ilsfhozr@needle.worm
-division : jri
-telephone : 010-5886-5458
-sex : female

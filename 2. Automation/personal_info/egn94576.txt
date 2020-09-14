@@ -1,6 +1,0 @@
-name : nfvhp
-age : 49
-e-mail : uffufwud@needle.worm
-division : yhy
-telephone : 010-4549-0045
-sex : male

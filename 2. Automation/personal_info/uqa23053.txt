@@ -1,6 +1,0 @@
-name : mzefp
-age : 28
-e-mail : hmnnqran@needle.worm
-division : dir
-telephone : 010-3028-8330
-sex : male

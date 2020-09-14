@@ -1,6 +1,0 @@
-name : kliui
-age : 21
-e-mail : tqchybyq@needle.worm
-division : iyj
-telephone : 010-5621-6456
-sex : female

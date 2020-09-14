@@ -1,6 +1,0 @@
-name : lhiuq
-age : 74
-e-mail : mrzdbqre@needle.worm
-division : nnr
-telephone : 010-0374-8303
-sex : others

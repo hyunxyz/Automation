@@ -1,6 +1,0 @@
-name : qxyoy
-age : 45
-e-mail : tvfnrgqi@needle.worm
-division : jwo
-telephone : 010-4945-4949
-sex : others

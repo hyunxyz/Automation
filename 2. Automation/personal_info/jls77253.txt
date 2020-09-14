@@ -1,6 +1,0 @@
-name : pxfxa
-age : 62
-e-mail : kjjpfwfr@needle.worm
-division : pdh
-telephone : 010-5262-7352
-sex : female

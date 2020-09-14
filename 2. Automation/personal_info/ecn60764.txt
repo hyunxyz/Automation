@@ -1,6 +1,0 @@
-name : ujjai
-age : 64
-e-mail : dztddfsp@needle.worm
-division : bpn
-telephone : 010-0764-4607
-sex : others

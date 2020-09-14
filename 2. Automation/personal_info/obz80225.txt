@@ -1,6 +1,0 @@
-name : uuuxk
-age : 05
-e-mail : qabvzzep@needle.worm
-division : lya
-telephone : 010-0205-8902
-sex : female

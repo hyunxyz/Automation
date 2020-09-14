@@ -1,6 +1,0 @@
-name : jboxf
-age : 92
-e-mail : jhrlukzr@needle.worm
-division : cqt
-telephone : 010-6092-6860
-sex : female

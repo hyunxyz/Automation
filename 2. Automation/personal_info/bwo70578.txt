@@ -1,6 +1,0 @@
-name : fcqmw
-age : 59
-e-mail : sjsctxgn@needle.worm
-division : pkx
-telephone : 010-0559-2805
-sex : male

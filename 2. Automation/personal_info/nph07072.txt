@@ -1,6 +1,0 @@
-name : tboce
-age : 33
-e-mail : owyfegke@needle.worm
-division : uoj
-telephone : 010-7033-1170
-sex : female

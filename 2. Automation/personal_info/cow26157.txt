@@ -1,6 +1,0 @@
-name : hbbcv
-age : 12
-e-mail : ttudymru@needle.worm
-division : zne
-telephone : 010-3612-9936
-sex : others

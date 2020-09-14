@@ -1,6 +1,0 @@
-name : pteyk
-age : 28
-e-mail : ylckwhgs@needle.worm
-division : nil
-telephone : 010-0328-5803
-sex : male

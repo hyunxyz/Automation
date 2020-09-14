@@ -1,6 +1,0 @@
-name : wnmvx
-age : 22
-e-mail : usnbvasd@needle.worm
-division : jgr
-telephone : 010-3222-5432
-sex : female

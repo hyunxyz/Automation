@@ -1,6 +1,0 @@
-name : iapwy
-age : 75
-e-mail : dghexkcc@needle.worm
-division : iph
-telephone : 010-1905-6319
-sex : others

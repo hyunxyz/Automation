@@ -1,6 +1,0 @@
-name : plhgx
-age : 88
-e-mail : mswxkjlw@needle.worm
-division : nfa
-telephone : 010-2988-8529
-sex : female

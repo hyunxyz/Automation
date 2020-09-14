@@ -1,6 +1,0 @@
-name : knuea
-age : 56
-e-mail : xqrwltmm@needle.worm
-division : yjj
-telephone : 010-9156-2791
-sex : female

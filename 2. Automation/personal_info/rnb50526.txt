@@ -1,6 +1,0 @@
-name : vdnon
-age : 05
-e-mail : etlwfoiu@needle.worm
-division : jlk
-telephone : 010-5605-.456
-sex : male

@@ -1,6 +1,0 @@
-name : tusxy
-age : 93
-e-mail : lewqnobc@needle.worm
-division : nim
-telephone : 010-4493-6644
-sex : female

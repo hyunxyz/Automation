@@ -1,6 +1,0 @@
-name : hayld
-age : 68
-e-mail : qsjufgwq@needle.worm
-division : spu
-telephone : 010-7268-2472
-sex : female

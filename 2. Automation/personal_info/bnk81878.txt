@@ -1,6 +1,0 @@
-name : hcspg
-age : 58
-e-mail : njmxubwz@needle.worm
-division : abk
-telephone : 010-1858-7918
-sex : male

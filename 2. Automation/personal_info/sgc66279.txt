@@ -1,6 +1,0 @@
-name : ainsq
-age : 79
-e-mail : unhkfrnd@needle.worm
-division : pmm
-telephone : 010-6279-8662
-sex : male

@@ -1,6 +1,0 @@
-name : qaykg
-age : 25
-e-mail : miefunea@needle.worm
-division : xdd
-telephone : 010-7425-1874
-sex : others

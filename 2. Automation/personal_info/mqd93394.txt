@@ -1,6 +1,0 @@
-name : bxtgf
-age : 74
-e-mail : jtpouauo@needle.worm
-division : snj
-telephone : 010-3374-7033
-sex : male

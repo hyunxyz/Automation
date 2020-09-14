@@ -1,6 +1,0 @@
-name : nowgf
-age : 06
-e-mail : tazcqhbx@needle.worm
-division : mhi
-telephone : 010-6306-3463
-sex : female

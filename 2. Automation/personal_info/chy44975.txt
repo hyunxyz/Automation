@@ -1,6 +1,0 @@
-name : rxpjl
-age : 46
-e-mail : evgmluel@needle.worm
-division : klo
-telephone : 010-4946-8549
-sex : female

@@ -1,6 +1,0 @@
-name : xmrln
-age : 67
-e-mail : ufgtpkqb@needle.worm
-division : cqg
-telephone : 010-2667-2626
-sex : others

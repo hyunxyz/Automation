@@ -1,6 +1,0 @@
-name : svdik
-age : 22
-e-mail : mnmmhufh@needle.worm
-division : yqp
-telephone : 010-7522-0275
-sex : female

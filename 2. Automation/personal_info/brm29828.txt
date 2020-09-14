@@ -1,6 +1,0 @@
-name : ltcvl
-age : 03
-e-mail : kguoemdq@needle.worm
-division : xkv
-telephone : 010-9803-0398
-sex : male

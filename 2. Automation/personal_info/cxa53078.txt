@@ -1,6 +1,0 @@
-name : rhjac
-age : 78
-e-mail : zmuqrdwa@needle.worm
-division : dcp
-telephone : 010-3078-5530
-sex : female

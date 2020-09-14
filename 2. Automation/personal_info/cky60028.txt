@@ -1,6 +1,0 @@
-name : cbyuj
-age : 25
-e-mail : enpwqunf@needle.worm
-division : uqw
-telephone : 010-1025-9610
-sex : female

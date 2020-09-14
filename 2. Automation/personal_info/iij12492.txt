@@ -1,6 +1,0 @@
-name : chgcd
-age : 37
-e-mail : vxqlvjtr@needle.worm
-division : dqd
-telephone : 010-4837-1548
-sex : others

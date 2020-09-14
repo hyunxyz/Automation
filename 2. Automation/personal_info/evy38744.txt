@@ -1,6 +1,0 @@
-name : ezvsd
-age : 44
-e-mail : gufgnqot@needle.worm
-division : pnl
-telephone : 010-8744-4387
-sex : others

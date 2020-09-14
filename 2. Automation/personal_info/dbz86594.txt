@@ -1,6 +1,0 @@
-name : ztlmt
-age : 57
-e-mail : mkqdlzoj@needle.worm
-division : ynh
-telephone : 010-6557-2965
-sex : others

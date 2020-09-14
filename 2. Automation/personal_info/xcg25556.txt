@@ -1,6 +1,0 @@
-name : imhba
-age : 24
-e-mail : wffwekqn@needle.worm
-division : zvz
-telephone : 010-5524-6355
-sex : female

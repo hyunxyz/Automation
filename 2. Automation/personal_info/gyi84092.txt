@@ -1,6 +1,0 @@
-name : ghokh
-age : 75
-e-mail : mwixdpno@needle.worm
-division : usr
-telephone : 010-3875-2538
-sex : female

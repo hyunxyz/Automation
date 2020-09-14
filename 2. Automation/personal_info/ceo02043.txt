@@ -1,6 +1,0 @@
-name : gdxrh
-age : 43
-e-mail : xikucerk@needle.worm
-division : qft
-telephone : 010-2043-2020
-sex : others

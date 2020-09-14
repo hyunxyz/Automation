@@ -1,6 +1,0 @@
-name : bqwhl
-age : 51
-e-mail : zwkakqqs@needle.worm
-division : azx
-telephone : 010-8151-4181
-sex : female

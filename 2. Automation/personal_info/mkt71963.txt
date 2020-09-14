@@ -1,6 +1,0 @@
-name : dfjck
-age : 63
-e-mail : knivbomd@needle.worm
-division : qkf
-telephone : 010-1963-9719
-sex : female

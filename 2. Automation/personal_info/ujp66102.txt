@@ -1,6 +1,0 @@
-name : hslyt
-age : 02
-e-mail : xwmzotkv@needle.worm
-division : clq
-telephone : 010-6102-4661
-sex : male

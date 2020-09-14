@@ -1,6 +1,0 @@
-name : xdnyr
-age : 46
-e-mail : nwbgwqsi@needle.worm
-division : hos
-telephone : 010-1646-1316
-sex : male

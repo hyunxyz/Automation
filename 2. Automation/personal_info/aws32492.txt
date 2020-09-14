@@ -1,6 +1,0 @@
-name : bishr
-age : 77
-e-mail : dmrvcgty@needle.worm
-division : luk
-telephone : 010-2477-0424
-sex : female

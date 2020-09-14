@@ -1,6 +1,0 @@
-name : pwzxb
-age : 08
-e-mail : ktvuzetv@needle.worm
-division : dnu
-telephone : 010-5708-7057
-sex : others

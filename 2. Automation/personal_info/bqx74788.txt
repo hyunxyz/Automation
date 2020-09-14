@@ -1,6 +1,0 @@
-name : kidka
-age : 88
-e-mail : mqnuwvdw@needle.worm
-division : veo
-telephone : 010-4788-1747
-sex : others

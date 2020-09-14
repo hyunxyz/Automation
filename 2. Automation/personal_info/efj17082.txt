@@ -1,6 +1,0 @@
-name : cropb
-age : 06
-e-mail : ygdbalss@needle.worm
-division : llf
-telephone : 010-2706-3327
-sex : male

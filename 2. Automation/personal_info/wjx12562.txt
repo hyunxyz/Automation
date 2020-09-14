@@ -1,6 +1,0 @@
-name : cthlt
-age : 89
-e-mail : dovfmhep@needle.worm
-division : ozl
-telephone : 010-5589-1355
-sex : female

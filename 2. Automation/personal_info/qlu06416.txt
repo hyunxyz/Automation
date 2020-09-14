@@ -1,6 +1,0 @@
-name : lfjoz
-age : 94
-e-mail : gjhcilgj@needle.worm
-division : yjt
-telephone : 010-6394-3163
-sex : others

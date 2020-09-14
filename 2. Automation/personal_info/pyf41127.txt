@@ -1,6 +1,0 @@
-name : kmtyh
-age : 27
-e-mail : gtpheqju@needle.worm
-division : jva
-telephone : 010-1127-5411
-sex : others

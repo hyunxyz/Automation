@@ -1,6 +1,0 @@
-name : uzfdf
-age : 05
-e-mail : qwwlwszd@needle.worm
-division : hjh
-telephone : 010-5305-7653
-sex : female

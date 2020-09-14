@@ -1,6 +1,0 @@
-name : mldop
-age : 19
-e-mail : kjxrnfun@needle.worm
-division : thr
-telephone : 010-4519-6545
-sex : others

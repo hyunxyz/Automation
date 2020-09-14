@@ -1,6 +1,0 @@
-name : cirex
-age : 74
-e-mail : tyouuoal@needle.worm
-division : kjb
-telephone : 010-2174-8921
-sex : female

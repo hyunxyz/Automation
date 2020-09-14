@@ -1,6 +1,0 @@
-name : varqa
-age : 13
-e-mail : baprlyub@needle.worm
-division : tjq
-telephone : 010-1713-0617
-sex : male

@@ -1,6 +1,0 @@
-name : xmujn
-age : 34
-e-mail : qeqboxdt@needle.worm
-division : lfs
-telephone : 010-7534-6675
-sex : female

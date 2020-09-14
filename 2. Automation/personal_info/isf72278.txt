@@ -1,6 +1,0 @@
-name : xxesr
-age : 78
-e-mail : skcwrghw@needle.worm
-division : nju
-telephone : 010-2278-3722
-sex : female

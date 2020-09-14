@@ -1,6 +1,0 @@
-name : vnedr
-age : 07
-e-mail : sthpgfjr@needle.worm
-division : kxn
-telephone : 010-7507-8975
-sex : others

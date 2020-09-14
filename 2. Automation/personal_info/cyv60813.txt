@@ -1,6 +1,0 @@
-name : qmzsm
-age : 86
-e-mail : fnvtcica@needle.worm
-division : prm
-telephone : 010-0786-6707
-sex : others

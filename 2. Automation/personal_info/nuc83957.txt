@@ -1,6 +1,0 @@
-name : ekruj
-age : 57
-e-mail : meqnezjh@needle.worm
-division : znc
-telephone : 010-9394-4493
-sex : female

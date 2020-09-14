@@ -1,6 +1,0 @@
-name : zvhrp
-age : 92
-e-mail : qlrjdbjp@needle.worm
-division : lnf
-telephone : 010-8092-1880
-sex : others

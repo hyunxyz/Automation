@@ -1,6 +1,0 @@
-name : wgbun
-age : 53
-e-mail : bsekkudw@needle.worm
-division : mch
-telephone : 010-2153-4221
-sex : male

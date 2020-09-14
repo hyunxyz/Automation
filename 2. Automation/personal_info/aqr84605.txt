@@ -1,6 +1,0 @@
-name : uawpk
-age : 76
-e-mail : qadfotjn@needle.worm
-division : tck
-telephone : 010-4576-9945
-sex : male

@@ -1,6 +1,0 @@
-name : whysx
-age : 06
-e-mail : nxfmzlqf@needle.worm
-division : duh
-telephone : 010-1506-4015
-sex : others

@@ -1,6 +1,0 @@
-name : kntog
-age : 78
-e-mail : jgwvyorh@needle.worm
-division : lrt
-telephone : 010-5878-5558
-sex : female

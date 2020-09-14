@@ -1,6 +1,0 @@
-name : tvvrx
-age : 93
-e-mail : rwqiksmc@needle.worm
-division : tlt
-telephone : 010-2093-7020
-sex : female

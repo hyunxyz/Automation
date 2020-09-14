@@ -1,6 +1,0 @@
-name : ysmaw
-age : 86
-e-mail : xwmjlunb@needle.worm
-division : pca
-telephone : 010-6786-6767
-sex : male

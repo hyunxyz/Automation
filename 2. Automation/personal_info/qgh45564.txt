@@ -1,6 +1,0 @@
-name : ahqag
-age : 64
-e-mail : dxgllnxr@needle.worm
-division : aho
-telephone : 010-5564-1455
-sex : female

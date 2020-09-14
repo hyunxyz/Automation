@@ -1,6 +1,0 @@
-name : ohamk
-age : 18
-e-mail : xzekutae@needle.worm
-division : dsx
-telephone : 010-6418-5664
-sex : female

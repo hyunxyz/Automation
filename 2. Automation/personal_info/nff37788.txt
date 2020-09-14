@@ -1,6 +1,0 @@
-name : ioymu
-age : 54
-e-mail : cooydsvr@needle.worm
-division : qrl
-telephone : 010-7754-8477
-sex : male

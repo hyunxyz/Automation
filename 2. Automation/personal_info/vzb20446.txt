@@ -1,6 +1,0 @@
-name : fzerx
-age : 46
-e-mail : dgmatkaj@needle.worm
-division : ycw
-telephone : 010-0446-3204
-sex : female

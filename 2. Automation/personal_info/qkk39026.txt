@@ -1,6 +1,0 @@
-name : fckxs
-age : 33
-e-mail : zwfgupto@needle.worm
-division : qao
-telephone : 010-0233-4002
-sex : female

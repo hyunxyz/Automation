@@ -1,6 +1,0 @@
-name : mkcqg
-age : 92
-e-mail : wqthtafb@needle.worm
-division : teg
-telephone : 010-5192-2851
-sex : female

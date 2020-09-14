@@ -1,6 +1,0 @@
-name : pmkcd
-age : 74
-e-mail : inwlrlhp@needle.worm
-division : vld
-telephone : 010-4274-4942
-sex : male

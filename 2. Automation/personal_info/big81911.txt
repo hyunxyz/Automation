@@ -1,6 +1,0 @@
-name : ckoje
-age : 83
-e-mail : opxohigu@needle.worm
-division : mrf
-telephone : 010-9083-8290
-sex : female

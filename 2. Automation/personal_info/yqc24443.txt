@@ -1,6 +1,0 @@
-name : hwwel
-age : 19
-e-mail : byzxnztc@needle.worm
-division : wqy
-telephone : 010-4419-8344
-sex : male

@@ -1,6 +1,0 @@
-name : mrmuc
-age : 11
-e-mail : oxkilzvh@needle.worm
-division : liq
-telephone : 010-4411-0544
-sex : others

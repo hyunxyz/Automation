@@ -1,6 +1,0 @@
-name : xyykk
-age : 57
-e-mail : fppfxekm@needle.worm
-division : hio
-telephone : 010-6157-9261
-sex : female

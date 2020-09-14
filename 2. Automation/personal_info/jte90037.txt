@@ -1,6 +1,0 @@
-name : ksyei
-age : 37
-e-mail : eiqyxdjb@needle.worm
-division : xtl
-telephone : 010-0037-6900
-sex : male

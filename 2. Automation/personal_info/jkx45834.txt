@@ -1,6 +1,0 @@
-name : arfsh
-age : 34
-e-mail : nhimyjdx@needle.worm
-division : qcj
-telephone : 010-5834-0458
-sex : female

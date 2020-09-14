@@ -1,6 +1,0 @@
-name : ihkqs
-age : 18
-e-mail : faswzrnp@needle.worm
-division : nnq
-telephone : 010-6518-5265
-sex : others

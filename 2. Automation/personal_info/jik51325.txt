@@ -1,6 +1,0 @@
-name : zixqi
-age : 25
-e-mail : tweceqnt@needle.worm
-division : fnk
-telephone : 010-1325-2513
-sex : others

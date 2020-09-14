@@ -1,6 +1,0 @@
-name : dtdcs
-age : 04
-e-mail : qrcgofqc@needle.worm
-division : jyy
-telephone : 010-3104-8031
-sex : others

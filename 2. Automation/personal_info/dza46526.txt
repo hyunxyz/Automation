@@ -1,6 +1,0 @@
-name : ftviw
-age : 26
-e-mail : vztszpgt@needle.worm
-division : kmc
-telephone : 010-6526-0465
-sex : female

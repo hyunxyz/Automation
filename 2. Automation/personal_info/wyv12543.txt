@@ -1,6 +1,0 @@
-name : tntbz
-age : 57
-e-mail : luollfxd@needle.worm
-division : hoz
-telephone : 010-2257-5022
-sex : male

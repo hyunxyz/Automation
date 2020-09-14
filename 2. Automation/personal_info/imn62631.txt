@@ -1,6 +1,0 @@
-name : nzyit
-age : 02
-e-mail : viglekqe@needle.worm
-division : har
-telephone : 010-2602-7726
-sex : male

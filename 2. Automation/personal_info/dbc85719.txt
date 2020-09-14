@@ -1,6 +1,0 @@
-name : nbwzf
-age : 19
-e-mail : fbeyedbp@needle.worm
-division : sap
-telephone : 010-5719-0857
-sex : male

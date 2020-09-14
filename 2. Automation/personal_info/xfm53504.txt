@@ -1,6 +1,0 @@
-name : bsrlp
-age : 04
-e-mail : cydfwwcl@needle.worm
-division : rbo
-telephone : 010-3504-6535
-sex : male

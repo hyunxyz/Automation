@@ -1,6 +1,0 @@
-name : kxmus
-age : 43
-e-mail : cbuoxzql@needle.worm
-division : hab
-telephone : 010-6543-3265
-sex : female

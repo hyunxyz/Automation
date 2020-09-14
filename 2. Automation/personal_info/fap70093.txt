@@ -1,6 +1,0 @@
-name : nbkhw
-age : 68
-e-mail : usdhlsiq@needle.worm
-division : yqa
-telephone : 010-0068-6800
-sex : male

@@ -1,6 +1,0 @@
-name : jxqrj
-age : 28
-e-mail : mcswkirm@needle.worm
-division : pen
-telephone : 010-9728-5897
-sex : female

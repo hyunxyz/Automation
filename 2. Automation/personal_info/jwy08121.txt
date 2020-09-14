@@ -1,6 +1,0 @@
-name : mijru
-age : 21
-e-mail : tcapqely@needle.worm
-division : nhx
-telephone : 010-8121-7081
-sex : others

@@ -1,6 +1,0 @@
-name : wnnex
-age : 62
-e-mail : gxelwzfi@needle.worm
-division : jra
-telephone : 010-3662-3336
-sex : male

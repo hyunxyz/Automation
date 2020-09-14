@@ -1,6 +1,0 @@
-name : hpijv
-age : 39
-e-mail : swcqmmpd@needle.worm
-division : gzr
-telephone : 010-8739-4787
-sex : male

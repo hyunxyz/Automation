@@ -1,6 +1,0 @@
-name : xbmmy
-age : 34
-e-mail : xlzancxp@needle.worm
-division : btq
-telephone : 010-9534-1395
-sex : female

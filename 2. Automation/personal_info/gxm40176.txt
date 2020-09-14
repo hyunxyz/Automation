@@ -1,6 +1,0 @@
-name : nqeoy
-age : 76
-e-mail : jzdekspj@needle.worm
-division : fcc
-telephone : 010-0176-6401
-sex : others

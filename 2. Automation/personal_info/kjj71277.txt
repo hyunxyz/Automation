@@ -1,6 +1,0 @@
-name : ycdiz
-age : 77
-e-mail : maeyhqfo@needle.worm
-division : hcd
-telephone : 010-1277-3712
-sex : female

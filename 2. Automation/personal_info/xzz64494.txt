@@ -1,6 +1,0 @@
-name : kwwho
-age : 94
-e-mail : vravlhkq@needle.worm
-division : xyp
-telephone : 010-4494-0644
-sex : female

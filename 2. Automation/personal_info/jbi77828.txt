@@ -1,6 +1,0 @@
-name : emgek
-age : 28
-e-mail : xxqtjmcg@needle.worm
-division : jum
-telephone : 010-7828-7778
-sex : others

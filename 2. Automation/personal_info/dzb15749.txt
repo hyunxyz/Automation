@@ -1,6 +1,0 @@
-name : wolho
-age : 49
-e-mail : eoqdesdy@needle.worm
-division : vsi
-telephone : 010-5749-8157
-sex : others

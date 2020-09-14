@@ -1,6 +1,0 @@
-name : xtgxi
-age : 25
-e-mail : coxawrxf@needle.worm
-division : njy
-telephone : 010-2425-8424
-sex : female

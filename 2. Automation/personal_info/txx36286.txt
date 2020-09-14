@@ -1,6 +1,0 @@
-name : paacn
-age : 86
-e-mail : mpygxjzj@needle.worm
-division : pyo
-telephone : 010-6286-1362
-sex : female

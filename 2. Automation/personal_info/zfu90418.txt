@@ -1,6 +1,0 @@
-name : diakh
-age : 18
-e-mail : wtyguuhs@needle.worm
-division : vnz
-telephone : 010-0418-5904
-sex : male

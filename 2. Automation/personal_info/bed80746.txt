@@ -1,6 +1,0 @@
-name : laaaq
-age : 46
-e-mail : tujlulnb@needle.worm
-division : wph
-telephone : 010-0746-4807
-sex : male

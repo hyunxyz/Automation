@@ -1,6 +1,0 @@
-name : mjdge
-age : 27
-e-mail : mxrxwujd@needle.worm
-division : eix
-telephone : 010-8627-2586
-sex : female

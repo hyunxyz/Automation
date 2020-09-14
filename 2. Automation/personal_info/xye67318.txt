@@ -1,6 +1,0 @@
-name : sigun
-age : 98
-e-mail : zkbfkufk@needle.worm
-division : ndy
-telephone : 010-7298-9772
-sex : others

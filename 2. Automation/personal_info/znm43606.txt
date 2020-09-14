@@ -1,6 +1,0 @@
-name : zwqnt
-age : 03
-e-mail : bvqiuwsh@needle.worm
-division : wgg
-telephone : 010-5803-5358
-sex : female

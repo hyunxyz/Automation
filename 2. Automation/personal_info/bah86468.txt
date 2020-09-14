@@ -1,6 +1,0 @@
-name : jgmqz
-age : 68
-e-mail : tqbbmiro@needle.worm
-division : tex
-telephone : 010-6468-2864
-sex : male

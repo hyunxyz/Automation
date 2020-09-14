@@ -1,6 +1,0 @@
-name : frgeu
-age : 91
-e-mail : gthhhtam@needle.worm
-division : vei
-telephone : 010-8391-5683
-sex : female

@@ -1,6 +1,0 @@
-name : hbfgn
-age : 55
-e-mail : lupfvxvb@needle.worm
-division : jzd
-telephone : 010-1655-3516
-sex : others

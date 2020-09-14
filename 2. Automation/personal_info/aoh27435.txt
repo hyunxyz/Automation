@@ -1,6 +1,0 @@
-name : wvlaq
-age : 35
-e-mail : wlpcayva@needle.worm
-division : nvy
-telephone : 010-7435-9274
-sex : female

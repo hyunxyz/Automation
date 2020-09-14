@@ -1,6 +1,0 @@
-name : jfegv
-age : 05
-e-mail : oomyzmeh@needle.worm
-division : jgj
-telephone : 010-5905-0159
-sex : male

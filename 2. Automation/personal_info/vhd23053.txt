@@ -1,6 +1,0 @@
-name : htodh
-age : 53
-e-mail : yieafrjb@needle.worm
-division : hai
-telephone : 010-3053-8230
-sex : others

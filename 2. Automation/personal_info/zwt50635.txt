@@ -1,6 +1,0 @@
-name : fmswu
-age : 05
-e-mail : xkljgzcc@needle.worm
-division : jgg
-telephone : 010-0605-2606
-sex : others

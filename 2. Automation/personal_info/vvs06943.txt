@@ -1,6 +1,0 @@
-name : ahxjo
-age : 43
-e-mail : dhqbcbgq@needle.worm
-division : das
-telephone : 010-6943-1069
-sex : others

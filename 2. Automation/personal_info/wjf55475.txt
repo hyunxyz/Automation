@@ -1,6 +1,0 @@
-name : hujby
-age : 75
-e-mail : nzcskyvt@needle.worm
-division : tpu
-telephone : 010-5475-6554
-sex : female

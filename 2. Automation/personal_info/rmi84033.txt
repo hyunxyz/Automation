@@ -1,6 +1,0 @@
-name : grxbr
-age : 33
-e-mail : sddirysa@needle.worm
-division : vtp
-telephone : 010-4033-5840
-sex : male

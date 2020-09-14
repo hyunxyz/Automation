@@ -1,6 +1,0 @@
-name : xkzfm
-age : 43
-e-mail : jfrqnezt@needle.worm
-division : pyi
-telephone : 010-6443-2964
-sex : female

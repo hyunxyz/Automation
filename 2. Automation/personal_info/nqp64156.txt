@@ -1,6 +1,0 @@
-name : zgzhi
-age : 56
-e-mail : wnjeynxm@needle.worm
-division : yea
-telephone : 010-4156-1641
-sex : others

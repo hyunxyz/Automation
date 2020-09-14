@@ -1,6 +1,0 @@
-name : ayvba
-age : 87
-e-mail : tgsjyopr@needle.worm
-division : vzk
-telephone : 010-9687-3396
-sex : female

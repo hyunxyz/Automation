@@ -1,6 +1,0 @@
-name : cwbta
-age : 03
-e-mail : qdmtcsie@needle.worm
-division : skb
-telephone : 010-7003-3470
-sex : others

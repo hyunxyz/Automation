@@ -1,6 +1,0 @@
-name : keahl
-age : 52
-e-mail : tpoxsxyw@needle.worm
-division : wcz
-telephone : 010-2952-6429
-sex : others

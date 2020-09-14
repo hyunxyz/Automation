@@ -1,6 +1,0 @@
-name : sgbtv
-age : 18
-e-mail : unrbhhld@needle.worm
-division : szk
-telephone : 010-7318-9673
-sex : female

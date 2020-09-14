@@ -1,6 +1,0 @@
-name : exryv
-age : 83
-e-mail : quuelipt@needle.worm
-division : zxv
-telephone : 010-4283-1442
-sex : others

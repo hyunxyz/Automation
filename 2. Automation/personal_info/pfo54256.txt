@@ -1,6 +1,0 @@
-name : qbdai
-age : 56
-e-mail : pexgtnkt@needle.worm
-division : uxr
-telephone : 010-4256-1542
-sex : others

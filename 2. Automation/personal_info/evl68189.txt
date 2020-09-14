@@ -1,6 +1,0 @@
-name : kunwl
-age : 89
-e-mail : ostjlwlf@needle.worm
-division : iwh
-telephone : 010-8189-1681
-sex : others

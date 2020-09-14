@@ -1,6 +1,0 @@
-name : eetua
-age : 72
-e-mail : prljpvkx@needle.worm
-division : wvc
-telephone : 010-9372-1993
-sex : female

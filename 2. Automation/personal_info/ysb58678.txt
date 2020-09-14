@@ -1,6 +1,0 @@
-name : vlelg
-age : 78
-e-mail : hsqyiumg@needle.worm
-division : tcd
-telephone : 010-8678-4586
-sex : female

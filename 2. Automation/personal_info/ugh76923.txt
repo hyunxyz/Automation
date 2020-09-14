@@ -1,6 +1,0 @@
-name : esjtd
-age : 23
-e-mail : tsjumxld@needle.worm
-division : fmi
-telephone : 010-6923-3769
-sex : male

@@ -1,6 +1,0 @@
-name : mssnd
-age : 84
-e-mail : dhlfygqj@needle.worm
-division : zvz
-telephone : 010-6284-3562
-sex : others

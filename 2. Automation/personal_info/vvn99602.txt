@@ -1,6 +1,0 @@
-name : ytdoz
-age : 02
-e-mail : iazpkwop@needle.worm
-division : zmf
-telephone : 010-9602-8996
-sex : others

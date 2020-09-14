@@ -1,6 +1,0 @@
-name : mqtfb
-age : 51
-e-mail : qzcmtfxh@needle.worm
-division : orb
-telephone : 010-4151-1541
-sex : others

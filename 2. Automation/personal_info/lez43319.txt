@@ -1,6 +1,0 @@
-name : trjjq
-age : 19
-e-mail : kfvrkgss@needle.worm
-division : wtq
-telephone : 010-3319-2433
-sex : male

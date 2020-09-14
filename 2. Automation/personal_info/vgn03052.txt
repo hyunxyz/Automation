@@ -1,6 +1,0 @@
-name : bymac
-age : 52
-e-mail : kqcehwea@needle.worm
-division : nju
-telephone : 010-3052-2030
-sex : female

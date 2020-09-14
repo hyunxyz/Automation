@@ -1,6 +1,0 @@
-name : tiobb
-age : 92
-e-mail : dlmodhoo@needle.worm
-division : ulx
-telephone : 010-1992-0019
-sex : female

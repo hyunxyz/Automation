@@ -1,6 +1,0 @@
-name : tspfe
-age : 23
-e-mail : jbwoykma@needle.worm
-division : oti
-telephone : 010-9123-4291
-sex : female

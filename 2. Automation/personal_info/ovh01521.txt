@@ -1,6 +1,0 @@
-name : zlpzp
-age : 21
-e-mail : fpnambhx@needle.worm
-division : gck
-telephone : 010-1521-4015
-sex : female

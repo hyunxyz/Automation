@@ -1,6 +1,0 @@
-name : jkgyl
-age : 33
-e-mail : sgfxjihv@needle.worm
-division : cys
-telephone : 010-5433-7154
-sex : others

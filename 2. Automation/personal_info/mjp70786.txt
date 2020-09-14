@@ -1,6 +1,0 @@
-name : yrtdn
-age : 86
-e-mail : zmoufzuu@needle.worm
-division : bmm
-telephone : 010-0786-6707
-sex : male

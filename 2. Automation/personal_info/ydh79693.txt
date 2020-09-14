@@ -1,6 +1,0 @@
-name : ekfzm
-age : 93
-e-mail : sqgbiypb@needle.worm
-division : qni
-telephone : 010-8967-6089
-sex : female

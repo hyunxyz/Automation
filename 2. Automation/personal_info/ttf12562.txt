@@ -1,6 +1,0 @@
-name : pgcls
-age : 62
-e-mail : jsuhbizv@needle.worm
-division : dko
-telephone : 010-2562-0125
-sex : others

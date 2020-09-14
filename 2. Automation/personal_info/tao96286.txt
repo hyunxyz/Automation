@@ -1,6 +1,0 @@
-name : cydds
-age : 54
-e-mail : xdshimve@needle.worm
-division : evy
-telephone : 010-6254-4062
-sex : female

@@ -1,6 +1,0 @@
-name : mhons
-age : 05
-e-mail : zrjnkszq@needle.worm
-division : ksf
-telephone : 010-3505-3935
-sex : female

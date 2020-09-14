@@ -1,6 +1,0 @@
-name : oedib
-age : 72
-e-mail : imtkdikv@needle.worm
-division : ggh
-telephone : 010-5772-5457
-sex : male

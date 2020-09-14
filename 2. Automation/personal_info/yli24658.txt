@@ -1,6 +1,0 @@
-name : cayga
-age : 58
-e-mail : ewijeeao@needle.worm
-division : vfl
-telephone : 010-4658-2246
-sex : others

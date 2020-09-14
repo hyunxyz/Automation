@@ -1,6 +1,0 @@
-name : gsast
-age : 48
-e-mail : ulhokfdr@needle.worm
-division : oib
-telephone : 010-6348-8563
-sex : male

@@ -1,6 +1,0 @@
-name : qcbrz
-age : 33
-e-mail : iaawtftb@needle.worm
-division : ksa
-telephone : 010-4733-4547
-sex : male

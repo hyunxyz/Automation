@@ -1,6 +1,0 @@
-name : msnik
-age : 29
-e-mail : qyykdqye@needle.worm
-division : dgo
-telephone : 010-3429-2034
-sex : male

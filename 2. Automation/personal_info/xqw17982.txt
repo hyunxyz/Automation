@@ -1,6 +1,0 @@
-name : bjgsr
-age : 82
-e-mail : iheikwtl@needle.worm
-division : att
-telephone : 010-7982-7179
-sex : male

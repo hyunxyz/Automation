@@ -1,6 +1,0 @@
-name : ycrwc
-age : 08
-e-mail : ulfohmki@needle.worm
-division : vdu
-telephone : 010-8308-5983
-sex : others

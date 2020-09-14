@@ -1,6 +1,0 @@
-name : osabh
-age : 95
-e-mail : vfiguqgq@needle.worm
-division : dpn
-telephone : 010-8695-5886
-sex : others

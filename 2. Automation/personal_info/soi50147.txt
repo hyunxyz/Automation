@@ -1,6 +1,0 @@
-name : uvvdt
-age : 63
-e-mail : zrefmhdc@needle.worm
-division : ust
-telephone : 010-0163-6601
-sex : female

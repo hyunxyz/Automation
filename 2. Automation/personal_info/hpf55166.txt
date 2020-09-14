@@ -1,6 +1,0 @@
-name : mifqp
-age : 66
-e-mail : sutmhnbr@needle.worm
-division : axg
-telephone : 010-5166-5551
-sex : others

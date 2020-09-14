@@ -1,6 +1,0 @@
-name : graec
-age : 67
-e-mail : nwvjbqpi@needle.worm
-division : wjh
-telephone : 010-2767-.227
-sex : others

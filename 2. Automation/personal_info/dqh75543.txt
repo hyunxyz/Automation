@@ -1,6 +1,0 @@
-name : gjulu
-age : 13
-e-mail : kkgytcko@needle.worm
-division : zdw
-telephone : 010-5513-6855
-sex : others

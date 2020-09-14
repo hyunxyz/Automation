@@ -1,6 +1,0 @@
-name : jruld
-age : 79
-e-mail : aqzrmozc@needle.worm
-division : dcc
-telephone : 010-9479-6694
-sex : others

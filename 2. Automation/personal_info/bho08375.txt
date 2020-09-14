@@ -1,6 +1,0 @@
-name : vocnl
-age : 32
-e-mail : algaimpa@needle.worm
-division : bfk
-telephone : 010-3732-0937
-sex : male

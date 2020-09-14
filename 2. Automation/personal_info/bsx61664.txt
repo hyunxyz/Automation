@@ -1,6 +1,0 @@
-name : lvwjb
-age : 64
-e-mail : cssnkpbj@needle.worm
-division : eoa
-telephone : 010-1664-8616
-sex : male

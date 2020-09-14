@@ -1,6 +1,0 @@
-name : qnnnq
-age : 75
-e-mail : bhyybtik@needle.worm
-division : xts
-telephone : 010-6275-8762
-sex : male

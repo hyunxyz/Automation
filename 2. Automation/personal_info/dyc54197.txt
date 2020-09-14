@@ -1,6 +1,0 @@
-name : gewkf
-age : 18
-e-mail : goyhueik@needle.worm
-division : mbh
-telephone : 010-6418-0664
-sex : female

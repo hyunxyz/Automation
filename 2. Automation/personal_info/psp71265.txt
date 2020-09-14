@@ -1,6 +1,0 @@
-name : xpagp
-age : 65
-e-mail : kqjwejwg@needle.worm
-division : srl
-telephone : 010-1265-8712
-sex : others

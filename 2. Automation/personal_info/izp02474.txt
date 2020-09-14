@@ -1,6 +1,0 @@
-name : ykmom
-age : 74
-e-mail : relnyimh@needle.worm
-division : mpb
-telephone : 010-2474-3024
-sex : male

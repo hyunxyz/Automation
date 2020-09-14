@@ -1,6 +1,0 @@
-name : uwzrz
-age : 24
-e-mail : hdcsxxol@needle.worm
-division : thk
-telephone : 010-0424-3304
-sex : others

@@ -1,6 +1,0 @@
-name : weaci
-age : 57
-e-mail : vhzqrgxq@needle.worm
-division : nfv
-telephone : 010-6957-1469
-sex : male

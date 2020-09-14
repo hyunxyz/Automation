@@ -1,6 +1,0 @@
-name : kocso
-age : 67
-e-mail : ijxfcsej@needle.worm
-division : kys
-telephone : 010-9667-6096
-sex : female

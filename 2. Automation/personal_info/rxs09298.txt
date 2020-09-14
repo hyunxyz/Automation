@@ -1,6 +1,0 @@
-name : ofmgn
-age : 98
-e-mail : nnmsppsz@needle.worm
-division : nok
-telephone : 010-9298-0092
-sex : male

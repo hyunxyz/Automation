@@ -1,6 +1,0 @@
-name : zzfim
-age : 36
-e-mail : dbltofem@needle.worm
-division : mzm
-telephone : 010-3536-3835
-sex : female

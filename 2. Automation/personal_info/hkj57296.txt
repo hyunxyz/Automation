@@ -1,6 +1,0 @@
-name : qyvfo
-age : 96
-e-mail : xuagnbvk@needle.worm
-division : zcc
-telephone : 010-7296-7572
-sex : male

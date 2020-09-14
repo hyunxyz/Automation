@@ -1,6 +1,0 @@
-name : kcifc
-age : 73
-e-mail : ngvsmnzb@needle.worm
-division : yga
-telephone : 010-0573-2605
-sex : female

@@ -1,6 +1,0 @@
-name : vpvjn
-age : 58
-e-mail : evafyyhq@needle.worm
-division : yyb
-telephone : 010-2858-6328
-sex : female

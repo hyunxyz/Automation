@@ -1,6 +1,0 @@
-name : avakp
-age : 91
-e-mail : yoneiboz@needle.worm
-division : iwc
-telephone : 010-8291-4882
-sex : female

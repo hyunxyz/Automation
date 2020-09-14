@@ -1,6 +1,0 @@
-name : ehemw
-age : 94
-e-mail : dapswqsi@needle.worm
-division : tkf
-telephone : 010-3894-3438
-sex : male

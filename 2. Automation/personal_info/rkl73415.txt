@@ -1,6 +1,0 @@
-name : wgtwk
-age : 15
-e-mail : djjsooyd@needle.worm
-division : zmc
-telephone : 010-3415-4734
-sex : others

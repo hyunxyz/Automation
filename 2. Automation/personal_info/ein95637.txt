@@ -1,6 +1,0 @@
-name : kggmj
-age : 61
-e-mail : eeflmbzr@needle.worm
-division : dse
-telephone : 010-0561-7605
-sex : female

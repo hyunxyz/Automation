@@ -1,6 +1,0 @@
-name : vbbea
-age : 45
-e-mail : iramkyyd@needle.worm
-division : ogz
-telephone : 010-2145-6821
-sex : female

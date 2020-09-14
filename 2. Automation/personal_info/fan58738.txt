@@ -1,6 +1,0 @@
-name : ighgh
-age : 38
-e-mail : ruxcsyml@needle.worm
-division : gqp
-telephone : 010-8738-9587
-sex : female

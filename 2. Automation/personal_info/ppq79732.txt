@@ -1,6 +1,0 @@
-name : fkder
-age : 32
-e-mail : yhianspx@needle.worm
-division : dnm
-telephone : 010-9732-8797
-sex : male

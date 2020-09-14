@@ -1,6 +1,0 @@
-name : vfoec
-age : 04
-e-mail : ydukjgwl@needle.worm
-division : sbc
-telephone : 010-2204-4022
-sex : others

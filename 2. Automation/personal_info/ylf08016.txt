@@ -1,6 +1,0 @@
-name : rghry
-age : 16
-e-mail : iimnohvp@needle.worm
-division : pzn
-telephone : 010-8016-7080
-sex : female

@@ -1,6 +1,0 @@
-name : umqje
-age : 94
-e-mail : wieemzuw@needle.worm
-division : chl
-telephone : 010-7094-.870
-sex : male

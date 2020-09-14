@@ -1,6 +1,0 @@
-name : gxjim
-age : 76
-e-mail : rroonwzb@needle.worm
-division : lrt
-telephone : 010-5276-5152
-sex : female

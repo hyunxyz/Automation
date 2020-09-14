@@ -1,6 +1,0 @@
-name : gkmar
-age : 06
-e-mail : plyusnui@needle.worm
-division : mbf
-telephone : 010-5506-9055
-sex : others

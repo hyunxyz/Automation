@@ -1,6 +1,0 @@
-name : nrzsd
-age : 47
-e-mail : fwomqfam@needle.worm
-division : vse
-telephone : 010-1347-2413
-sex : others

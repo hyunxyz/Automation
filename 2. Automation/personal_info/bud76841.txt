@@ -1,6 +1,0 @@
-name : gaemp
-age : 41
-e-mail : dyjmgwxw@needle.worm
-division : owc
-telephone : 010-6841-9768
-sex : female

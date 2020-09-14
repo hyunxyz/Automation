@@ -1,6 +1,0 @@
-name : qsmrv
-age : 38
-e-mail : ibfatpfj@needle.worm
-division : vdz
-telephone : 010-3838-0538
-sex : others

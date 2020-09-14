@@ -1,6 +1,0 @@
-name : ihblb
-age : 98
-e-mail : nciuynip@needle.worm
-division : wdz
-telephone : 010-6098-9460
-sex : others

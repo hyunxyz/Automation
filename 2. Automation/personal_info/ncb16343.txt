@@ -1,6 +1,0 @@
-name : tqscl
-age : 43
-e-mail : aglhqynx@needle.worm
-division : qpc
-telephone : 010-6343-1163
-sex : others

@@ -1,6 +1,0 @@
-name : mfjwe
-age : 16
-e-mail : duhahjwg@needle.worm
-division : own
-telephone : 010-4916-8649
-sex : others

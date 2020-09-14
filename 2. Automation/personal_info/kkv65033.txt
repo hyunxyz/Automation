@@ -1,6 +1,0 @@
-name : nuwou
-age : 33
-e-mail : uybyvyiu@needle.worm
-division : mlv
-telephone : 010-5033-8650
-sex : others

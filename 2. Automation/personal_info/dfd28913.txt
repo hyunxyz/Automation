@@ -1,6 +1,0 @@
-name : gnrhu
-age : 13
-e-mail : rtbrwcxp@needle.worm
-division : jjc
-telephone : 010-8913-6289
-sex : male

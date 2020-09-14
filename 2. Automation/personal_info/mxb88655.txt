@@ -1,6 +1,0 @@
-name : higsz
-age : 28
-e-mail : xwmdjnrw@needle.worm
-division : hoy
-telephone : 010-8628-9986
-sex : female

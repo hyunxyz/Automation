@@ -1,6 +1,0 @@
-name : fyxgr
-age : 24
-e-mail : eseuekol@needle.worm
-division : gxc
-telephone : 010-9724-6997
-sex : female

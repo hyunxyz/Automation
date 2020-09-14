@@ -1,6 +1,0 @@
-name : nnwzi
-age : 45
-e-mail : owcgktfl@needle.worm
-division : vgk
-telephone : 010-7745-3277
-sex : male

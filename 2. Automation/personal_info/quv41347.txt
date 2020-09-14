@@ -1,6 +1,0 @@
-name : pafdl
-age : 47
-e-mail : kvcqvgxg@needle.worm
-division : tbv
-telephone : 010-1347-2413
-sex : male

@@ -1,6 +1,0 @@
-name : nvihr
-age : 05
-e-mail : fywovgnh@needle.worm
-division : cks
-telephone : 010-2705-9527
-sex : female

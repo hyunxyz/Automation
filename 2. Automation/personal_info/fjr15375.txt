@@ -1,6 +1,0 @@
-name : bossy
-age : 75
-e-mail : ndelxkus@needle.worm
-division : uwe
-telephone : 010-5375-2153
-sex : female

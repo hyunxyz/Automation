@@ -1,6 +1,0 @@
-name : zauld
-age : 99
-e-mail : lfnegrkv@needle.worm
-division : tcc
-telephone : 010-0599-5159
-sex : others

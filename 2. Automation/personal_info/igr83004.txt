@@ -1,6 +1,0 @@
-name : qpoha
-age : 04
-e-mail : hkibxlls@needle.worm
-division : egd
-telephone : 010-3004-5830
-sex : male

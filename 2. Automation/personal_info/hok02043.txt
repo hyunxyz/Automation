@@ -1,6 +1,0 @@
-name : diptd
-age : 02
-e-mail : uftgkfiu@needle.worm
-division : efa
-telephone : 010-1202-5212
-sex : male

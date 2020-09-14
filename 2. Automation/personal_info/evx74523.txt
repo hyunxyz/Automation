@@ -1,6 +1,0 @@
-name : hetia
-age : 23
-e-mail : lzewhgxj@needle.worm
-division : ksm
-telephone : 010-4523-2745
-sex : others

@@ -1,6 +1,0 @@
-name : iugjd
-age : 09
-e-mail : fqdgrbzy@needle.worm
-division : aqw
-telephone : 010-1909-0319
-sex : female

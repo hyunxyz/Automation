@@ -1,6 +1,0 @@
-name : lexmf
-age : 77
-e-mail : blyvptoq@needle.worm
-division : syj
-telephone : 010-4177-9041
-sex : female

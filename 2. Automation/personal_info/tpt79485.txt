@@ -1,6 +1,0 @@
-name : dosnl
-age : 85
-e-mail : nqzqfnzc@needle.worm
-division : qia
-telephone : 010-9485-6794
-sex : others

@@ -1,6 +1,0 @@
-name : pvntp
-age : 65
-e-mail : ejwwkuwf@needle.worm
-division : wtz
-telephone : 010-4065-4440
-sex : others

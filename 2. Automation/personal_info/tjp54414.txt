@@ -1,6 +1,0 @@
-name : owsaj
-age : 74
-e-mail : xxtrmkkz@needle.worm
-division : ula
-telephone : 010-1374-4513
-sex : male

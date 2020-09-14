@@ -1,6 +1,0 @@
-name : gtffy
-age : 97
-e-mail : qyuksjod@needle.worm
-division : spc
-telephone : 010-2097-1820
-sex : male

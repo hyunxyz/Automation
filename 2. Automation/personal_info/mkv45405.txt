@@ -1,6 +1,0 @@
-name : uobmt
-age : 71
-e-mail : dqtyhzuh@needle.worm
-division : qkl
-telephone : 010-5371-9553
-sex : male

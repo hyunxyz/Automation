@@ -1,6 +1,0 @@
-name : kgxxi
-age : 68
-e-mail : kaxjtqpb@needle.worm
-division : tqw
-telephone : 010-5668-8456
-sex : female

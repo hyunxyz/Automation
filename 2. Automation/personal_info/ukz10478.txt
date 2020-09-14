@@ -1,6 +1,0 @@
-name : mwaak
-age : 78
-e-mail : ddrcapcq@needle.worm
-division : pua
-telephone : 010-0478-3104
-sex : others

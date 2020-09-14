@@ -1,6 +1,0 @@
-name : qitwo
-age : 21
-e-mail : obncdvya@needle.worm
-division : zym
-telephone : 010-7321-4873
-sex : others

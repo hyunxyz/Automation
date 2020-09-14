@@ -1,6 +1,0 @@
-name : xpvun
-age : 05
-e-mail : ydrjwuwx@needle.worm
-division : uiq
-telephone : 010-5405-9454
-sex : female

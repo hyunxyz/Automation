@@ -1,6 +1,0 @@
-name : tjlti
-age : 58
-e-mail : blobrwav@needle.worm
-division : hhe
-telephone : 010-2858-6328
-sex : female

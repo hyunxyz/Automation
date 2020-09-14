@@ -1,6 +1,0 @@
-name : tefnk
-age : 05
-e-mail : mmozmnqx@needle.worm
-division : ipj
-telephone : 010-1905-6319
-sex : female

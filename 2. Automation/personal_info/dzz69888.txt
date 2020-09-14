@@ -1,6 +1,0 @@
-name : chrvc
-age : 56
-e-mail : xzqwxvda@needle.worm
-division : qmz
-telephone : 010-9856-2798
-sex : female

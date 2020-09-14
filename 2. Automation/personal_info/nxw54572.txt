@@ -1,6 +1,0 @@
-name : kiklm
-age : 72
-e-mail : uakxpjyo@needle.worm
-division : oln
-telephone : 010-4572-2545
-sex : male

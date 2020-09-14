@@ -1,6 +1,0 @@
-name : tkuoq
-age : 15
-e-mail : iizafaaj@needle.worm
-division : zwo
-telephone : 010-4015-7240
-sex : female

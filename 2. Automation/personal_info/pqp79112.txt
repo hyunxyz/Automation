@@ -1,6 +1,0 @@
-name : qywgp
-age : 09
-e-mail : duyeppul@needle.worm
-division : eyz
-telephone : 010-8909-5089
-sex : others

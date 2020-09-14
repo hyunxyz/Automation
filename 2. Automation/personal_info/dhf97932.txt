@@ -1,6 +1,0 @@
-name : yxkqt
-age : 32
-e-mail : ognybtdq@needle.worm
-division : veg
-telephone : 010-7932-9979
-sex : male

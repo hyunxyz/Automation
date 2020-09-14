@@ -1,6 +1,0 @@
-name : xqdiz
-age : 32
-e-mail : hbroerzb@needle.worm
-division : xzj
-telephone : 010-0132-4401
-sex : male

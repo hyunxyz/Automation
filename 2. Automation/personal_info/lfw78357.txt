@@ -1,6 +1,0 @@
-name : xixxm
-age : 57
-e-mail : ioytqeyj@needle.worm
-division : sid
-telephone : 010-8357-5783
-sex : others

@@ -1,6 +1,0 @@
-name : wxmck
-age : 38
-e-mail : pgyyuxcn@needle.worm
-division : njh
-telephone : 010-7138-0771
-sex : male

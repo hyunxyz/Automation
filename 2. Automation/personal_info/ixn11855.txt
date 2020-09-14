@@ -1,6 +1,0 @@
-name : arbsi
-age : 55
-e-mail : dvktogsz@needle.worm
-division : dsx
-telephone : 010-1855-0118
-sex : male

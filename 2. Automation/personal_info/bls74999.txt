@@ -1,6 +1,0 @@
-name : nzrun
-age : 99
-e-mail : ctjedazh@needle.worm
-division : pdl
-telephone : 010-4999-4749
-sex : male

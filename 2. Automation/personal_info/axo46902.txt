@@ -1,6 +1,0 @@
-name : dqchu
-age : 68
-e-mail : whiakewh@needle.worm
-division : wnt
-telephone : 010-6868-6568
-sex : female

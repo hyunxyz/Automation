@@ -1,6 +1,0 @@
-name : maxba
-age : 28
-e-mail : kywykavd@needle.worm
-division : hpq
-telephone : 010-3228-7632
-sex : others

@@ -1,6 +1,0 @@
-name : jnfmj
-age : 12
-e-mail : goinsquc@needle.worm
-division : sln
-telephone : 010-0212-6702
-sex : others

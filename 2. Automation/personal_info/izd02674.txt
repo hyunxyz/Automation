@@ -1,6 +1,0 @@
-name : oecri
-age : 74
-e-mail : ygleggee@needle.worm
-division : tgl
-telephone : 010-2674-7026
-sex : male

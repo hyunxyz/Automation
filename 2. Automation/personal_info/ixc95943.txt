@@ -1,6 +1,0 @@
-name : xhzli
-age : 43
-e-mail : xfphfazo@needle.worm
-division : dff
-telephone : 010-5943-4959
-sex : male

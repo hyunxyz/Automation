@@ -1,6 +1,0 @@
-name : minqn
-age : 22
-e-mail : tifyrbrz@needle.worm
-division : wvv
-telephone : 010-0522-2905
-sex : female

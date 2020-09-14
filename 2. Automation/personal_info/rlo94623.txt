@@ -1,6 +1,0 @@
-name : kxbur
-age : 13
-e-mail : ihfpenhg@needle.worm
-division : fjl
-telephone : 010-4613-5046
-sex : male

@@ -1,6 +1,0 @@
-name : lfbfp
-age : 96
-e-mail : evatowcq@needle.worm
-division : npf
-telephone : 010-1296-4812
-sex : female

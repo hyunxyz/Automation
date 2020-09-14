@@ -1,6 +1,0 @@
-name : xyjhp
-age : 45
-e-mail : scaeuboq@needle.worm
-division : wmw
-telephone : 010-3645-8636
-sex : female

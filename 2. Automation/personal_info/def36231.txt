@@ -1,6 +1,0 @@
-name : vytei
-age : 31
-e-mail : ubtxyqrn@needle.worm
-division : fak
-telephone : 010-6231-1362
-sex : female

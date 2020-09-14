@@ -1,6 +1,0 @@
-name : qcpqg
-age : 86
-e-mail : kdcxgqer@needle.worm
-division : cll
-telephone : 010-7986-9779
-sex : male

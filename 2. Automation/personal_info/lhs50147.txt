@@ -1,6 +1,0 @@
-name : opvgb
-age : 47
-e-mail : ldldkozk@needle.worm
-division : xrb
-telephone : 010-0147-6501
-sex : female

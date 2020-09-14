@@ -1,6 +1,0 @@
-name : qzlnn
-age : 64
-e-mail : hnjmslsd@needle.worm
-division : esp
-telephone : 010-6464-8064
-sex : male

@@ -1,6 +1,0 @@
-name : aanax
-age : 38
-e-mail : duiznioc@needle.worm
-division : rly
-telephone : 010-4838-8948
-sex : male

@@ -1,6 +1,0 @@
-name : lmtsz
-age : 05
-e-mail : vpvhgiam@needle.worm
-division : pgw
-telephone : 010-0505-0405
-sex : female

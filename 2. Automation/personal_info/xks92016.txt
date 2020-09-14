@@ -1,6 +1,0 @@
-name : hwagy
-age : 16
-e-mail : uhxobyuc@needle.worm
-division : ovv
-telephone : 010-2016-9920
-sex : female

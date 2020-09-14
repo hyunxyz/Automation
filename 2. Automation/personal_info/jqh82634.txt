@@ -1,6 +1,0 @@
-name : whgyi
-age : 34
-e-mail : ykausdbe@needle.worm
-division : rug
-telephone : 010-2634-9826
-sex : female

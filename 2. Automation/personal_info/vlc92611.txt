@@ -1,6 +1,0 @@
-name : rltmv
-age : 57
-e-mail : evhgzuif@needle.worm
-division : tcr
-telephone : 010-0257-5002
-sex : female

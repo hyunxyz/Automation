@@ -1,6 +1,0 @@
-name : rscqv
-age : 46
-e-mail : tqagjaog@needle.worm
-division : rdt
-telephone : 010-2446-5724
-sex : male

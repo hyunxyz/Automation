@@ -1,6 +1,0 @@
-name : bpadu
-age : 57
-e-mail : bybecdap@needle.worm
-division : bmn
-telephone : 010-5057-3350
-sex : others

@@ -1,6 +1,0 @@
-name : zfexl
-age : 31
-e-mail : poyhimuq@needle.worm
-division : nev
-telephone : 010-1831-5418
-sex : male

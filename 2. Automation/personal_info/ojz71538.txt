@@ -1,6 +1,0 @@
-name : uhuce
-age : 38
-e-mail : gjidftrk@needle.worm
-division : ucv
-telephone : 010-1538-1715
-sex : others

@@ -1,6 +1,0 @@
-name : cytjs
-age : 93
-e-mail : krtdmgpn@needle.worm
-division : vpq
-telephone : 010-3693-5836
-sex : female

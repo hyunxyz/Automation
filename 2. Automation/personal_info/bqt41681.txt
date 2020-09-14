@@ -1,6 +1,0 @@
-name : jlgzb
-age : 81
-e-mail : cqeylcqp@needle.worm
-division : hbs
-telephone : 010-1681-3416
-sex : female

@@ -1,6 +1,0 @@
-name : rzmsp
-age : 52
-e-mail : xjsnwlyd@needle.worm
-division : bdu
-telephone : 010-2983-6529
-sex : male

@@ -1,6 +1,0 @@
-name : larzb
-age : 57
-e-mail : xhzbebio@needle.worm
-division : idt
-telephone : 010-6657-9766
-sex : female

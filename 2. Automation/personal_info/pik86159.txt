@@ -1,6 +1,0 @@
-name : zgrdv
-age : 13
-e-mail : kdafxodt@needle.worm
-division : rco
-telephone : 010-9613-6196
-sex : male

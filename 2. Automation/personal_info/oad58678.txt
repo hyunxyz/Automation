@@ -1,6 +1,0 @@
-name : qywel
-age : 58
-e-mail : npzdisme@needle.worm
-division : mxh
-telephone : 010-8658-4686
-sex : male

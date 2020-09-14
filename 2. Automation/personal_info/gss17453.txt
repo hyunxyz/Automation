@@ -1,6 +1,0 @@
-name : yzfgv
-age : 53
-e-mail : drngxrex@needle.worm
-division : hoz
-telephone : 010-7453-9174
-sex : female

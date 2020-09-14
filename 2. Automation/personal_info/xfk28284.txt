@@ -1,6 +1,0 @@
-name : vvrdw
-age : 26
-e-mail : uqjmzqdm@needle.worm
-division : nti
-telephone : 010-3826-9138
-sex : others

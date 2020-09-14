@@ -1,6 +1,0 @@
-name : qigny
-age : 73
-e-mail : dqovtqnb@needle.worm
-division : lxy
-telephone : 010-7673-8776
-sex : female

@@ -1,6 +1,0 @@
-name : ttgnm
-age : 53
-e-mail : xogiprfx@needle.worm
-division : ixv
-telephone : 010-7853-5478
-sex : female

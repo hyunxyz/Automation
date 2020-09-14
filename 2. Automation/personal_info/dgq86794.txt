@@ -1,6 +1,0 @@
-name : galmq
-age : 67
-e-mail : qjqqifug@needle.worm
-division : eot
-telephone : 010-6767-6967
-sex : others

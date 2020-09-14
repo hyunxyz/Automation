@@ -1,6 +1,0 @@
-name : swhse
-age : 48
-e-mail : lorbbqpl@needle.worm
-division : ivo
-telephone : 010-3648-3836
-sex : female

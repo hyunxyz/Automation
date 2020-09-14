@@ -1,6 +1,0 @@
-name : moedi
-age : 12
-e-mail : aorjumdj@needle.worm
-division : auk
-telephone : 010-6312-3863
-sex : male

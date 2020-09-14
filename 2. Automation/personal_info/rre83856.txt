@@ -1,6 +1,0 @@
-name : fhcsb
-age : 34
-e-mail : jomhapti@needle.worm
-division : kdh
-telephone : 010-3834-7938
-sex : female

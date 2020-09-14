@@ -1,6 +1,0 @@
-name : rhndg
-age : 72
-e-mail : jawpswin@needle.worm
-division : oox
-telephone : 010-7272-7672
-sex : others

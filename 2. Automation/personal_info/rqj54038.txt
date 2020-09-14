@@ -1,6 +1,0 @@
-name : gzdik
-age : 11
-e-mail : zktkbaxy@needle.worm
-division : ycr
-telephone : 010-4011-4640
-sex : male

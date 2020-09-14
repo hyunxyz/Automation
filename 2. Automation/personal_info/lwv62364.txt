@@ -1,6 +1,0 @@
-name : stjbn
-age : 34
-e-mail : mkmyhuso@needle.worm
-division : ycs
-telephone : 010-7234-3872
-sex : others

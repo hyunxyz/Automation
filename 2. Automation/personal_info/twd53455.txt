@@ -1,6 +1,0 @@
-name : inbwu
-age : 55
-e-mail : lrvrpgjr@needle.worm
-division : zyo
-telephone : 010-3455-4534
-sex : male

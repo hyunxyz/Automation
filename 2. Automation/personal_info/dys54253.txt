@@ -1,6 +1,0 @@
-name : hlkeh
-age : 95
-e-mail : yivihhbu@needle.worm
-division : qvx
-telephone : 010-2495-5524
-sex : male

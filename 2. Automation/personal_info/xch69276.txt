@@ -1,6 +1,0 @@
-name : zudll
-age : 76
-e-mail : llnfeaqk@needle.worm
-division : edl
-telephone : 010-9276-8692
-sex : male

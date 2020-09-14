@@ -1,6 +1,0 @@
-name : nzyif
-age : 08
-e-mail : rcniwnab@needle.worm
-division : aem
-telephone : 010-7008-1270
-sex : female

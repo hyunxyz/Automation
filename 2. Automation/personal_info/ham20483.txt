@@ -1,6 +1,0 @@
-name : lymea
-age : 83
-e-mail : vagfvwnr@needle.worm
-division : uut
-telephone : 010-0483-5204
-sex : male

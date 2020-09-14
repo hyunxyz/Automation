@@ -1,6 +1,0 @@
-name : xdtng
-age : 39
-e-mail : safstwas@needle.worm
-division : htq
-telephone : 010-3239-1332
-sex : male

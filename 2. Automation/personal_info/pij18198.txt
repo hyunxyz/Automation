@@ -1,6 +1,0 @@
-name : vffcb
-age : 98
-e-mail : asaywkhe@needle.worm
-division : gel
-telephone : 010-8198-4181
-sex : female

@@ -1,6 +1,0 @@
-name : vqbyc
-age : 46
-e-mail : isczgtwg@needle.worm
-division : slm
-telephone : 010-8546-5085
-sex : others

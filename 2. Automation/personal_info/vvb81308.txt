@@ -1,6 +1,0 @@
-name : qjuwk
-age : 08
-e-mail : vllhyqaf@needle.worm
-division : fjx
-telephone : 010-1308-4813
-sex : male

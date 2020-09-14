@@ -1,6 +1,0 @@
-name : ibsxp
-age : 89
-e-mail : uokkmiuk@needle.worm
-division : lgg
-telephone : 010-8189-1681
-sex : others

@@ -1,6 +1,0 @@
-name : mdpzz
-age : 59
-e-mail : fuvpibkg@needle.worm
-division : klr
-telephone : 010-3059-4530
-sex : male

@@ -1,6 +1,0 @@
-name : fcvbe
-age : 67
-e-mail : icelstvd@needle.worm
-division : zdq
-telephone : 010-5667-1056
-sex : male

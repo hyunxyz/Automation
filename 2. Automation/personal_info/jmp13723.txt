@@ -1,6 +1,0 @@
-name : wubwb
-age : 23
-e-mail : hxiyyzoe@needle.worm
-division : gua
-telephone : 010-3723-3236
-sex : others

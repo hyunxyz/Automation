@@ -1,6 +1,0 @@
-name : hujjb
-age : 24
-e-mail : tfnfrrbz@needle.worm
-division : rga
-telephone : 010-7324-2273
-sex : male

@@ -1,6 +1,0 @@
-name : wyphf
-age : 25
-e-mail : sqswfrnu@needle.worm
-division : psc
-telephone : 010-1025-9610
-sex : others

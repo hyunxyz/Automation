@@ -1,6 +1,0 @@
-name : oxgcf
-age : 27
-e-mail : pgnakbmi@needle.worm
-division : tsa
-telephone : 010-7527-8875
-sex : male

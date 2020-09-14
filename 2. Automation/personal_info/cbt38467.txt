@@ -1,6 +1,0 @@
-name : oxnlq
-age : 67
-e-mail : bhakiamb@needle.worm
-division : zza
-telephone : 010-8467-5384
-sex : others

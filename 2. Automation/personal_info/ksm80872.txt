@@ -1,6 +1,0 @@
-name : tywte
-age : 43
-e-mail : nlqfkaof@needle.worm
-division : thn
-telephone : 010-0843-3908
-sex : male

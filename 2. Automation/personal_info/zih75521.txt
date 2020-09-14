@@ -1,6 +1,0 @@
-name : mysjn
-age : 21
-e-mail : ymceardh@needle.worm
-division : xjw
-telephone : 010-5521-7755
-sex : male

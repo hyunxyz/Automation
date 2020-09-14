@@ -1,6 +1,0 @@
-name : bdgzd
-age : 78
-e-mail : rmmwrnxa@needle.worm
-division : pqj
-telephone : 010-4278-3642
-sex : others

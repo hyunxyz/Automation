@@ -1,6 +1,0 @@
-name : komza
-age : 03
-e-mail : qyxtqyao@needle.worm
-division : lpe
-telephone : 010-7703-3477
-sex : male

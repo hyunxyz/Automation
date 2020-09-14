@@ -1,6 +1,0 @@
-name : zprjm
-age : 09
-e-mail : czhqhtfd@needle.worm
-division : cje
-telephone : 010-6209-9062
-sex : male

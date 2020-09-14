@@ -1,6 +1,0 @@
-name : nwegm
-age : 26
-e-mail : cmmmmovi@needle.worm
-division : yfg
-telephone : 010-9826-5398
-sex : female

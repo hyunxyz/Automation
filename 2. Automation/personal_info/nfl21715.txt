@@ -1,6 +1,0 @@
-name : sqvwd
-age : 15
-e-mail : scdcehok@needle.worm
-division : qpr
-telephone : 010-1715-3217
-sex : female

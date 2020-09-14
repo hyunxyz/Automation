@@ -1,6 +1,0 @@
-name : bsgxm
-age : 79
-e-mail : wgskdwko@needle.worm
-division : ljw
-telephone : 010-8279-6082
-sex : others

@@ -1,6 +1,0 @@
-name : mitez
-age : 07
-e-mail : ncrhvcfy@needle.worm
-division : kdh
-telephone : 010-1504-9315
-sex : male

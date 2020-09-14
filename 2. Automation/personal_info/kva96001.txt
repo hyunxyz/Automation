@@ -1,6 +1,0 @@
-name : vuwwk
-age : 01
-e-mail : ibjzoyod@needle.worm
-division : eda
-telephone : 010-6001-5960
-sex : female

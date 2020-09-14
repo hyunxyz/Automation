@@ -1,6 +1,0 @@
-name : mykyu
-age : 56
-e-mail : ijwuowfa@needle.worm
-division : kzi
-telephone : 010-3856-7838
-sex : male

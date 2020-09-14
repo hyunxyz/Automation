@@ -1,6 +1,0 @@
-name : zampx
-age : 08
-e-mail : rsclkwnu@needle.worm
-division : nug
-telephone : 010-4908-9149
-sex : others

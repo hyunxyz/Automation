@@ -1,6 +1,0 @@
-name : kgibl
-age : 98
-e-mail : mwingazw@needle.worm
-division : ttv
-telephone : 010-6898-3868
-sex : others

@@ -1,6 +1,0 @@
-name : sedhz
-age : 13
-e-mail : uycgazrt@needle.worm
-division : czz
-telephone : 010-0413-8104
-sex : female

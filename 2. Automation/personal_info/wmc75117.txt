@@ -1,6 +1,0 @@
-name : gdwme
-age : 85
-e-mail : ipouecly@needle.worm
-division : opl
-telephone : 010-5085-5850
-sex : female

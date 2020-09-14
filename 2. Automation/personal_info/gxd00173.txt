@@ -1,6 +1,0 @@
-name : wlpre
-age : 73
-e-mail : glvzlwpa@needle.worm
-division : pkf
-telephone : 010-0173-9001
-sex : others

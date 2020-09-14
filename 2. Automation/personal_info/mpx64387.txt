@@ -1,6 +1,0 @@
-name : gtdjk
-age : 87
-e-mail : hkpbwlui@needle.worm
-division : cxa
-telephone : 010-4387-0643
-sex : others

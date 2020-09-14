@@ -1,6 +1,0 @@
-name : iqtvy
-age : 98
-e-mail : tvrhnulc@needle.worm
-division : gss
-telephone : 010-2198-8821
-sex : others

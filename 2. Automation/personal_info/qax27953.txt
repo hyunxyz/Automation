@@ -1,6 +1,0 @@
-name : yomct
-age : 53
-e-mail : pxyywibu@needle.worm
-division : frv
-telephone : 010-7953-7279
-sex : female

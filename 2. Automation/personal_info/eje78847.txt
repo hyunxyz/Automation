@@ -1,6 +1,0 @@
-name : wcnyk
-age : 81
-e-mail : kthsayip@needle.worm
-division : byq
-telephone : 010-8881-5188
-sex : male

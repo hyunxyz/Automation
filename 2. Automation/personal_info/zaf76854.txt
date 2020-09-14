@@ -1,6 +1,0 @@
-name : fkhpt
-age : 84
-e-mail : cwnrvnxl@needle.worm
-division : kxa
-telephone : 010-5384-6953
-sex : others

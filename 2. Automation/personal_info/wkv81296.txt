@@ -1,6 +1,0 @@
-name : ezjtj
-age : 83
-e-mail : pxxssybc@needle.worm
-division : bii
-telephone : 010-1183-5211
-sex : female

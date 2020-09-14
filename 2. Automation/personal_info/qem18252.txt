@@ -1,6 +1,0 @@
-name : stkxr
-age : 37
-e-mail : lhepxxfn@needle.worm
-division : fqm
-telephone : 010-8237-6282
-sex : female

@@ -1,6 +1,0 @@
-name : wrubf
-age : 91
-e-mail : bagrrosq@needle.worm
-division : kdo
-telephone : 010-0372-6103
-sex : others

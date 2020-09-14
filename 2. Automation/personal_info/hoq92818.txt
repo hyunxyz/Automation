@@ -1,6 +1,0 @@
-name : pecmc
-age : 18
-e-mail : pyxuftqs@needle.worm
-division : rru
-telephone : 010-2818-6928
-sex : others

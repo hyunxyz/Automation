@@ -1,6 +1,0 @@
-name : vgyfd
-age : 59
-e-mail : bqfrnwhp@needle.worm
-division : jdq
-telephone : 010-9159-0591
-sex : female

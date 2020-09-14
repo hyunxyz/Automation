@@ -1,6 +1,0 @@
-name : xozcr
-age : 23
-e-mail : butvcnkg@needle.worm
-division : any
-telephone : 010-5923-5359
-sex : others

@@ -1,6 +1,0 @@
-name : qiriv
-age : 58
-e-mail : fdszodjt@needle.worm
-division : igj
-telephone : 010-4658-2246
-sex : others

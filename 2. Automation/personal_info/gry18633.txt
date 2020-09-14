@@ -1,6 +1,0 @@
-name : qpqcp
-age : 33
-e-mail : mziaqukw@needle.worm
-division : azm
-telephone : 010-8633-5186
-sex : male

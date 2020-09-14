@@ -1,6 +1,0 @@
-name : zudhp
-age : 61
-e-mail : bsmemhtj@needle.worm
-division : chu
-telephone : 010-7161-8071
-sex : others

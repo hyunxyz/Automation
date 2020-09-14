@@ -1,6 +1,0 @@
-name : hqjxj
-age : 32
-e-mail : uvvmsuyd@needle.worm
-division : mbk
-telephone : 010-9932-4999
-sex : others

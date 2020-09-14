@@ -1,6 +1,0 @@
-name : oksrh
-age : 72
-e-mail : typqwxbi@needle.worm
-division : syj
-telephone : 010-0557-0205
-sex : female

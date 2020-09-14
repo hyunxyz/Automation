@@ -1,6 +1,0 @@
-name : jbzdp
-age : 04
-e-mail : fsunzgfp@needle.worm
-division : bgs
-telephone : 010-1004-5910
-sex : others

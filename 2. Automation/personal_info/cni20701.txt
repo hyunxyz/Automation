@@ -1,6 +1,0 @@
-name : mqmda
-age : 68
-e-mail : fztbljqr@needle.worm
-division : inx
-telephone : 010-3068-8230
-sex : female

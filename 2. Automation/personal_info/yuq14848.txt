@@ -1,6 +1,0 @@
-name : mhlcu
-age : 17
-e-mail : hxzromji@needle.worm
-division : rmh
-telephone : 010-4817-4248
-sex : female

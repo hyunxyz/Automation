@@ -1,6 +1,0 @@
-name : wfggz
-age : 08
-e-mail : jatxgtpq@needle.worm
-division : jgt
-telephone : 010-0608-0006
-sex : female

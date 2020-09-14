@@ -1,6 +1,0 @@
-name : bbjlg
-age : 62
-e-mail : kghftday@needle.worm
-division : yhj
-telephone : 010-0862-6408
-sex : male

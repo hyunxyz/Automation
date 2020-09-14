@@ -1,6 +1,0 @@
-name : oafok
-age : 09
-e-mail : bnfpdnxr@needle.worm
-division : iax
-telephone : 010-5409-4654
-sex : male

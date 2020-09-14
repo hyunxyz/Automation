@@ -1,6 +1,0 @@
-name : jznrv
-age : 58
-e-mail : iuxukymx@needle.worm
-division : oid
-telephone : 010-9358-7293
-sex : male

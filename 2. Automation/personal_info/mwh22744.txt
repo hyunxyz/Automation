@@ -1,6 +1,0 @@
-name : hkoey
-age : 44
-e-mail : xbdsnmml@needle.worm
-division : cma
-telephone : 010-2744-7227
-sex : female

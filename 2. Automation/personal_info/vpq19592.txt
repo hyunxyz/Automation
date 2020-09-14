@@ -1,6 +1,0 @@
-name : tezie
-age : 92
-e-mail : mkfxwyei@needle.worm
-division : zsd
-telephone : 010-9592-1195
-sex : others

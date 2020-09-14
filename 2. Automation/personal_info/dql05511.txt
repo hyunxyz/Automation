@@ -1,6 +1,0 @@
-name : mzmrh
-age : 11
-e-mail : qfiddswi@needle.worm
-division : fvw
-telephone : 010-5511-4055
-sex : others

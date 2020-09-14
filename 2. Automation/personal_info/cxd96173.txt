@@ -1,6 +1,0 @@
-name : kblgu
-age : 73
-e-mail : gymxnesd@needle.worm
-division : xqc
-telephone : 010-6173-3961
-sex : female

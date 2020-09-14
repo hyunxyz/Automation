@@ -1,6 +1,0 @@
-name : chbkc
-age : 12
-e-mail : mwvoijbq@needle.worm
-division : ori
-telephone : 010-0212-6702
-sex : female

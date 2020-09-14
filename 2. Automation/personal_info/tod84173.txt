@@ -1,6 +1,0 @@
-name : oujoa
-age : 73
-e-mail : tqdwncii@needle.worm
-division : lnv
-telephone : 010-4173-1841
-sex : others

@@ -1,6 +1,0 @@
-name : uljwe
-age : 73
-e-mail : cixfiecx@needle.worm
-division : sml
-telephone : 010-7695-0876
-sex : others

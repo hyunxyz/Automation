@@ -1,6 +1,0 @@
-name : xtvyy
-age : 57
-e-mail : jgqkrxwu@needle.worm
-division : cjo
-telephone : 010-5457-7054
-sex : others

@@ -1,6 +1,0 @@
-name : xguem
-age : 33
-e-mail : bvtahxrd@needle.worm
-division : ujf
-telephone : 010-7033-1170
-sex : female

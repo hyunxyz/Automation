@@ -1,6 +1,0 @@
-name : pahiq
-age : 97
-e-mail : mkmuxmln@needle.worm
-division : vst
-telephone : 010-4497-8044
-sex : female

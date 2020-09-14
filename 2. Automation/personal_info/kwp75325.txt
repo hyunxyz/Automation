@@ -1,6 +1,0 @@
-name : zevpg
-age : 29
-e-mail : jinhpjpc@needle.worm
-division : lwx
-telephone : 010-8529-3985
-sex : female

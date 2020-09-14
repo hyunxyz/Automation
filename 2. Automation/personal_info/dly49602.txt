@@ -1,6 +1,0 @@
-name : htwrl
-age : 02
-e-mail : opktnstv@needle.worm
-division : cyc
-telephone : 010-9602-2496
-sex : female

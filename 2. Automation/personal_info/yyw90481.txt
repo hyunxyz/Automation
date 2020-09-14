@@ -1,6 +1,0 @@
-name : vdfki
-age : 81
-e-mail : btmdxmeo@needle.worm
-division : zyf
-telephone : 010-0481-7904
-sex : male

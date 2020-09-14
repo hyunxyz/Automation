@@ -1,6 +1,0 @@
-name : kpbzk
-age : 63
-e-mail : fyfqnpui@needle.worm
-division : xeo
-telephone : 010-7863-2878
-sex : female

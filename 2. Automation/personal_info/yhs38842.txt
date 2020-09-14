@@ -1,6 +1,0 @@
-name : ryphy
-age : 82
-e-mail : tdyovmyv@needle.worm
-division : dtm
-telephone : 010-4882-1448
-sex : others

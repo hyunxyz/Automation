@@ -1,6 +1,0 @@
-name : qljgu
-age : 57
-e-mail : obcutweu@needle.worm
-division : kie
-telephone : 010-1057-8310
-sex : female

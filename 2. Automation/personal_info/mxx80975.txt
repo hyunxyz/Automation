@@ -1,6 +1,0 @@
-name : kzctd
-age : 75
-e-mail : deldwriz@needle.worm
-division : dum
-telephone : 010-0975-3809
-sex : male

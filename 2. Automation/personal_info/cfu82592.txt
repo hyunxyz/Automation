@@ -1,6 +1,0 @@
-name : yhelo
-age : 92
-e-mail : agmtllgx@needle.worm
-division : nuf
-telephone : 010-2592-7825
-sex : female

@@ -1,6 +1,0 @@
-name : skxmw
-age : 52
-e-mail : nararbzb@needle.worm
-division : ntw
-telephone : 010-9752-5797
-sex : others

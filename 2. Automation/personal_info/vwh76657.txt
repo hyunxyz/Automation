@@ -1,6 +1,0 @@
-name : lwofk
-age : 57
-e-mail : kvpsfnsl@needle.worm
-division : kuw
-telephone : 010-6657-9766
-sex : others

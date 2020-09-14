@@ -1,6 +1,0 @@
-name : tqvir
-age : 43
-e-mail : tdgjtcbf@needle.worm
-division : rny
-telephone : 010-4743-9447
-sex : others

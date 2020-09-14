@@ -1,6 +1,0 @@
-name : xxfji
-age : 73
-e-mail : kixfbjtl@needle.worm
-division : zmz
-telephone : 010-1573-9015
-sex : others

@@ -1,6 +1,0 @@
-name : dbotb
-age : 63
-e-mail : udmupeds@needle.worm
-division : anj
-telephone : 010-1163-8111
-sex : others

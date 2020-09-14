@@ -1,6 +1,0 @@
-name : betci
-age : 43
-e-mail : wemxqqlp@needle.worm
-division : qvy
-telephone : 010-1743-0517
-sex : others

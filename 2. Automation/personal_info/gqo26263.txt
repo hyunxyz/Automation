@@ -1,6 +1,0 @@
-name : afkad
-age : 23
-e-mail : bwygmfdj@needle.worm
-division : suv
-telephone : 010-3623-3636
-sex : others

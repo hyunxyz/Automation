@@ -1,6 +1,0 @@
-name : lgder
-age : 05
-e-mail : ipskyxmg@needle.worm
-division : pgy
-telephone : 010-7405-4574
-sex : female

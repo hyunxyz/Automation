@@ -1,6 +1,0 @@
-name : iqcmm
-age : 26
-e-mail : qtlgcfyw@needle.worm
-division : tpf
-telephone : 010-1726-5817
-sex : female

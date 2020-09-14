@@ -1,6 +1,0 @@
-name : avazn
-age : 64
-e-mail : usmbvpxo@needle.worm
-division : nlb
-telephone : 010-8364-.983
-sex : male

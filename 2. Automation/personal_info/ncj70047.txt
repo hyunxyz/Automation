@@ -1,6 +1,0 @@
-name : vifyr
-age : 27
-e-mail : qmecebuv@needle.worm
-division : wmv
-telephone : 010-0027-4800
-sex : others

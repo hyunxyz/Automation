@@ -1,6 +1,0 @@
-name : tdwhc
-age : 28
-e-mail : uaixvpln@needle.worm
-division : mnf
-telephone : 010-9928-9899
-sex : male

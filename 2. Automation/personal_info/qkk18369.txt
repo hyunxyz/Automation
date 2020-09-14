@@ -1,6 +1,0 @@
-name : saqjy
-age : 69
-e-mail : msugptuo@needle.worm
-division : oso
-telephone : 010-8369-6183
-sex : others

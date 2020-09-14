@@ -1,6 +1,0 @@
-name : ptxpp
-age : 34
-e-mail : sfdgnkml@needle.worm
-division : yht
-telephone : 010-3134-5731
-sex : female

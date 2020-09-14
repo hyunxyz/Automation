@@ -1,6 +1,0 @@
-name : iqijn
-age : 86
-e-mail : lvbvemtf@needle.worm
-division : khc
-telephone : 010-0386-3303
-sex : others

@@ -1,6 +1,0 @@
-name : sggqa
-age : 31
-e-mail : mrausthy@needle.worm
-division : iqx
-telephone : 010-9031-1090
-sex : others

@@ -1,6 +1,0 @@
-name : fedzq
-age : 62
-e-mail : qyfguulj@needle.worm
-division : unj
-telephone : 010-6362-3263
-sex : female

@@ -1,6 +1,0 @@
-name : tgtej
-age : 54
-e-mail : jgxscqpa@needle.worm
-division : jel
-telephone : 010-5154-1651
-sex : female

@@ -1,6 +1,0 @@
-name : tkbjp
-age : 26
-e-mail : ivuqyvbv@needle.worm
-division : scp
-telephone : 010-7826-2978
-sex : male

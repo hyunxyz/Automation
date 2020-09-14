@@ -1,6 +1,0 @@
-name : kqcfj
-age : 04
-e-mail : cpjhbfol@needle.worm
-division : izj
-telephone : 010-8204-1582
-sex : female

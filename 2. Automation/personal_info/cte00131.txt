@@ -1,6 +1,0 @@
-name : thxms
-age : 31
-e-mail : gjnzlyjx@needle.worm
-division : uiw
-telephone : 010-0131-7001
-sex : male

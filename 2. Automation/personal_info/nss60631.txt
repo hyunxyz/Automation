@@ -1,6 +1,0 @@
-name : sjfev
-age : 31
-e-mail : rycvnuyf@needle.worm
-division : fxl
-telephone : 010-0631-3606
-sex : female

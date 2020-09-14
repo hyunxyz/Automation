@@ -1,6 +1,0 @@
-name : abbxr
-age : 77
-e-mail : oaqyodkp@needle.worm
-division : tcb
-telephone : 010-3377-4833
-sex : male

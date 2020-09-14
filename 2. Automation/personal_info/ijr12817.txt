@@ -1,6 +1,0 @@
-name : esywp
-age : 17
-e-mail : vupiwqpp@needle.worm
-division : ndo
-telephone : 010-2817-9128
-sex : female

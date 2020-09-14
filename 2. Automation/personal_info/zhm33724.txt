@@ -1,6 +1,0 @@
-name : apzzl
-age : 24
-e-mail : jrrephog@needle.worm
-division : szg
-telephone : 010-3724-8337
-sex : others

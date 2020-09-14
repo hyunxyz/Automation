@@ -1,6 +1,0 @@
-name : nyynd
-age : 72
-e-mail : oalntycb@needle.worm
-division : mbp
-telephone : 010-1672-6016
-sex : female

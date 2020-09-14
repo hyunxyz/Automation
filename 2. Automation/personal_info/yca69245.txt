@@ -1,6 +1,0 @@
-name : rmpkj
-age : 18
-e-mail : exbkwxes@needle.worm
-division : uiv
-telephone : 010-9218-7792
-sex : others

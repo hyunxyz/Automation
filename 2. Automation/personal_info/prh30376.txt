@@ -1,6 +1,0 @@
-name : iqvtz
-age : 33
-e-mail : gzfwoveo@needle.worm
-division : lev
-telephone : 010-4033-5840
-sex : female

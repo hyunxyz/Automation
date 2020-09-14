@@ -1,6 +1,0 @@
-name : tygio
-age : 32
-e-mail : mjighhdq@needle.worm
-division : bdk
-telephone : 010-5332-7553
-sex : others

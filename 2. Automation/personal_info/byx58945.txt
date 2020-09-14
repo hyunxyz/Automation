@@ -1,6 +1,0 @@
-name : shvgq
-age : 45
-e-mail : xkzuksdo@needle.worm
-division : yod
-telephone : 010-8945-3589
-sex : male

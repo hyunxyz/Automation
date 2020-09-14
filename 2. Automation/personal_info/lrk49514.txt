@@ -1,6 +1,0 @@
-name : sakrl
-age : 48
-e-mail : fmalruqh@needle.worm
-division : qhp
-telephone : 010-5948-6159
-sex : others

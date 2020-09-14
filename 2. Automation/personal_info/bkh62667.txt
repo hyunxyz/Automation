@@ -1,6 +1,0 @@
-name : bnsec
-age : 47
-e-mail : axxskcdk@needle.worm
-division : bjy
-telephone : 010-2547-2725
-sex : male

@@ -1,6 +1,0 @@
-name : ttzth
-age : 89
-e-mail : nxdpemvw@needle.worm
-division : xnf
-telephone : 010-3389-7033
-sex : female

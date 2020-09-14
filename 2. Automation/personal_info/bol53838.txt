@@ -1,6 +1,0 @@
-name : ipaau
-age : 18
-e-mail : lgjxrbhj@needle.worm
-division : pkf
-telephone : 010-3818-0638
-sex : male

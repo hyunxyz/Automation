@@ -1,6 +1,0 @@
-name : ztkhy
-age : 82
-e-mail : jecpozem@needle.worm
-division : qbd
-telephone : 010-4982-8849
-sex : male

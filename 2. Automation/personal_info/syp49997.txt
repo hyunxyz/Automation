@@ -1,6 +1,0 @@
-name : fqrrh
-age : 97
-e-mail : qmayuslf@needle.worm
-division : ivr
-telephone : 010-9934-5099
-sex : others

@@ -1,6 +1,0 @@
-name : vxeqv
-age : 18
-e-mail : wmmoyptj@needle.worm
-division : vly
-telephone : 010-0918-6209
-sex : male

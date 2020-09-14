@@ -1,6 +1,0 @@
-name : pslly
-age : 05
-e-mail : kjxvwurq@needle.worm
-division : qvy
-telephone : 010-5505-4255
-sex : female

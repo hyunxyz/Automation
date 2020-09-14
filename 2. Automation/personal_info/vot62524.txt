@@ -1,6 +1,0 @@
-name : rrcxg
-age : 24
-e-mail : ebewrrhv@needle.worm
-division : iyi
-telephone : 010-2524-7625
-sex : male

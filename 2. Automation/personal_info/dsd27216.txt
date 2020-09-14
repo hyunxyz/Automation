@@ -1,6 +1,0 @@
-name : ktctv
-age : 16
-e-mail : wgrhxdty@needle.worm
-division : lns
-telephone : 010-7216-5272
-sex : others

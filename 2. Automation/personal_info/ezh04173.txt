@@ -1,6 +1,0 @@
-name : zjjvh
-age : 73
-e-mail : spephkkc@needle.worm
-division : qih
-telephone : 010-4173-4041
-sex : others

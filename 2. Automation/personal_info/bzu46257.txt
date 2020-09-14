@@ -1,6 +1,0 @@
-name : tzenx
-age : 24
-e-mail : jbduwbmd@needle.worm
-division : duc
-telephone : 010-5624-6156
-sex : female

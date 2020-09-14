@@ -1,6 +1,0 @@
-name : hnacv
-age : 18
-e-mail : rfaeskbo@needle.worm
-division : bpw
-telephone : 010-6318-1263
-sex : male

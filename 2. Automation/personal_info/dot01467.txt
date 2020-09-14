@@ -1,6 +1,0 @@
-name : ajlnc
-age : 67
-e-mail : gjevdyki@needle.worm
-division : oem
-telephone : 010-1467-2014
-sex : male

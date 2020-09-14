@@ -1,6 +1,0 @@
-name : ryebb
-age : 28
-e-mail : cofbvawy@needle.worm
-division : qeb
-telephone : 010-2428-0624
-sex : female

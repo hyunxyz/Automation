@@ -1,6 +1,0 @@
-name : hjyqs
-age : 96
-e-mail : qhzmuyul@needle.worm
-division : ndl
-telephone : 010-6896-1668
-sex : others

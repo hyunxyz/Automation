@@ -1,6 +1,0 @@
-name : hfmjc
-age : 78
-e-mail : commyveh@needle.worm
-division : hfh
-telephone : 010-5878-5558
-sex : female

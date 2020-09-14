@@ -1,6 +1,0 @@
-name : nqfip
-age : 73
-e-mail : mjnzxdbw@needle.worm
-division : vcl
-telephone : 010-3773-8137
-sex : male

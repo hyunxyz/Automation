@@ -1,6 +1,0 @@
-name : issvo
-age : 07
-e-mail : hasoickl@needle.worm
-division : nap
-telephone : 010-1207-7712
-sex : male

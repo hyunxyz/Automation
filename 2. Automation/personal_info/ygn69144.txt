@@ -1,6 +1,0 @@
-name : yackv
-age : 12
-e-mail : shxuhpeg@needle.worm
-division : mes
-telephone : 010-9112-0791
-sex : others

@@ -1,6 +1,0 @@
-name : ujjpz
-age : 58
-e-mail : ksbxplmo@needle.worm
-division : asi
-telephone : 010-6658-2566
-sex : female

@@ -1,6 +1,0 @@
-name : mhuvf
-age : 77
-e-mail : yffhjjdc@needle.worm
-division : iko
-telephone : 010-0477-5704
-sex : others

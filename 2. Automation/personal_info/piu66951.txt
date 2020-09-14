@@ -1,6 +1,0 @@
-name : evmna
-age : 51
-e-mail : becnkego@needle.worm
-division : cdh
-telephone : 010-6951-8669
-sex : male

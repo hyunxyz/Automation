@@ -1,6 +1,0 @@
-name : gbaxf
-age : 58
-e-mail : idybsqbu@needle.worm
-division : zlq
-telephone : 010-6658-2566
-sex : others

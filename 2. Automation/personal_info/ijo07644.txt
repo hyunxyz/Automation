@@ -1,6 +1,0 @@
-name : juubn
-age : 23
-e-mail : cewnjmgq@needle.worm
-division : aav
-telephone : 010-6423-0864
-sex : others

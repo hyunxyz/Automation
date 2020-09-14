@@ -1,6 +1,0 @@
-name : tpjev
-age : 28
-e-mail : yjnjiifc@needle.worm
-division : brq
-telephone : 010-2428-5824
-sex : others

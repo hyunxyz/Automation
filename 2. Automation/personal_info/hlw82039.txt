@@ -1,6 +1,0 @@
-name : ppmnj
-age : 39
-e-mail : lobdmbev@needle.worm
-division : isv
-telephone : 010-2039-5820
-sex : male

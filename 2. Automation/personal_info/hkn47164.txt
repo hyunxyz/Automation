@@ -1,6 +1,0 @@
-name : tdnav
-age : 64
-e-mail : fkjmbrxr@needle.worm
-division : fbq
-telephone : 010-7164-5471
-sex : others

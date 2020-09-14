@@ -1,6 +1,0 @@
-name : wkjfr
-age : 47
-e-mail : aljemrhv@needle.worm
-division : huk
-telephone : 010-4447-0844
-sex : female

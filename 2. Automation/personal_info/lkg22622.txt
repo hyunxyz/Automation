@@ -1,6 +1,0 @@
-name : mtrch
-age : 95
-e-mail : tfnicleo@needle.worm
-division : mwf
-telephone : 010-2595-7325
-sex : female

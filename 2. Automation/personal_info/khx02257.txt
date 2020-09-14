@@ -1,6 +1,0 @@
-name : tezle
-age : 57
-e-mail : hwrflgok@needle.worm
-division : lve
-telephone : 010-2257-5022
-sex : others

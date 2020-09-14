@@ -1,6 +1,0 @@
-name : wnoro
-age : 77
-e-mail : ijasoqsa@needle.worm
-division : jiz
-telephone : 010-0877-4208
-sex : male

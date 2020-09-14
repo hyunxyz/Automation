@@ -1,6 +1,0 @@
-name : lsuux
-age : 58
-e-mail : rxmmbopl@needle.worm
-division : xum
-telephone : 010-1158-7911
-sex : others

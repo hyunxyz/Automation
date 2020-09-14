@@ -1,6 +1,0 @@
-name : abekk
-age : 44
-e-mail : xgcmbixi@needle.worm
-division : fnv
-telephone : 010-1644-8716
-sex : male

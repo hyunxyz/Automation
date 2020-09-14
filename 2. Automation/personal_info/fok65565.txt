@@ -1,6 +1,0 @@
-name : nxdqr
-age : 65
-e-mail : mbxkkbuk@needle.worm
-division : ksi
-telephone : 010-5565-6655
-sex : male

@@ -1,6 +1,0 @@
-name : crkti
-age : 34
-e-mail : bukvrzmo@needle.worm
-division : nkk
-telephone : 010-0734-9507
-sex : others

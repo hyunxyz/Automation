@@ -1,6 +1,0 @@
-name : trdwc
-age : 18
-e-mail : dzxroxjf@needle.worm
-division : pzy
-telephone : 010-7618-3776
-sex : male

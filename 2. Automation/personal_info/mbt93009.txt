@@ -1,6 +1,0 @@
-name : lrxpu
-age : 09
-e-mail : qfmypjvk@needle.worm
-division : lcb
-telephone : 010-3009-5930
-sex : others

@@ -1,6 +1,0 @@
-name : lvsyb
-age : 43
-e-mail : mxfiwyud@needle.worm
-division : yww
-telephone : 010-2543-0125
-sex : others

@@ -1,6 +1,0 @@
-name : yvpdk
-age : 48
-e-mail : xlzookge@needle.worm
-division : pln
-telephone : 010-6048-2260
-sex : others

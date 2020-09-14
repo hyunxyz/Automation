@@ -1,6 +1,0 @@
-name : npvul
-age : 35
-e-mail : qyzofitx@needle.worm
-division : odn
-telephone : 010-3435-4634
-sex : male

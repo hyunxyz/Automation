@@ -1,6 +1,0 @@
-name : yospf
-age : 58
-e-mail : nyvlclww@needle.worm
-division : vhv
-telephone : 010-9558-9095
-sex : others

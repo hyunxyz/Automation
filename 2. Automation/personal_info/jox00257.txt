@@ -1,6 +1,0 @@
-name : jgajh
-age : 57
-e-mail : agcimflb@needle.worm
-division : zym
-telephone : 010-0257-5002
-sex : others

@@ -1,6 +1,0 @@
-name : ewfvs
-age : 66
-e-mail : btrhgiej@needle.worm
-division : zsp
-telephone : 010-5666-5856
-sex : male

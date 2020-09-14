@@ -1,6 +1,0 @@
-name : wiedq
-age : 84
-e-mail : rtqkioto@needle.worm
-division : fkd
-telephone : 010-9484-6994
-sex : male

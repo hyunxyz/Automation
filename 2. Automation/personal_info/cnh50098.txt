@@ -1,6 +1,0 @@
-name : ceirv
-age : 98
-e-mail : ksclayhe@needle.worm
-division : wgx
-telephone : 010-0098-4500
-sex : female

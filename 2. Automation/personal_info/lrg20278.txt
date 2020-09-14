@@ -1,6 +1,0 @@
-name : oeyrn
-age : 88
-e-mail : izuftsqd@needle.worm
-division : oqt
-telephone : 010-9888-2698
-sex : male

@@ -1,6 +1,0 @@
-name : bnfis
-age : 86
-e-mail : cnnzoqbm@needle.worm
-division : rqj
-telephone : 010-0386-3303
-sex : male

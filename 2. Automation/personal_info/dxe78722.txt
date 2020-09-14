@@ -1,6 +1,0 @@
-name : devmq
-age : 22
-e-mail : wuxiveez@needle.worm
-division : oxx
-telephone : 010-8722-5787
-sex : male

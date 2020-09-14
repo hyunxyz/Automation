@@ -1,6 +1,0 @@
-name : ujmly
-age : 83
-e-mail : xwkjyexe@needle.worm
-division : zus
-telephone : 010-7783-0577
-sex : male

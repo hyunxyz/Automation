@@ -1,6 +1,0 @@
-name : uztzh
-age : 06
-e-mail : nvhgdurl@needle.worm
-division : wlj
-telephone : 010-1406-2214
-sex : male

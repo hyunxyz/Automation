@@ -1,6 +1,0 @@
-name : fdkkl
-age : 48
-e-mail : jzzduern@needle.worm
-division : dzr
-telephone : 010-6048-2260
-sex : male

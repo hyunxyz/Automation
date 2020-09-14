@@ -1,6 +1,0 @@
-name : idxlr
-age : 22
-e-mail : ibejqsuv@needle.worm
-division : pyr
-telephone : 010-3522-6535
-sex : male

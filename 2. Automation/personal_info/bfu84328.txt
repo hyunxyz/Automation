@@ -1,6 +1,0 @@
-name : scdaw
-age : 08
-e-mail : xlaoxnni@needle.worm
-division : pkv
-telephone : 010-4308-0943
-sex : female

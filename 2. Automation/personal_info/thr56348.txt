@@ -1,6 +1,0 @@
-name : xnwrp
-age : 16
-e-mail : ummwrvps@needle.worm
-division : oew
-telephone : 010-6316-8663
-sex : male

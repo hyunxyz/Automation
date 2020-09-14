@@ -1,6 +1,0 @@
-name : sdzks
-age : 95
-e-mail : iyjohkch@needle.worm
-division : udd
-telephone : 010-6495-2764
-sex : male

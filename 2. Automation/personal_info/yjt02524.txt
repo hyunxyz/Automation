@@ -1,6 +1,0 @@
-name : xtuoy
-age : 92
-e-mail : gvvhaduy@needle.worm
-division : swb
-telephone : 010-2492-8124
-sex : male

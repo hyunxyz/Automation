@@ -1,6 +1,0 @@
-name : ozrsd
-age : 86
-e-mail : mkwhzmww@needle.worm
-division : rpn
-telephone : 010-9586-6395
-sex : female

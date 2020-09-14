@@ -1,6 +1,0 @@
-name : pdjzp
-age : 44
-e-mail : ovcwibuj@needle.worm
-division : pbk
-telephone : 010-7644-6276
-sex : female

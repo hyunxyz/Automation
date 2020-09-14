@@ -1,6 +1,0 @@
-name : egzaj
-age : 25
-e-mail : ogecdhxc@needle.worm
-division : qzw
-telephone : 010-2425-8424
-sex : female

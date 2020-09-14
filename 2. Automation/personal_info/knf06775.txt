@@ -1,6 +1,0 @@
-name : pwvog
-age : 75
-e-mail : jamfshna@needle.worm
-division : qww
-telephone : 010-6775-3067
-sex : female

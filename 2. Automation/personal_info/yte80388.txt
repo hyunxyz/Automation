@@ -1,6 +1,0 @@
-name : puysn
-age : 56
-e-mail : evomjiqn@needle.worm
-division : kgg
-telephone : 010-0356-0903
-sex : others

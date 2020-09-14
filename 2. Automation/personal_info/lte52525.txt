@@ -1,6 +1,0 @@
-name : rtjor
-age : 25
-e-mail : bwdainmk@needle.worm
-division : mzb
-telephone : 010-2525-6525
-sex : female

@@ -1,6 +1,0 @@
-name : escqz
-age : 42
-e-mail : tljrfyru@needle.worm
-division : tuj
-telephone : 010-9242-2492
-sex : female

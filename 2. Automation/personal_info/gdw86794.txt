@@ -1,6 +1,0 @@
-name : nzhyw
-age : 94
-e-mail : ioemohtf@needle.worm
-division : hgm
-telephone : 010-6794-6867
-sex : female

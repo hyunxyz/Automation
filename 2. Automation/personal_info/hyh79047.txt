@@ -1,6 +1,0 @@
-name : rltds
-age : 47
-e-mail : ojzsqlag@needle.worm
-division : kto
-telephone : 010-9047-5790
-sex : others

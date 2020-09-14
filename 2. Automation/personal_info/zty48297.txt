@@ -1,6 +1,0 @@
-name : foajs
-age : 63
-e-mail : rdxplwkb@needle.worm
-division : oti
-telephone : 010-8263-6582
-sex : male

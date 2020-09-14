@@ -1,6 +1,0 @@
-name : lohdf
-age : 96
-e-mail : zqscjtdl@needle.worm
-division : lvq
-telephone : 010-1196-4011
-sex : male

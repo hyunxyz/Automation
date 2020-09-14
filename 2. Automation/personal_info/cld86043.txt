@@ -1,6 +1,0 @@
-name : yawbc
-age : 43
-e-mail : imintcbp@needle.worm
-division : aws
-telephone : 010-6043-4860
-sex : male

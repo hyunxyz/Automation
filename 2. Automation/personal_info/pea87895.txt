@@ -1,6 +1,0 @@
-name : elfkw
-age : 95
-e-mail : chnrxvny@needle.worm
-division : dyv
-telephone : 010-7895-8878
-sex : male

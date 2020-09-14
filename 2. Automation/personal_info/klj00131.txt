@@ -1,6 +1,0 @@
-name : dwrlp
-age : 14
-e-mail : mqvmahlr@needle.worm
-division : bap
-telephone : 010-0114-7101
-sex : others

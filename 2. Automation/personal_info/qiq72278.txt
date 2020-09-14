@@ -1,6 +1,0 @@
-name : yymrt
-age : 63
-e-mail : fneingak@needle.worm
-division : koz
-telephone : 010-2263-3822
-sex : male

@@ -1,6 +1,0 @@
-name : cyobw
-age : 66
-e-mail : fxjofdwj@needle.worm
-division : gym
-telephone : 010-3666-3736
-sex : male

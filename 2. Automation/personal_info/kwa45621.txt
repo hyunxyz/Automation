@@ -1,6 +1,0 @@
-name : xgnqy
-age : 21
-e-mail : kpqzoods@needle.worm
-division : bll
-telephone : 010-5621-6456
-sex : male

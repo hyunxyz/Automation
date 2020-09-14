@@ -1,6 +1,0 @@
-name : fnhxj
-age : 33
-e-mail : okzgifcm@needle.worm
-division : udj
-telephone : 010-2733-6827
-sex : female

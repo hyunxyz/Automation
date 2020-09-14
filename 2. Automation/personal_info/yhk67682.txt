@@ -1,6 +1,0 @@
-name : venzl
-age : 82
-e-mail : tqajzngj@needle.worm
-division : ejz
-telephone : 010-7682-9676
-sex : male

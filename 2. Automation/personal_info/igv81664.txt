@@ -1,6 +1,0 @@
-name : fgokr
-age : 42
-e-mail : zawgyxag@needle.worm
-division : cuw
-telephone : 010-1642-0916
-sex : female

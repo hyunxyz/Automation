@@ -1,6 +1,0 @@
-name : cpcpd
-age : 45
-e-mail : iecsebmj@needle.worm
-division : dkv
-telephone : 010-7245-5172
-sex : others

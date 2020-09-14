@@ -1,6 +1,0 @@
-name : nkajv
-age : 82
-e-mail : zmxyatzv@needle.worm
-division : qok
-telephone : 010-1082-5610
-sex : others

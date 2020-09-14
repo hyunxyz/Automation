@@ -1,6 +1,0 @@
-name : lcelw
-age : 86
-e-mail : cazzkerg@needle.worm
-division : jxg
-telephone : 010-8286-3882
-sex : others

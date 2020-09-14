@@ -1,6 +1,0 @@
-name : jjcjq
-age : 67
-e-mail : themowpr@needle.worm
-division : tqa
-telephone : 010-0467-3004
-sex : others

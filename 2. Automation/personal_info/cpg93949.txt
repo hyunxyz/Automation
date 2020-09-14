@@ -1,6 +1,0 @@
-name : khwnn
-age : 45
-e-mail : yhncibcp@needle.worm
-division : bgt
-telephone : 010-4945-4949
-sex : male

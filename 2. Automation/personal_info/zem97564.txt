@@ -1,6 +1,0 @@
-name : aibcp
-age : 64
-e-mail : mapxwrld@needle.worm
-division : ysc
-telephone : 010-7564-3975
-sex : female

@@ -1,6 +1,0 @@
-name : ubrtq
-age : 43
-e-mail : tqbyvoqc@needle.worm
-division : dip
-telephone : 010-3743-6937
-sex : others

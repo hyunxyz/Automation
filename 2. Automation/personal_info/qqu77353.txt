@@ -1,6 +1,0 @@
-name : crhme
-age : 21
-e-mail : nujglsqs@needle.worm
-division : cvl
-telephone : 010-7321-4873
-sex : male

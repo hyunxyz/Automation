@@ -1,6 +1,0 @@
-name : wdgse
-age : 72
-e-mail : ibgbrsfn@needle.worm
-division : lzg
-telephone : 010-5772-5457
-sex : others

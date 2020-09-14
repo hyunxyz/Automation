@@ -1,6 +1,0 @@
-name : nhzgs
-age : 65
-e-mail : plptaqiq@needle.worm
-division : bnm
-telephone : 010-5965-2559
-sex : others

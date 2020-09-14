@@ -1,6 +1,0 @@
-name : spibg
-age : 46
-e-mail : xmduaiwc@needle.worm
-division : iqh
-telephone : 010-6846-6668
-sex : female

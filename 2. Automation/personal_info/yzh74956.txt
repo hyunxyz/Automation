@@ -1,6 +1,0 @@
-name : lboyd
-age : 22
-e-mail : dzeciuhj@needle.worm
-division : iwy
-telephone : 010-4922-3849
-sex : male

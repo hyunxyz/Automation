@@ -1,6 +1,0 @@
-name : ziikl
-age : 98
-e-mail : tkkhyick@needle.worm
-division : ehp
-telephone : 010-8998-8589
-sex : female

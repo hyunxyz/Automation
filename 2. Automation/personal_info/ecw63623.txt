@@ -1,6 +1,0 @@
-name : dudag
-age : 23
-e-mail : qkmdxnro@needle.worm
-division : ban
-telephone : 010-6321-6463
-sex : others

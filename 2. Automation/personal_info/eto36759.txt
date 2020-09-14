@@ -1,6 +1,0 @@
-name : sogrp
-age : 34
-e-mail : zlsvyrxu@needle.worm
-division : mcj
-telephone : 010-6734-4467
-sex : female

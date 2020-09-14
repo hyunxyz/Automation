@@ -1,6 +1,0 @@
-name : iwrjt
-age : 17
-e-mail : plmcpkko@needle.worm
-division : qvy
-telephone : 010-0117-9201
-sex : female

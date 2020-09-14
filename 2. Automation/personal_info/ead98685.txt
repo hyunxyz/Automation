@@ -1,6 +1,0 @@
-name : caxsb
-age : 63
-e-mail : thtwtaxg@needle.worm
-division : bbj
-telephone : 010-8663-5086
-sex : others

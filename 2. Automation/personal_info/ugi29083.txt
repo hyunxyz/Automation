@@ -1,6 +1,0 @@
-name : ldtoy
-age : 83
-e-mail : lvzirtdo@needle.worm
-division : ulo
-telephone : 010-9083-8290
-sex : male

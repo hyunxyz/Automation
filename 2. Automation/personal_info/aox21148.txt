@@ -1,6 +1,0 @@
-name : sbuvc
-age : 06
-e-mail : ftojewtt@needle.worm
-division : kgo
-telephone : 010-1406-2214
-sex : female

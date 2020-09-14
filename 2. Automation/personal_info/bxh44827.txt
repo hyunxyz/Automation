@@ -1,6 +1,0 @@
-name : eikvk
-age : 27
-e-mail : tmrflccq@needle.worm
-division : axw
-telephone : 010-4827-9448
-sex : others

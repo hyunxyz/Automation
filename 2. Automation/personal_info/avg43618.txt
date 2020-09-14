@@ -1,6 +1,0 @@
-name : yaqov
-age : 18
-e-mail : vlzugkhj@needle.worm
-division : bqx
-telephone : 010-3618-2436
-sex : others

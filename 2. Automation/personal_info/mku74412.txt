@@ -1,6 +1,0 @@
-name : sguqs
-age : 12
-e-mail : dsiezszm@needle.worm
-division : ykb
-telephone : 010-4412-5744
-sex : female

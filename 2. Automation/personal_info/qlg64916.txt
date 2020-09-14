@@ -1,6 +1,0 @@
-name : azpgu
-age : 85
-e-mail : dixahtkk@needle.worm
-division : zdg
-telephone : 010-4885-8748
-sex : female

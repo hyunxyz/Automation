@@ -1,6 +1,0 @@
-name : apbna
-age : 75
-e-mail : nhmtgxtz@needle.worm
-division : rti
-telephone : 010-7175-2871
-sex : female

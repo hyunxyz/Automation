@@ -1,6 +1,0 @@
-name : vdung
-age : 17
-e-mail : pnqeyvnn@needle.worm
-division : aws
-telephone : 010-8317-6383
-sex : female

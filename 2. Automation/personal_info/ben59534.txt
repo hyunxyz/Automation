@@ -1,6 +1,0 @@
-name : wtfny
-age : 34
-e-mail : tmgeniyz@needle.worm
-division : fbz
-telephone : 010-9534-6595
-sex : female

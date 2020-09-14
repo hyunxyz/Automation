@@ -1,6 +1,0 @@
-name : tsemh
-age : 07
-e-mail : gmdrxlny@needle.worm
-division : wyq
-telephone : 010-8607-2686
-sex : male

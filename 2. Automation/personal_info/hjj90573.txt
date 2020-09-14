@@ -1,6 +1,0 @@
-name : fytfs
-age : 73
-e-mail : ghcrckgp@needle.worm
-division : euh
-telephone : 010-0573-4905
-sex : male

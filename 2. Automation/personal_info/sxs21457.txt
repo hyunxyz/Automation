@@ -1,6 +1,0 @@
-name : tagjh
-age : 57
-e-mail : bjkiepht@needle.worm
-division : vst
-telephone : 010-1457-4214
-sex : male

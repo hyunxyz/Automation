@@ -1,6 +1,0 @@
-name : sbnec
-age : 05
-e-mail : djdydffr@needle.worm
-division : efb
-telephone : 010-7029-0770
-sex : others

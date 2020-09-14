@@ -1,6 +1,0 @@
-name : ffeso
-age : 83
-e-mail : ylbrfxtw@needle.worm
-division : pyq
-telephone : 010-2183-9321
-sex : female

@@ -1,6 +1,0 @@
-name : rqrlt
-age : 65
-e-mail : zmbrqpgr@needle.worm
-division : ncj
-telephone : 010-8865-9088
-sex : female

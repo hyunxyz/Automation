@@ -1,6 +1,0 @@
-name : hrsxz
-age : 56
-e-mail : uwjlmwbs@needle.worm
-division : rvb
-telephone : 010-1756-1917
-sex : male

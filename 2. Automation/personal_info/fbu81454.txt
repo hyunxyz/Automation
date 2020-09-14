@@ -1,6 +1,0 @@
-name : tevxl
-age : 27
-e-mail : edlgxhvp@needle.worm
-division : lew
-telephone : 010-1427-6914
-sex : others

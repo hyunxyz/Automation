@@ -1,6 +1,0 @@
-name : iivkb
-age : 56
-e-mail : wyzwjfzg@needle.worm
-division : zen
-telephone : 010-2656-7526
-sex : others

@@ -1,6 +1,0 @@
-name : vaeug
-age : 68
-e-mail : hshzsbis@needle.worm
-division : eto
-telephone : 010-4468-0344
-sex : male

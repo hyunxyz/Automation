@@ -1,6 +1,0 @@
-name : ncdqz
-age : 42
-e-mail : vqzttvtd@needle.worm
-division : bwj
-telephone : 010-1742-.317
-sex : male

@@ -1,6 +1,0 @@
-name : przin
-age : 75
-e-mail : wddkkutl@needle.worm
-division : ekw
-telephone : 010-7175-2871
-sex : male

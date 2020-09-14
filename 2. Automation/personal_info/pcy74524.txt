@@ -1,6 +1,0 @@
-name : phiba
-age : 24
-e-mail : urjobyep@needle.worm
-division : jvx
-telephone : 010-4524-7745
-sex : others

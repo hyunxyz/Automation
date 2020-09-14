@@ -1,6 +1,0 @@
-name : kltoi
-age : 93
-e-mail : smrrpdvg@needle.worm
-division : pxr
-telephone : 010-0093-6700
-sex : female

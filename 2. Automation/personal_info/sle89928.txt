@@ -1,6 +1,0 @@
-name : rolko
-age : 28
-e-mail : hpuhtnbu@needle.worm
-division : kjf
-telephone : 010-9928-9899
-sex : female

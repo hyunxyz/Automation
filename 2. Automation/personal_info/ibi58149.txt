@@ -1,6 +1,0 @@
-name : kygia
-age : 49
-e-mail : qqvppnqj@needle.worm
-division : oss
-telephone : 010-8149-6581
-sex : female

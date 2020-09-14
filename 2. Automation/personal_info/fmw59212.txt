@@ -1,6 +1,0 @@
-name : rzdpj
-age : 18
-e-mail : ggankdof@needle.worm
-division : dbj
-telephone : 010-6918-6269
-sex : female

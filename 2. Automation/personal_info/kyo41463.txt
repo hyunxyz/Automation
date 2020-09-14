@@ -1,6 +1,0 @@
-name : zyqzf
-age : 43
-e-mail : idqavqze@needle.worm
-division : kty
-telephone : 010-5143-7951
-sex : female

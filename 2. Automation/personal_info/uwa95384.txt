@@ -1,6 +1,0 @@
-name : skypo
-age : 42
-e-mail : iqrxygjz@needle.worm
-division : rgp
-telephone : 010-0542-7705
-sex : male

@@ -1,6 +1,0 @@
-name : lshxn
-age : 72
-e-mail : wsgezzrk@needle.worm
-division : tor
-telephone : 010-4872-6648
-sex : male

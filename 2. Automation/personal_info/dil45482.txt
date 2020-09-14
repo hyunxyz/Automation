@@ -1,6 +1,0 @@
-name : drmvk
-age : 82
-e-mail : ahtjemtm@needle.worm
-division : won
-telephone : 010-5482-4454
-sex : male

@@ -1,6 +1,0 @@
-name : wnlqu
-age : 74
-e-mail : saotiavo@needle.worm
-division : tyo
-telephone : 010-4274-4942
-sex : male

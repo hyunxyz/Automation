@@ -1,6 +1,0 @@
-name : fplpx
-age : 96
-e-mail : iowxguvi@needle.worm
-division : qlf
-telephone : 010-1196-4011
-sex : female

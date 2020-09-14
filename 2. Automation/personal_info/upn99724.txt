@@ -1,6 +1,0 @@
-name : mbqjd
-age : 24
-e-mail : itsudhql@needle.worm
-division : jrz
-telephone : 010-9724-6997
-sex : male

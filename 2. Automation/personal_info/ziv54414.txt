@@ -1,6 +1,0 @@
-name : skjcd
-age : 14
-e-mail : fbtkfnmf@needle.worm
-division : vtu
-telephone : 010-4414-.544
-sex : others

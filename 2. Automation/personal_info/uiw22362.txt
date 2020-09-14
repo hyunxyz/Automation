@@ -1,6 +1,0 @@
-name : hrrvl
-age : 62
-e-mail : fxemdxmx@needle.worm
-division : gai
-telephone : 010-2362-8223
-sex : male

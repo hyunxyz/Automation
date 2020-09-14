@@ -1,6 +1,0 @@
-name : svfgd
-age : 95
-e-mail : aucsowpn@needle.worm
-division : kkb
-telephone : 010-9995-4899
-sex : female

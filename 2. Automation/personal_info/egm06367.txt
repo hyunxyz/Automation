@@ -1,6 +1,0 @@
-name : zfgfr
-age : 43
-e-mail : juwqvmqy@needle.worm
-division : kcx
-telephone : 010-6343-1163
-sex : male

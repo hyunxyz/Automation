@@ -1,6 +1,0 @@
-name : vmzlx
-age : 11
-e-mail : xwqroxuo@needle.worm
-division : wcl
-telephone : 010-7111-3071
-sex : others

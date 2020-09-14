@@ -1,6 +1,0 @@
-name : apznj
-age : 22
-e-mail : qqcqzsnl@needle.worm
-division : tvg
-telephone : 010-5622-3856
-sex : female

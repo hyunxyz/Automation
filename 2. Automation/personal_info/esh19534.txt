@@ -1,6 +1,0 @@
-name : bzsll
-age : 34
-e-mail : hbavagxk@needle.worm
-division : jba
-telephone : 010-9534-9195
-sex : male

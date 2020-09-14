@@ -1,6 +1,0 @@
-name : xqiaj
-age : 09
-e-mail : dnpqtnff@needle.worm
-division : oni
-telephone : 010-1809-8118
-sex : others

@@ -1,6 +1,0 @@
-name : mpdqg
-age : 07
-e-mail : jyaaepvf@needle.worm
-division : bap
-telephone : 010-1407-7014
-sex : others

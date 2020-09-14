@@ -1,6 +1,0 @@
-name : aoyjc
-age : 86
-e-mail : bcjtmhjn@needle.worm
-division : rnk
-telephone : 010-7486-1674
-sex : female

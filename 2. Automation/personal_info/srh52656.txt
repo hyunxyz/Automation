@@ -1,6 +1,0 @@
-name : cttqv
-age : 31
-e-mail : mzsttqjc@needle.worm
-division : usa
-telephone : 010-2631-7626
-sex : others

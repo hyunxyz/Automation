@@ -1,6 +1,0 @@
-name : npxip
-age : 74
-e-mail : rahvzebf@needle.worm
-division : kcu
-telephone : 010-7374-2073
-sex : male

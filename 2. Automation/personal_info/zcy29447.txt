@@ -1,6 +1,0 @@
-name : suege
-age : 47
-e-mail : dikzvwvt@needle.worm
-division : rdu
-telephone : 010-9447-4294
-sex : female

@@ -1,6 +1,0 @@
-name : qrkxd
-age : 46
-e-mail : kubctkve@needle.worm
-division : kmb
-telephone : 010-1346-7213
-sex : others

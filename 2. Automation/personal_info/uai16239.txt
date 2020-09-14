@@ -1,6 +1,0 @@
-name : ckduw
-age : 39
-e-mail : rbpskzcs@needle.worm
-division : dkc
-telephone : 010-6239-4162
-sex : male

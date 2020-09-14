@@ -1,6 +1,0 @@
-name : qmhyk
-age : 58
-e-mail : qjgjcahv@needle.worm
-division : tyf
-telephone : 010-7858-5278
-sex : female

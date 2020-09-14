@@ -1,6 +1,0 @@
-name : wiape
-age : 49
-e-mail : qdrlcwgw@needle.worm
-division : fcq
-telephone : 010-5749-8157
-sex : male

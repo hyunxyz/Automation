@@ -1,6 +1,0 @@
-name : fxlea
-age : 76
-e-mail : jhluqjbs@needle.worm
-division : xxs
-telephone : 010-5276-5152
-sex : female

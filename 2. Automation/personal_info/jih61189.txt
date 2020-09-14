@@ -1,6 +1,0 @@
-name : soyri
-age : 26
-e-mail : ongpcdlx@needle.worm
-division : msp
-telephone : 010-1226-2712
-sex : male

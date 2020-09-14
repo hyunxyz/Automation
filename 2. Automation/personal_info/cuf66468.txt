@@ -1,6 +1,0 @@
-name : cvyry
-age : 68
-e-mail : fvkplwst@needle.worm
-division : hxy
-telephone : 010-6468-0664
-sex : female

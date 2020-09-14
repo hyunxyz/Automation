@@ -1,6 +1,0 @@
-name : gsccv
-age : 74
-e-mail : brhxggzz@needle.worm
-division : hsx
-telephone : 010-8074-2080
-sex : others

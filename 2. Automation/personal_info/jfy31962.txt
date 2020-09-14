@@ -1,6 +1,0 @@
-name : nqukm
-age : 62
-e-mail : hcxampyg@needle.worm
-division : ozu
-telephone : 010-1962-2319
-sex : male

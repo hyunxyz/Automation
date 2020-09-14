@@ -1,6 +1,0 @@
-name : yswea
-age : 59
-e-mail : ozlzbzkc@needle.worm
-division : pmf
-telephone : 010-9159-0591
-sex : others

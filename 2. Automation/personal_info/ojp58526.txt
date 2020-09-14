@@ -1,6 +1,0 @@
-name : jsuut
-age : 26
-e-mail : nqipgywe@needle.worm
-division : odp
-telephone : 010-8526-5585
-sex : others

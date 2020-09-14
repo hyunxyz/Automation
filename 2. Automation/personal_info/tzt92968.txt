@@ -1,6 +1,0 @@
-name : kczda
-age : 48
-e-mail : fmgnqnvh@needle.worm
-division : jdt
-telephone : 010-2948-6029
-sex : female

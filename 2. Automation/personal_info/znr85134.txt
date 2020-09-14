@@ -1,6 +1,0 @@
-name : fuztm
-age : 36
-e-mail : dpcbdimo@needle.worm
-division : twn
-telephone : 010-5236-7952
-sex : male

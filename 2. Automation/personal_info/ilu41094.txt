@@ -1,6 +1,0 @@
-name : hgsbl
-age : 65
-e-mail : rnqbfhtk@needle.worm
-division : uhl
-telephone : 010-1065-3510
-sex : male

@@ -1,6 +1,0 @@
-name : qwnaj
-age : 35
-e-mail : darwkjar@needle.worm
-division : uzw
-telephone : 010-5535-8955
-sex : male

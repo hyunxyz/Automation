@@ -1,6 +1,0 @@
-name : kuzxs
-age : 28
-e-mail : tnupnnsp@needle.worm
-division : dnd
-telephone : 010-7928-7379
-sex : others

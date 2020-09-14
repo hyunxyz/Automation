@@ -1,6 +1,0 @@
-name : liket
-age : 27
-e-mail : zvpxlvxn@needle.worm
-division : kki
-telephone : 010-5727-3457
-sex : others

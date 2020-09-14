@@ -1,6 +1,0 @@
-name : nhvrc
-age : 46
-e-mail : vwdxlocb@needle.worm
-division : nom
-telephone : 010-4946-8549
-sex : female

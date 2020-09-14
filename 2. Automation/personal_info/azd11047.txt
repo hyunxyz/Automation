@@ -1,6 +1,0 @@
-name : bszjj
-age : 47
-e-mail : mzpyepue@needle.worm
-division : rac
-telephone : 010-1047-3110
-sex : female

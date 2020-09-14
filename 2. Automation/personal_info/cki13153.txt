@@ -1,6 +1,0 @@
-name : ywhmo
-age : 53
-e-mail : fyqetxrk@needle.worm
-division : cdm
-telephone : 010-3153-9131
-sex : female

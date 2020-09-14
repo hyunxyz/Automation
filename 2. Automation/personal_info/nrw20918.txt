@@ -1,6 +1,0 @@
-name : pmowv
-age : 18
-e-mail : duqewjac@needle.worm
-division : jpe
-telephone : 010-0918-6209
-sex : others

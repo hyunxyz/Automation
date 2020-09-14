@@ -1,6 +1,0 @@
-name : aovah
-age : 13
-e-mail : duopghmw@needle.worm
-division : qtr
-telephone : 010-2313-6223
-sex : others

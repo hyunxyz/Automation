@@ -1,6 +1,0 @@
-name : jskxl
-age : 67
-e-mail : aszuseyl@needle.worm
-division : ifj
-telephone : 010-2467-8224
-sex : others

@@ -1,6 +1,0 @@
-name : csqcu
-age : 02
-e-mail : cxabaefd@needle.worm
-division : wsz
-telephone : 010-2202-1422
-sex : others

@@ -1,6 +1,0 @@
-name : eikhj
-age : 51
-e-mail : wfuqaykz@needle.worm
-division : rpd
-telephone : 010-1251-2812
-sex : female

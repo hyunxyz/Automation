@@ -1,6 +1,0 @@
-name : vbgpr
-age : 58
-e-mail : kyvdiqlp@needle.worm
-division : psr
-telephone : 010-4258-6342
-sex : male

@@ -1,6 +1,0 @@
-name : xfcum
-age : 58
-e-mail : vtivwemt@needle.worm
-division : xjt
-telephone : 010-1558-3815
-sex : female

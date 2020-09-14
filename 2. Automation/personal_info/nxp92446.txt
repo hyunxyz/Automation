@@ -1,6 +1,0 @@
-name : qclaj
-age : 46
-e-mail : guhhjtnn@needle.worm
-division : ama
-telephone : 010-2446-7924
-sex : male

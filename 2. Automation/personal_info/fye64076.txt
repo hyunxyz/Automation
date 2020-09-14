@@ -1,6 +1,0 @@
-name : avsde
-age : 76
-e-mail : ivjkadtq@needle.worm
-division : plp
-telephone : 010-4076-9640
-sex : female

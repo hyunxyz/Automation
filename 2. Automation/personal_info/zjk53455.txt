@@ -1,6 +1,0 @@
-name : etbzk
-age : 35
-e-mail : ylswgffo@needle.worm
-division : hqg
-telephone : 010-3435-4634
-sex : male

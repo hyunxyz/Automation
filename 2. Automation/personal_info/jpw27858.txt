@@ -1,6 +1,0 @@
-name : hmoli
-age : 53
-e-mail : ftwbeusi@needle.worm
-division : yfh
-telephone : 010-9853-5298
-sex : female

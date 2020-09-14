@@ -1,6 +1,0 @@
-name : dotws
-age : 78
-e-mail : bfwyrdth@needle.worm
-division : gpd
-telephone : 010-0478-.304
-sex : others

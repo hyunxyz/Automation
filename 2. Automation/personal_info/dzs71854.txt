@@ -1,6 +1,0 @@
-name : mcvly
-age : 54
-e-mail : fdxilqwx@needle.worm
-division : bdq
-telephone : 010-1854-2718
-sex : female

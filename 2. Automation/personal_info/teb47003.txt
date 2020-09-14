@@ -1,6 +1,0 @@
-name : mkroi
-age : 03
-e-mail : kbtrljvk@needle.worm
-division : jol
-telephone : 010-7086-3570
-sex : female

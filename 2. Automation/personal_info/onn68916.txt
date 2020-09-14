@@ -1,6 +1,0 @@
-name : jawlz
-age : 89
-e-mail : atoxipkq@needle.worm
-division : yua
-telephone : 010-3789-.637
-sex : others

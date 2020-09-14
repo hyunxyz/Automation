@@ -1,6 +1,0 @@
-name : sbzzy
-age : 43
-e-mail : azcphsxt@needle.worm
-division : xfc
-telephone : 010-8343-4683
-sex : others

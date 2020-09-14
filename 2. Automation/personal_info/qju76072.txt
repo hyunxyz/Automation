@@ -1,6 +1,0 @@
-name : pewji
-age : 43
-e-mail : dbqjgcem@needle.worm
-division : kug
-telephone : 010-6043-4860
-sex : female

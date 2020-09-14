@@ -1,6 +1,0 @@
-name : bbjvi
-age : 54
-e-mail : riwosowi@needle.worm
-division : cfx
-telephone : 010-6354-7163
-sex : male

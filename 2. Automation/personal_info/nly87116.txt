@@ -1,6 +1,0 @@
-name : ojjyf
-age : 87
-e-mail : pcrbvjoe@needle.worm
-division : hwh
-telephone : 010-7087-0970
-sex : male

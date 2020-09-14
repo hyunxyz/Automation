@@ -1,6 +1,0 @@
-name : juqkj
-age : 34
-e-mail : qpvkeblu@needle.worm
-division : tpu
-telephone : 010-2734-2027
-sex : male

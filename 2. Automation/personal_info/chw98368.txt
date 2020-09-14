@@ -1,6 +1,0 @@
-name : tymes
-age : 46
-e-mail : rywwjqig@needle.worm
-division : boe
-telephone : 010-8346-1083
-sex : male

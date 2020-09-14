@@ -1,6 +1,0 @@
-name : ilats
-age : 88
-e-mail : feztvugw@needle.worm
-division : xym
-telephone : 010-0188-9001
-sex : female

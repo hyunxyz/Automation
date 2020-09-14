@@ -1,6 +1,0 @@
-name : sjjix
-age : 56
-e-mail : cuesxfnr@needle.worm
-division : mzv
-telephone : 010-2356-3423
-sex : others

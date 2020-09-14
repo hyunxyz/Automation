@@ -1,6 +1,0 @@
-name : dndtn
-age : 47
-e-mail : tqryroxj@needle.worm
-division : ogy
-telephone : 010-9447-4294
-sex : male

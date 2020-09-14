@@ -1,6 +1,0 @@
-name : srboo
-age : 88
-e-mail : zugwrhgm@needle.worm
-division : bav
-telephone : 010-2988-8529
-sex : female

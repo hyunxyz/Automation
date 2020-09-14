@@ -1,6 +1,0 @@
-name : uolct
-age : 88
-e-mail : gvnocswe@needle.worm
-division : srv
-telephone : 010-6388-5763
-sex : male

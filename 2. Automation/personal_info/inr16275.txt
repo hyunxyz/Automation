@@ -1,6 +1,0 @@
-name : ulfjl
-age : 75
-e-mail : pnemaxxt@needle.worm
-division : mzl
-telephone : 010-6275-4162
-sex : others

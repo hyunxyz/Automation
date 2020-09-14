@@ -1,6 +1,0 @@
-name : mrxdw
-age : 02
-e-mail : mmautqyo@needle.worm
-division : bba
-telephone : 010-1802-5518
-sex : male

@@ -1,6 +1,0 @@
-name : byyle
-age : 83
-e-mail : emnynjiq@needle.worm
-division : eho
-telephone : 010-0283-8602
-sex : female

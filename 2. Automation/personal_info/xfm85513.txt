@@ -1,6 +1,0 @@
-name : amwad
-age : 13
-e-mail : mttqszex@needle.worm
-division : ocs
-telephone : 010-5513-6855
-sex : male

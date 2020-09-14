@@ -1,6 +1,0 @@
-name : ugexs
-age : 12
-e-mail : xacqnuzy@needle.worm
-division : hmy
-telephone : 010-6412-8164
-sex : male

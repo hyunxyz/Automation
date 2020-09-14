@@ -1,6 +1,0 @@
-name : irrdj
-age : 78
-e-mail : rdvjlxec@needle.worm
-division : eju
-telephone : 010-2478-5624
-sex : male

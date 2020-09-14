@@ -1,6 +1,0 @@
-name : zltng
-age : 47
-e-mail : eoemlahn@needle.worm
-division : sph
-telephone : 010-8147-1781
-sex : male

@@ -1,6 +1,0 @@
-name : tfjrx
-age : 16
-e-mail : suqjverh@needle.worm
-division : new
-telephone : 010-2916-8729
-sex : female

@@ -1,6 +1,0 @@
-name : nlwra
-age : 04
-e-mail : lxrgbzdp@needle.worm
-division : vee
-telephone : 010-4604-0246
-sex : male

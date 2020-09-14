@@ -1,6 +1,0 @@
-name : mcvcl
-age : 95
-e-mail : ofnfwodk@needle.worm
-division : yhc
-telephone : 010-8695-5886
-sex : female

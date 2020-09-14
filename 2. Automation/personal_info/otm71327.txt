@@ -1,6 +1,0 @@
-name : fbefk
-age : 27
-e-mail : slkuiavb@needle.worm
-division : awe
-telephone : 010-1327-4713
-sex : male

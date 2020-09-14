@@ -1,6 +1,0 @@
-name : lvyxd
-age : 19
-e-mail : paunfbia@needle.worm
-division : llw
-telephone : 010-3819-5438
-sex : female

@@ -1,6 +1,0 @@
-name : syxhj
-age : 16
-e-mail : rqtmtzuv@needle.worm
-division : mpb
-telephone : 010-5884-2858
-sex : female

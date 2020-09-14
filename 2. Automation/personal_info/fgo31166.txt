@@ -1,6 +1,0 @@
-name : jdxci
-age : 66
-e-mail : cyaaydhq@needle.worm
-division : fae
-telephone : 010-1166-5311
-sex : others

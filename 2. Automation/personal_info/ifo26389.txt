@@ -1,6 +1,0 @@
-name : gaihq
-age : 69
-e-mail : bxlirsvo@needle.worm
-division : wzc
-telephone : 010-8869-6488
-sex : male

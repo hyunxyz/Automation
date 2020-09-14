@@ -1,6 +1,0 @@
-name : hocka
-age : 37
-e-mail : zztbiowz@needle.worm
-division : hrq
-telephone : 010-4237-1642
-sex : female

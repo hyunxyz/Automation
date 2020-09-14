@@ -1,6 +1,0 @@
-name : qxtmx
-age : 43
-e-mail : tjefeplb@needle.worm
-division : fwa
-telephone : 010-5543-6755
-sex : female

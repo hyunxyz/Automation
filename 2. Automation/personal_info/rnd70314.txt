@@ -1,6 +1,0 @@
-name : inpgh
-age : 14
-e-mail : joqklqyb@needle.worm
-division : ivx
-telephone : 010-0314-3703
-sex : female

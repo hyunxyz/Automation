@@ -1,6 +1,0 @@
-name : ckzps
-age : 51
-e-mail : ldyelmhi@needle.worm
-division : caa
-telephone : 010-7351-7173
-sex : male

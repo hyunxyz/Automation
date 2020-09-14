@@ -1,6 +1,0 @@
-name : vbbso
-age : 89
-e-mail : ansoadrv@needle.worm
-division : bnc
-telephone : 010-1189-2611
-sex : female

@@ -1,6 +1,0 @@
-name : rnydg
-age : 56
-e-mail : ydyvipqe@needle.worm
-division : cld
-telephone : 010-0356-0903
-sex : male

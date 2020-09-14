@@ -1,6 +1,0 @@
-name : gcfae
-age : 44
-e-mail : dntwkdcm@needle.worm
-division : lzo
-telephone : 010-9144-0691
-sex : others

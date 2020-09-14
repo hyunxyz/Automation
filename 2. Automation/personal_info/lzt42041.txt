@@ -1,6 +1,0 @@
-name : txrwl
-age : 12
-e-mail : ojcsbemb@needle.worm
-division : uor
-telephone : 010-2012-9520
-sex : male

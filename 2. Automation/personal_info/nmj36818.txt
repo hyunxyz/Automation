@@ -1,6 +1,0 @@
-name : gfkas
-age : 18
-e-mail : mgozaitc@needle.worm
-division : coo
-telephone : 010-6818-9368
-sex : male

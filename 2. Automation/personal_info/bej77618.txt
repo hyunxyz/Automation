@@ -1,6 +1,0 @@
-name : ipagx
-age : 84
-e-mail : gmkvyifm@needle.worm
-division : zqy
-telephone : 010-7584-3875
-sex : male

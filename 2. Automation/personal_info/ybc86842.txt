@@ -1,6 +1,0 @@
-name : hiyir
-age : 42
-e-mail : iadkrkmp@needle.worm
-division : yeh
-telephone : 010-6842-1868
-sex : others

@@ -1,6 +1,0 @@
-name : uffek
-age : 21
-e-mail : cgtrhqle@needle.worm
-division : cot
-telephone : 010-9021-3290
-sex : male

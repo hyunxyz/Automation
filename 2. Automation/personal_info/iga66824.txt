@@ -1,6 +1,0 @@
-name : vmqtm
-age : 12
-e-mail : aqszgxta@needle.worm
-division : koo
-telephone : 010-8212-6782
-sex : female

@@ -1,6 +1,0 @@
-name : ysnyz
-age : 74
-e-mail : paycgksl@needle.worm
-division : fzq
-telephone : 010-9274-0192
-sex : female

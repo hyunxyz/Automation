@@ -1,6 +1,0 @@
-name : ucjvd
-age : 78
-e-mail : nukszdrb@needle.worm
-division : nmd
-telephone : 010-6678-4666
-sex : female

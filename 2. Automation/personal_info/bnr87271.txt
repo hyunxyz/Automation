@@ -1,6 +1,0 @@
-name : yeuwh
-age : 71
-e-mail : miciotxw@needle.worm
-division : qsa
-telephone : 010-7271-9872
-sex : others

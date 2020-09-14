@@ -1,6 +1,0 @@
-name : umegn
-age : 85
-e-mail : hekinboq@needle.worm
-division : mgg
-telephone : 010-7485-6674
-sex : male

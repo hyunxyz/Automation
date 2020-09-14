@@ -1,6 +1,0 @@
-name : meneo
-age : 78
-e-mail : rrortlvu@needle.worm
-division : cnc
-telephone : 010-8878-4288
-sex : female

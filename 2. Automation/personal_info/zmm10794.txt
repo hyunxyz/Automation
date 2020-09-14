@@ -1,6 +1,0 @@
-name : sxugq
-age : 64
-e-mail : ibqismni@needle.worm
-division : qyx
-telephone : 010-0764-4207
-sex : male

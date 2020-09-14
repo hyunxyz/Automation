@@ -1,6 +1,0 @@
-name : qynqp
-age : 99
-e-mail : aabpswhr@needle.worm
-division : bjh
-telephone : 010-0599-2505
-sex : others

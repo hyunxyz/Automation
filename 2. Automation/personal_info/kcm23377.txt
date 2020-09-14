@@ -1,6 +1,0 @@
-name : ldszo
-age : 77
-e-mail : ujxtexbz@needle.worm
-division : znq
-telephone : 010-3377-2233
-sex : others

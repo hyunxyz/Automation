@@ -1,6 +1,0 @@
-name : kszoc
-age : 33
-e-mail : rzicmwjs@needle.worm
-division : mfo
-telephone : 010-9106-5591
-sex : female

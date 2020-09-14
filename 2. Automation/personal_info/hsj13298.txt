@@ -1,6 +1,0 @@
-name : vnzfa
-age : 98
-e-mail : jrsyrkhc@needle.worm
-division : vrd
-telephone : 010-3298-5132
-sex : female

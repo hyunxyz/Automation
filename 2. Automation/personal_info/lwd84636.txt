@@ -1,6 +1,0 @@
-name : ycosz
-age : 48
-e-mail : lvytofqq@needle.worm
-division : dup
-telephone : 010-6348-8563
-sex : female

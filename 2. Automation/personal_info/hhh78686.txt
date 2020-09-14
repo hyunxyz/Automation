@@ -1,6 +1,0 @@
-name : vvfwp
-age : 86
-e-mail : eefmxwuc@needle.worm
-division : oug
-telephone : 010-8686-9786
-sex : male

@@ -1,6 +1,0 @@
-name : clogx
-age : 35
-e-mail : rivsjcdg@needle.worm
-division : yhc
-telephone : 010-5806-3158
-sex : others

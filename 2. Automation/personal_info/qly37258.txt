@@ -1,6 +1,0 @@
-name : nxzwf
-age : 15
-e-mail : btcckdok@needle.worm
-division : nej
-telephone : 010-7215-0472
-sex : others

@@ -1,6 +1,0 @@
-name : gdyxc
-age : 64
-e-mail : jrtawjti@needle.worm
-division : vpv
-telephone : 010-5564-3855
-sex : male

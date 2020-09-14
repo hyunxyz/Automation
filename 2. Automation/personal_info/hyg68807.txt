@@ -1,6 +1,0 @@
-name : xpldd
-age : 34
-e-mail : vqgfdlfu@needle.worm
-division : gof
-telephone : 010-8034-6980
-sex : others

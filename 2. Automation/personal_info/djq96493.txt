@@ -1,6 +1,0 @@
-name : whsom
-age : 93
-e-mail : xxgjaqgi@needle.worm
-division : nwo
-telephone : 010-6493-7964
-sex : others

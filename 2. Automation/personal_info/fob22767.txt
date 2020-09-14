@@ -1,6 +1,0 @@
-name : ziqad
-age : 94
-e-mail : bufmmyqd@needle.worm
-division : rsu
-telephone : 010-6594-2865
-sex : male

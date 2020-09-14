@@ -1,6 +1,0 @@
-name : wiakw
-age : 94
-e-mail : qtjjubmi@needle.worm
-division : awg
-telephone : 010-0794-4107
-sex : female

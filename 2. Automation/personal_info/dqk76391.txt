@@ -1,6 +1,0 @@
-name : vajnq
-age : 88
-e-mail : hdftzzer@needle.worm
-division : ehy
-telephone : 010-7388-0773
-sex : female

@@ -1,6 +1,0 @@
-name : hvojf
-age : 27
-e-mail : iplamsvl@needle.worm
-division : lbr
-telephone : 010-7507-8975
-sex : male

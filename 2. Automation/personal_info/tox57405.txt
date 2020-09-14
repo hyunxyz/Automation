@@ -1,6 +1,0 @@
-name : pqfnd
-age : 73
-e-mail : byobkuyi@needle.worm
-division : zak
-telephone : 010-7373-4673
-sex : male

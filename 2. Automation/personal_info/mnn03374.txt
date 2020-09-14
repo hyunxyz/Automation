@@ -1,6 +1,0 @@
-name : eznku
-age : 47
-e-mail : shujsbio@needle.worm
-division : otu
-telephone : 010-3347-7133
-sex : female

@@ -1,6 +1,0 @@
-name : gtnte
-age : 11
-e-mail : qmfjmznb@needle.worm
-division : wxx
-telephone : 010-8311-1183
-sex : female

@@ -1,6 +1,0 @@
-name : bbdal
-age : 63
-e-mail : yqsryhvn@needle.worm
-division : fgh
-telephone : 010-9063-0990
-sex : male

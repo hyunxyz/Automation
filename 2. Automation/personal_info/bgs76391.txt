@@ -1,6 +1,0 @@
-name : dxhvl
-age : 91
-e-mail : kkdhfgqf@needle.worm
-division : pon
-telephone : 010-6391-0763
-sex : male

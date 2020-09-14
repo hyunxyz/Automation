@@ -1,6 +1,0 @@
-name : uokbu
-age : 52
-e-mail : ixfggqgp@needle.worm
-division : sbb
-telephone : 010-8652-9786
-sex : male

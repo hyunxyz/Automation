@@ -1,6 +1,0 @@
-name : bfxbd
-age : 65
-e-mail : euxxqeib@needle.worm
-division : akx
-telephone : 010-9965-7599
-sex : others

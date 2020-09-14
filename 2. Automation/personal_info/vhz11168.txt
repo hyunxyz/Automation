@@ -1,6 +1,0 @@
-name : levzi
-age : 34
-e-mail : evxjvejz@needle.worm
-division : ppf
-telephone : 010-1134-3211
-sex : others

@@ -1,6 +1,0 @@
-name : phokj
-age : 07
-e-mail : xilydlei@needle.worm
-division : ekp
-telephone : 010-6207-4262
-sex : female

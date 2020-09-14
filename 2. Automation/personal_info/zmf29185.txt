@@ -1,6 +1,0 @@
-name : xpyek
-age : 58
-e-mail : mjrcdkqt@needle.worm
-division : ohb
-telephone : 010-9158-5391
-sex : male

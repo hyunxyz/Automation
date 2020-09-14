@@ -1,6 +1,0 @@
-name : udrey
-age : 02
-e-mail : dukgydcl@needle.worm
-division : zyd
-telephone : 010-3002-6230
-sex : male

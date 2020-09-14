@@ -1,6 +1,0 @@
-name : lgcqu
-age : 98
-e-mail : luvgiffn@needle.worm
-division : tdc
-telephone : 010-1698-8516
-sex : male

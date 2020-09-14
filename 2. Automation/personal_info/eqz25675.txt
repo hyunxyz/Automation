@@ -1,6 +1,0 @@
-name : tswzc
-age : 65
-e-mail : wixrxthn@needle.worm
-division : vvb
-telephone : 010-3565-2635
-sex : male

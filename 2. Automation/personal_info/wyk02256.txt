@@ -1,6 +1,0 @@
-name : apmos
-age : 56
-e-mail : bmymprdq@needle.worm
-division : wgb
-telephone : 010-2256-9022
-sex : male

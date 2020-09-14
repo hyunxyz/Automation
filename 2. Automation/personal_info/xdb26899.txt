@@ -1,6 +1,0 @@
-name : yayyv
-age : 99
-e-mail : ezitgerh@needle.worm
-division : aek
-telephone : 010-6899-1268
-sex : female

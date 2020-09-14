@@ -1,6 +1,0 @@
-name : uansn
-age : 85
-e-mail : bochycts@needle.worm
-division : git
-telephone : 010-3085-.530
-sex : female

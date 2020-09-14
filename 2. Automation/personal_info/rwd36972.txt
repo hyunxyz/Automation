@@ -1,6 +1,0 @@
-name : loyev
-age : 57
-e-mail : dzblhzfy@needle.worm
-division : tov
-telephone : 010-6957-1469
-sex : others

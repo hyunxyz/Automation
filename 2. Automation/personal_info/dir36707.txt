@@ -1,6 +1,0 @@
-name : xpnga
-age : 83
-e-mail : gozfruyc@needle.worm
-division : evx
-telephone : 010-6683-2466
-sex : male

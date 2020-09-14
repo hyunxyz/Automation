@@ -1,6 +1,0 @@
-name : vyagt
-age : 36
-e-mail : kjswsomr@needle.worm
-division : zma
-telephone : 010-7536-9275
-sex : male

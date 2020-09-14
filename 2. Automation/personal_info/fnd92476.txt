@@ -1,6 +1,0 @@
-name : stywg
-age : 76
-e-mail : fnqywlkg@needle.worm
-division : eik
-telephone : 010-2476-7924
-sex : male

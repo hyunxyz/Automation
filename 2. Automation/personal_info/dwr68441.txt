@@ -1,6 +1,0 @@
-name : zgesi
-age : 41
-e-mail : cskwxogp@needle.worm
-division : kfk
-telephone : 010-7841-9078
-sex : female

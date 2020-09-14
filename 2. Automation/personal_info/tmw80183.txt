@@ -1,6 +1,0 @@
-name : iduvc
-age : 83
-e-mail : rqmjbhyv@needle.worm
-division : tie
-telephone : 010-0183-6801
-sex : female

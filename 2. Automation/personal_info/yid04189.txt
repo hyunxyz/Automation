@@ -1,6 +1,0 @@
-name : iuril
-age : 64
-e-mail : aswlgzby@needle.worm
-division : mex
-telephone : 010-1864-0518
-sex : female

@@ -1,6 +1,0 @@
-name : ssiga
-age : 57
-e-mail : duzcxwnj@needle.worm
-division : dyw
-telephone : 010-2757-6727
-sex : male

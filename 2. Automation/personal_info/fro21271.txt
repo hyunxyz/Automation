@@ -1,6 +1,0 @@
-name : hxjde
-age : 71
-e-mail : gwpksvyx@needle.worm
-division : mns
-telephone : 010-1271-1212
-sex : female

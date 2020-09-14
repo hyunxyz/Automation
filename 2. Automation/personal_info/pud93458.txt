@@ -1,6 +1,0 @@
-name : wxwrn
-age : 58
-e-mail : yfadrwbc@needle.worm
-division : zdf
-telephone : 010-3458-1934
-sex : female

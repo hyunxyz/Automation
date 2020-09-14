@@ -1,6 +1,0 @@
-name : xsuzn
-age : 31
-e-mail : pllfnouy@needle.worm
-division : eqs
-telephone : 010-1831-5418
-sex : male

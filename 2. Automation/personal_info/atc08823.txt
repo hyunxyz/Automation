@@ -1,6 +1,0 @@
-name : wyzbe
-age : 23
-e-mail : svhonvks@needle.worm
-division : uir
-telephone : 010-8823-4088
-sex : female

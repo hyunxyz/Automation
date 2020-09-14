@@ -1,6 +1,0 @@
-name : bmkrg
-age : 92
-e-mail : jdnxzmkf@needle.worm
-division : bao
-telephone : 010-2492-4124
-sex : others

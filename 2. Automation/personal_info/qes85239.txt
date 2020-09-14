@@ -1,6 +1,0 @@
-name : vjbpm
-age : 39
-e-mail : kxocfiba@needle.worm
-division : xxg
-telephone : 010-5239-3852
-sex : male

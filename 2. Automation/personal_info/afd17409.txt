@@ -1,6 +1,0 @@
-name : ydnwv
-age : 09
-e-mail : uprepbnn@needle.worm
-division : dny
-telephone : 010-7409-8174
-sex : male

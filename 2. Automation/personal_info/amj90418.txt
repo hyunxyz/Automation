@@ -1,6 +1,0 @@
-name : occck
-age : 91
-e-mail : elrebluc@needle.worm
-division : vqp
-telephone : 010-0391-6003
-sex : female

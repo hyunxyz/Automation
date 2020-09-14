@@ -1,6 +1,0 @@
-name : diewp
-age : 16
-e-mail : xwwalygj@needle.worm
-division : lim
-telephone : 010-7516-6775
-sex : female

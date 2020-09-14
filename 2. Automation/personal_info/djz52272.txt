@@ -1,6 +1,0 @@
-name : lkuff
-age : 55
-e-mail : mhyuyqus@needle.worm
-division : phg
-telephone : 010-2255-8622
-sex : others

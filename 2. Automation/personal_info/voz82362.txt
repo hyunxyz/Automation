@@ -1,6 +1,0 @@
-name : epuah
-age : 86
-e-mail : ispdstdp@needle.worm
-division : zfj
-telephone : 010-2286-1122
-sex : others

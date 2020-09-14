@@ -1,6 +1,0 @@
-name : lkjqj
-age : 53
-e-mail : wqrphper@needle.worm
-division : pki
-telephone : 010-1453-1614
-sex : male

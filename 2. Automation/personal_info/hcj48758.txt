@@ -1,6 +1,0 @@
-name : aanwr
-age : 38
-e-mail : hxbegbuz@needle.worm
-division : slx
-telephone : 010-8738-9587
-sex : male

@@ -1,6 +1,0 @@
-name : ujqpa
-age : 28
-e-mail : dzniyyeo@needle.worm
-division : cup
-telephone : 010-8028-8380
-sex : others

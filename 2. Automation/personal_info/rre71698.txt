@@ -1,6 +1,0 @@
-name : zxici
-age : 64
-e-mail : bqpfcvdf@needle.worm
-division : aau
-telephone : 010-1664-0816
-sex : female

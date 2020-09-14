@@ -1,6 +1,0 @@
-name : nvxhs
-age : 73
-e-mail : ilsrfemj@needle.worm
-division : lbh
-telephone : 010-7573-6575
-sex : others

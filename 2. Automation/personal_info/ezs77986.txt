@@ -1,6 +1,0 @@
-name : umgky
-age : 62
-e-mail : eawbvlkp@needle.worm
-division : hth
-telephone : 010-7962-9879
-sex : female

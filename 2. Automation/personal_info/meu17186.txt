@@ -1,6 +1,0 @@
-name : ptkhr
-age : 86
-e-mail : zlzvywfi@needle.worm
-division : hmn
-telephone : 010-7186-0171
-sex : others

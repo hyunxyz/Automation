@@ -1,6 +1,0 @@
-name : tstcp
-age : 53
-e-mail : gbeoajuq@needle.worm
-division : ecw
-telephone : 010-7353-4773
-sex : female

@@ -1,6 +1,0 @@
-name : mrqcy
-age : 47
-e-mail : ejsilrkk@needle.worm
-division : cpp
-telephone : 010-6547-7765
-sex : female

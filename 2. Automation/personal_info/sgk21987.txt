@@ -1,6 +1,0 @@
-name : xywav
-age : 62
-e-mail : yhgudfkv@needle.worm
-division : mzj
-telephone : 010-1962-2319
-sex : male

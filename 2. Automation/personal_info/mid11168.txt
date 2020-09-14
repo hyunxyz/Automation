@@ -1,6 +1,0 @@
-name : olnqe
-age : 68
-e-mail : qypbrzew@needle.worm
-division : arb
-telephone : 010-1168-3111
-sex : female

@@ -1,6 +1,0 @@
-name : gpudo
-age : 13
-e-mail : yivswnnz@needle.worm
-division : kwk
-telephone : 010-4513-2845
-sex : others

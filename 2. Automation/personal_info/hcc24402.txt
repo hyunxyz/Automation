@@ -1,6 +1,0 @@
-name : cccrc
-age : 99
-e-mail : uvoaokfz@needle.worm
-division : dmz
-telephone : 010-5399-3253
-sex : others

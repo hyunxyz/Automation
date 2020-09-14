@@ -1,6 +1,0 @@
-name : ijmac
-age : 17
-e-mail : rytffitx@needle.worm
-division : lcq
-telephone : 010-3317-.533
-sex : others

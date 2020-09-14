@@ -1,6 +1,0 @@
-name : wdceq
-age : 28
-e-mail : agmqxfyg@needle.worm
-division : afv
-telephone : 010-7828-5578
-sex : female

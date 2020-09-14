@@ -1,6 +1,0 @@
-name : ohlpk
-age : 95
-e-mail : fzkhkzpr@needle.worm
-division : yiy
-telephone : 010-7695-0876
-sex : others

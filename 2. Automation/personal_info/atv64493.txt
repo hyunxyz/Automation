@@ -1,6 +1,0 @@
-name : bytep
-age : 37
-e-mail : xaivtlaq@needle.worm
-division : euq
-telephone : 010-5037-6550
-sex : others

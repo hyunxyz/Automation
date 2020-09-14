@@ -1,6 +1,0 @@
-name : bnqie
-age : 28
-e-mail : moiwidbm@needle.worm
-division : paf
-telephone : 010-6928-8969
-sex : male

@@ -1,6 +1,0 @@
-name : vifnm
-age : 15
-e-mail : mukazndm@needle.worm
-division : xvb
-telephone : 010-5515-1655
-sex : male

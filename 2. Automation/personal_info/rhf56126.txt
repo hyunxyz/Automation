@@ -1,6 +1,0 @@
-name : txftw
-age : 26
-e-mail : zjoklhuf@needle.worm
-division : jse
-telephone : 010-6126-4561
-sex : others

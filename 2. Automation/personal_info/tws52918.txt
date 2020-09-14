@@ -1,6 +1,0 @@
-name : fedxu
-age : 18
-e-mail : bqnixdzj@needle.worm
-division : fsp
-telephone : 010-2918-.529
-sex : others

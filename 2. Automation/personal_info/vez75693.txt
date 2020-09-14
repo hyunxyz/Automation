@@ -1,6 +1,0 @@
-name : thltc
-age : 93
-e-mail : mvcfylav@needle.worm
-division : nbc
-telephone : 010-5693-5756
-sex : female

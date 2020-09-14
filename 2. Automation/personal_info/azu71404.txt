@@ -1,6 +1,0 @@
-name : nlbfs
-age : 15
-e-mail : twbjtuvg@needle.worm
-division : kpz
-telephone : 010-4015-7240
-sex : others

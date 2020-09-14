@@ -1,6 +1,0 @@
-name : kzbbl
-age : 43
-e-mail : fsgvqayl@needle.worm
-division : wcc
-telephone : 010-4443-8244
-sex : others

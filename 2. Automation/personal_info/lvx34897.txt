@@ -1,6 +1,0 @@
-name : kwwye
-age : 45
-e-mail : cjetbaxf@needle.worm
-division : tnr
-telephone : 010-8945-3589
-sex : male

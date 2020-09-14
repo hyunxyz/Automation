@@ -1,6 +1,0 @@
-name : guxgd
-age : 26
-e-mail : iumqtevt@needle.worm
-division : btw
-telephone : 010-4526-0545
-sex : others

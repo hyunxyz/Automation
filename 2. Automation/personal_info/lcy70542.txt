@@ -1,6 +1,0 @@
-name : ktrzt
-age : 32
-e-mail : zdsvuird@needle.worm
-division : eqb
-telephone : 010-1532-7715
-sex : female

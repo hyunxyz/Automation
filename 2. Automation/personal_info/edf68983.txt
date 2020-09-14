@@ -1,6 +1,0 @@
-name : flvvw
-age : 83
-e-mail : izpnnndu@needle.worm
-division : qgy
-telephone : 010-8983-8689
-sex : female

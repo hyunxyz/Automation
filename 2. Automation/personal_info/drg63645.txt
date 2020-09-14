@@ -1,6 +1,0 @@
-name : isluj
-age : 23
-e-mail : dsrlcacy@needle.worm
-division : tkc
-telephone : 010-3623-8736
-sex : female

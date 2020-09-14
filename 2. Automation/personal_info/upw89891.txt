@@ -1,6 +1,0 @@
-name : peygs
-age : 91
-e-mail : qotitgzs@needle.worm
-division : gqe
-telephone : 010-9862-7998
-sex : male

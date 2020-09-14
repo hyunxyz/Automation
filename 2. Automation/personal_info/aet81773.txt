@@ -1,6 +1,0 @@
-name : ofjgx
-age : 03
-e-mail : jufjapor@needle.worm
-division : lnh
-telephone : 010-7703-8277
-sex : female

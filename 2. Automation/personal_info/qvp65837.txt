@@ -1,6 +1,0 @@
-name : eftmd
-age : 03
-e-mail : wtmjrooe@needle.worm
-division : jvs
-telephone : 010-5803-5758
-sex : female

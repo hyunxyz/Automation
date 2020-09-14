@@ -1,6 +1,0 @@
-name : rtimw
-age : 18
-e-mail : geribgqx@needle.worm
-division : qop
-telephone : 010-2118-4321
-sex : male

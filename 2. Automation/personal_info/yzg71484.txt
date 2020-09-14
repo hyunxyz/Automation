@@ -1,6 +1,0 @@
-name : lzaax
-age : 84
-e-mail : opaolqry@needle.worm
-division : lvu
-telephone : 010-1484-6714
-sex : male

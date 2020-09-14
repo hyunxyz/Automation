@@ -1,6 +1,0 @@
-name : rgqmg
-age : 53
-e-mail : lyhondvo@needle.worm
-division : olb
-telephone : 010-5053-8150
-sex : others

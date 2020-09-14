@@ -1,6 +1,0 @@
-name : jgnsu
-age : 85
-e-mail : kynrnfum@needle.worm
-division : dva
-telephone : 010-9385-7193
-sex : female

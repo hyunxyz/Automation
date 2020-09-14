@@ -1,6 +1,0 @@
-name : vnuyd
-age : 18
-e-mail : yvbsmgsh@needle.worm
-division : epj
-telephone : 010-8018-7480
-sex : male

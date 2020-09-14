@@ -1,6 +1,0 @@
-name : mocks
-age : 32
-e-mail : mgprgbny@needle.worm
-division : orh
-telephone : 010-4232-3842
-sex : male

@@ -1,6 +1,0 @@
-name : ywiwt
-age : 65
-e-mail : xwpknwqh@needle.worm
-division : ism
-telephone : 010-3565-2635
-sex : others

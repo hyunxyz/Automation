@@ -1,6 +1,0 @@
-name : mcqcu
-age : 59
-e-mail : ogcbjwmu@needle.worm
-division : zni
-telephone : 010-0359-3403
-sex : female

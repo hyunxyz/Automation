@@ -1,6 +1,0 @@
-name : gcbaf
-age : 05
-e-mail : qalnlqvv@needle.worm
-division : biq
-telephone : 010-6605-9966
-sex : others

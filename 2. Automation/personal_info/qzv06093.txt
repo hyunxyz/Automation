@@ -1,6 +1,0 @@
-name : qcpoq
-age : 93
-e-mail : ucsrdtpo@needle.worm
-division : lye
-telephone : 010-6093-2060
-sex : female

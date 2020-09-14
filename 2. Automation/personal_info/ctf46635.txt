@@ -1,6 +1,0 @@
-name : zsssf
-age : 03
-e-mail : ymhnxwxd@needle.worm
-division : akg
-telephone : 010-6603-7566
-sex : others

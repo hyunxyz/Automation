@@ -1,6 +1,0 @@
-name : xahlf
-age : 12
-e-mail : vpvztjjv@needle.worm
-division : bai
-telephone : 010-2412-3224
-sex : female

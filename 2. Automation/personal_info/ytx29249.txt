@@ -1,6 +1,0 @@
-name : rodwp
-age : 74
-e-mail : ughalkln@needle.worm
-division : kbb
-telephone : 010-2474-3024
-sex : male

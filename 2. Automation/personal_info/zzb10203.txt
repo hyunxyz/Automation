@@ -1,6 +1,0 @@
-name : chudf
-age : 84
-e-mail : osikieqr@needle.worm
-division : qhd
-telephone : 010-0184-4201
-sex : others

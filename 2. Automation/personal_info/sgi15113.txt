@@ -1,6 +1,0 @@
-name : lnker
-age : 86
-e-mail : hbbdjnmt@needle.worm
-division : iao
-telephone : 010-5086-3250
-sex : others

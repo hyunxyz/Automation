@@ -1,6 +1,0 @@
-name : jilor
-age : 55
-e-mail : rdrkselz@needle.worm
-division : ppw
-telephone : 010-2955-8629
-sex : others

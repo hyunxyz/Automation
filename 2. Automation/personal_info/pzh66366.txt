@@ -1,6 +1,0 @@
-name : twttt
-age : 66
-e-mail : ysrbdgmx@needle.worm
-division : lxf
-telephone : 010-6366-3663
-sex : female

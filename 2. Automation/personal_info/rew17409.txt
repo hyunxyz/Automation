@@ -1,6 +1,0 @@
-name : xwqmf
-age : 09
-e-mail : xvntiwcc@needle.worm
-division : uxl
-telephone : 010-7409-7174
-sex : male

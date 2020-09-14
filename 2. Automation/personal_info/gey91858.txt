@@ -1,6 +1,0 @@
-name : ctcof
-age : 58
-e-mail : paejohrx@needle.worm
-division : yzy
-telephone : 010-1858-7918
-sex : male

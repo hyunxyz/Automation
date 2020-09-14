@@ -1,6 +1,0 @@
-name : haoer
-age : 27
-e-mail : vsggnznw@needle.worm
-division : tut
-telephone : 010-5727-5657
-sex : others

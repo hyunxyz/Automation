@@ -1,6 +1,0 @@
-name : hzkjx
-age : 95
-e-mail : bymlbmxu@needle.worm
-division : nkx
-telephone : 010-7295-2372
-sex : others

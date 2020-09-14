@@ -1,6 +1,0 @@
-name : sqqxp
-age : 98
-e-mail : rjifvfad@needle.worm
-division : aif
-telephone : 010-8198-4181
-sex : male

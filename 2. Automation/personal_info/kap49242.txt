@@ -1,6 +1,0 @@
-name : botqb
-age : 12
-e-mail : ozvumxij@needle.worm
-division : ltv
-telephone : 010-9212-2592
-sex : female

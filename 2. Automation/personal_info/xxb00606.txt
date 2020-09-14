@@ -1,6 +1,0 @@
-name : bxqhz
-age : 06
-e-mail : gbhlkmzr@needle.worm
-division : qea
-telephone : 010-0606-5006
-sex : male

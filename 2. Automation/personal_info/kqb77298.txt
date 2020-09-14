@@ -1,6 +1,0 @@
-name : gntcp
-age : 98
-e-mail : nqmbhquy@needle.worm
-division : luk
-telephone : 010-7298-9772
-sex : others

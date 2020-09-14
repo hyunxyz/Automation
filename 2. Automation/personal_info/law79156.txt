@@ -1,6 +1,0 @@
-name : nslwc
-age : 56
-e-mail : ngzmrdqn@needle.worm
-division : jre
-telephone : 010-9156-2791
-sex : others

@@ -1,6 +1,0 @@
-name : wvxxn
-age : 95
-e-mail : rnuplots@needle.worm
-division : kef
-telephone : 010-3695-3636
-sex : male

@@ -1,6 +1,0 @@
-name : ftscn
-age : 94
-e-mail : dongrkwp@needle.worm
-division : rsx
-telephone : 010-5094-8450
-sex : others

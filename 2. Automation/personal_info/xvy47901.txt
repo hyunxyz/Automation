@@ -1,6 +1,0 @@
-name : hclqv
-age : 01
-e-mail : uhbifpsy@needle.worm
-division : vjn
-telephone : 010-7901-7479
-sex : male

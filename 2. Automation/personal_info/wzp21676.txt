@@ -1,6 +1,0 @@
-name : atrll
-age : 76
-e-mail : grztwyzx@needle.worm
-division : kxm
-telephone : 010-1676-2216
-sex : others
