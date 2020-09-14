@@ -1,7 +1,3 @@
-"""
-Author : Byunghyun Ban
-Last Modification : 2018.12.24.
-"""
 import time
 import random
 import os

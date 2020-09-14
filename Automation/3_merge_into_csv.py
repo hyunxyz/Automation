@@ -1,8 +1,3 @@
-"""
-Author : Byunghyun Ban
-Last Modification : 2018.12.27.
-"""
-
 import os
 
 directory = "personal_info/"

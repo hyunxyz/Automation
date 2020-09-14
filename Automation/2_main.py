@@ -1,8 +1,3 @@
-"""
-Author : Byunghyun Ban
-Last Modification : 2018.12.24.
-"""
-
 import os
 
 directory = "personal_info/"         #합칠 파일들이 든 폴더 /: 파일경로표시 (A/B; A폴더 내 B파일들)
@@ -38,4 +33,3 @@ out_file.close()                      #out_file 닫기
 #(3) personal_info에 있는 파일을 하나씩 실행해서
 #(4) 내용물을 out_file에 베껴 적는다.
 #(5) 모든 파일에 대해서 위 작업이 끝나면 out_file을 저장한다.
-
