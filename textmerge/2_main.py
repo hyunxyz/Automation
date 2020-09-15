@@ -22,6 +22,7 @@ for filename in files:                #반복 + os.listdir()로 불러왔던 fil
     file.close()                      #불러온 file 닫기
 out_file.close()                      #out_file 닫기
 
+
 #(1) personal_info에 어떤 파일들이 있는지 확인하고
 #(2) out_file을 하나 만든 다음
 #(3) personal_info에 있는 파일을 하나씩 불러와
