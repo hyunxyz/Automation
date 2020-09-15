@@ -5,7 +5,7 @@ import os
 ALPHABET_SAMPLES = "abcdefghijklmnopqrstuvwxyz"
 
 # number of samples
-NUM_SAMPLES = 200
+NUM_SAMPLES = 100
 
 # a function to generate random string
 def random_string(length): #def라는 함수 생성  #이름: random_string #함수에 length녀석을 입력
